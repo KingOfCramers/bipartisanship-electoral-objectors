@@ -1,4 +1,3 @@
-import "./config.ts";
 import { setupPuppeteer } from "./fetch/puppeteer";
 import { Page } from "puppeteer";
 import fs from "fs";
@@ -8,6 +7,10 @@ import { houseLawmakers } from "./houseLawmakers";
 import { getLawmakers } from "./getLawmakers";
 
 const writer = util.promisify(fs.writeFile);
+
+const chamber = "house";
+const headless = true;
+const executablePath = "/usr/local/bin/chromium";
 
 export type Lawmaker = {
   first: string;
@@ -72,7 +75,7 @@ const extractCosponsors = async (page: Page) => {
 
 type Chamber = "senate" | "house";
 async function execute(chamber: Chamber) {
-  const { browser } = await setupPuppeteer(true);
+  const { browser } = await setupPuppeteer(headless, executablePath);
   const page = await browser.newPage();
   const startingLink =
     chamber === "senate"
@@ -199,4 +202,4 @@ async function execute(chamber: Chamber) {
   }
 }
 
-execute("house");
+execute(chamber);
