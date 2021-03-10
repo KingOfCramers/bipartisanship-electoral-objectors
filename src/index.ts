@@ -8,7 +8,6 @@ import { getLawmakers } from "./getLawmakers";
 
 const writer = util.promisify(fs.writeFile);
 
-/
 const chamber = "house";
 const headless = true;
 const executablePath = "/usr/local/bin/chromium";
