@@ -1,8 +1,12 @@
-# Bipartisanship Rates among Electoral Objectors
+# 🏛️ Bipartisanship Rates among Electoral Objectors
 
 This is the source code for an analysis of bipartisanship rates among Republican lawmakers who objected to the 2020 election results produced for National Journal.
 
 ## Installation
+
+This program runs using Node.js, please [install](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) the `npm` package management library for it to work. 
+
+Then navigate into the directory and run:
 
 `npm install` or `yarn install`
 
