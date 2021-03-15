@@ -4,6 +4,7 @@ This is the source code for an analysis of bipartisanship rates among Republican
 
 ## Installation
 
+This program runs using Node.js, please [install](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) the `npm` package management library for it to work. 
 `npm install` or `yarn install`
 
 ## Run
