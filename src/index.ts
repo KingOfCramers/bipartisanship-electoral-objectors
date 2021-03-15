@@ -165,7 +165,7 @@ async function execute(chamber: Chamber) {
     "utf-8"
   );
   const lawmakersPromise = writer(
-    `./individualized${chamber.toUpperCase()}`,
+    `./individualized${chamber.toUpperCase()}.json`,
     JSON.stringify(lawmakers, null, 2),
     "utf-8"
   );

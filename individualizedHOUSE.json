@@ -1,0 +1,1253 @@
+[
+  {
+    "first": "Robert",
+    "last": "Aderholt",
+    "state": "AL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Mike",
+    "last": "Rogers",
+    "state": "AL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Mo",
+    "last": "Brooks",
+    "state": "AL",
+    "billCount": 4,
+    "gop": 64,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Gary",
+    "last": "Palmer",
+    "state": "AL",
+    "billCount": 3,
+    "gop": 7,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Felix",
+    "last": "Moore",
+    "state": "AL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Rick",
+    "last": "Crawford",
+    "state": "AR",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Paul",
+    "last": "Gosar",
+    "state": "AZ",
+    "billCount": 5,
+    "gop": 66,
+    "indie": 0,
+    "dem": 12
+  },
+  {
+    "first": "Andy",
+    "last": "Biggs",
+    "state": "AZ",
+    "billCount": 35,
+    "gop": 81,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Debbie",
+    "last": "Lesko",
+    "state": "AZ",
+    "billCount": 8,
+    "gop": 59,
+    "indie": 0,
+    "dem": 5
+  },
+  {
+    "first": "Ken",
+    "last": "Calvert",
+    "state": "CA",
+    "billCount": 14,
+    "gop": 41,
+    "indie": 0,
+    "dem": 12
+  },
+  {
+    "first": "Darrell",
+    "last": "Issa",
+    "state": "CA",
+    "billCount": 1,
+    "gop": 1,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Devin",
+    "last": "Nunes",
+    "state": "CA",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Kevin",
+    "last": "McCarthy",
+    "state": "CA",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Doug",
+    "last": "LaMalfa",
+    "state": "CA",
+    "billCount": 4,
+    "gop": 4,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Mike",
+    "last": "Garcia",
+    "state": "CA",
+    "billCount": 2,
+    "gop": 12,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Jay",
+    "last": "Obernolte",
+    "state": "CA",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Doug",
+    "last": "Lamborn",
+    "state": "CO",
+    "billCount": 3,
+    "gop": 116,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Lauren",
+    "last": "Boebert",
+    "state": "CO",
+    "billCount": 8,
+    "gop": 89,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Mario",
+    "last": "Diaz-Balart",
+    "state": "FL",
+    "billCount": 3,
+    "gop": 5,
+    "indie": 0,
+    "dem": 4
+  },
+  {
+    "first": "Bill",
+    "last": "Posey",
+    "state": "FL",
+    "billCount": 21,
+    "gop": 12,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Daniel",
+    "last": "Webster",
+    "state": "FL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Matt",
+    "last": "Gaetz",
+    "state": "FL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Neal",
+    "last": "Dunn",
+    "state": "FL",
+    "billCount": 1,
+    "gop": 1,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "John",
+    "last": "Rutherford",
+    "state": "FL",
+    "billCount": 1,
+    "gop": 10,
+    "indie": 0,
+    "dem": 9
+  },
+  {
+    "first": "Brian",
+    "last": "Mast",
+    "state": "FL",
+    "billCount": 3,
+    "gop": 28,
+    "indie": 0,
+    "dem": 5
+  },
+  {
+    "first": "Gregory",
+    "last": "Steube",
+    "state": "FL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Katherine",
+    "last": "Cammack",
+    "state": "FL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Scott",
+    "last": "Franklin",
+    "state": "FL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Byron",
+    "last": "Donalds",
+    "state": "FL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Carlos",
+    "last": "Giménez",
+    "state": "FL",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Buddy",
+    "last": "Carter",
+    "state": "GA",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Jody",
+    "last": "Hice",
+    "state": "GA",
+    "billCount": 2,
+    "gop": 77,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Barry",
+    "last": "Loudermilk",
+    "state": "GA",
+    "billCount": 2,
+    "gop": 17,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Rick",
+    "last": "Allen",
+    "state": "GA",
+    "billCount": 4,
+    "gop": 2,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Andrew",
+    "last": "Clyde",
+    "state": "GA",
+    "billCount": 1,
+    "gop": 13,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Marjorie",
+    "last": "Greene",
+    "state": "GA",
+    "billCount": 4,
+    "gop": 20,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Russ",
+    "last": "Fulcher",
+    "state": "ID",
+    "billCount": 1,
+    "gop": 10,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Mike",
+    "last": "Bost",
+    "state": "IL",
+    "billCount": 8,
+    "gop": 4,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Mary",
+    "last": "Miller",
+    "state": "IL",
+    "billCount": 1,
+    "gop": 23,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Jackie",
+    "last": "Walorski",
+    "state": "IN",
+    "billCount": 2,
+    "gop": 47,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Jim",
+    "last": "Banks",
+    "state": "IN",
+    "billCount": 13,
+    "gop": 130,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "James",
+    "last": "Baird",
+    "state": "IN",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Ron",
+    "last": "Estes",
+    "state": "KS",
+    "billCount": 1,
+    "gop": 39,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Tracey",
+    "last": "Mann",
+    "state": "KS",
+    "billCount": 10,
+    "gop": 100,
+    "indie": 0,
+    "dem": 19
+  },
+  {
+    "first": "Hal",
+    "last": "Rogers",
+    "state": "KY",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Steve",
+    "last": "Scalise",
+    "state": "LA",
+    "billCount": 4,
+    "gop": 21,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Clay",
+    "last": "Higgins",
+    "state": "LA",
+    "billCount": 5,
+    "gop": 0,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Mike",
+    "last": "Johnson",
+    "state": "LA",
+    "billCount": 2,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Andy",
+    "last": "Harris",
+    "state": "MD",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Tim",
+    "last": "Walberg",
+    "state": "MI",
+    "billCount": 4,
+    "gop": 2,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Jack",
+    "last": "Bergman",
+    "state": "MI",
+    "billCount": 5,
+    "gop": 18,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Lisa",
+    "last": "McClain",
+    "state": "MI",
+    "billCount": 2,
+    "gop": 16,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Jim",
+    "last": "Hagedorn",
+    "state": "MN",
+    "billCount": 2,
+    "gop": 67,
+    "indie": 0,
+    "dem": 4
+  },
+  {
+    "first": "Michelle",
+    "last": "Fischbach",
+    "state": "MN",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Sam",
+    "last": "Graves",
+    "state": "MO",
+    "billCount": 2,
+    "gop": 4,
+    "indie": 0,
+    "dem": 4
+  },
+  {
+    "first": "Blaine",
+    "last": "Luetkemeyer",
+    "state": "MO",
+    "billCount": 5,
+    "gop": 67,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Vicky",
+    "last": "Hartzler",
+    "state": "MO",
+    "billCount": 2,
+    "gop": 125,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Billy",
+    "last": "Long",
+    "state": "MO",
+    "billCount": 3,
+    "gop": 2,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Jason",
+    "last": "Smith",
+    "state": "MO",
+    "billCount": 7,
+    "gop": 326,
+    "indie": 0,
+    "dem": 3
+  },
+  {
+    "first": "Steven",
+    "last": "Palazzo",
+    "state": "MS",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Trent",
+    "last": "Kelly",
+    "state": "MS",
+    "billCount": 8,
+    "gop": 55,
+    "indie": 0,
+    "dem": 52
+  },
+  {
+    "first": "Michael",
+    "last": "Guest",
+    "state": "MS",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Matthew",
+    "last": "Rosendale",
+    "state": "",
+    "billCount": 5,
+    "gop": 53,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Richard",
+    "last": "Hudson",
+    "state": "NC",
+    "billCount": 13,
+    "gop": 178,
+    "indie": 0,
+    "dem": 6
+  },
+  {
+    "first": "David",
+    "last": "Rouzer",
+    "state": "NC",
+    "billCount": 1,
+    "gop": 1,
+    "indie": 0,
+    "dem": 3
+  },
+  {
+    "first": "Ted",
+    "last": "Budd",
+    "state": "NC",
+    "billCount": 18,
+    "gop": 133,
+    "indie": 0,
+    "dem": 3
+  },
+  {
+    "first": "Dan",
+    "last": "Bishop",
+    "state": "NC",
+    "billCount": 4,
+    "gop": 26,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "David",
+    "last": "Cawthorn",
+    "state": "NC",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Adrian",
+    "last": "Smith",
+    "state": "NE",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Jefferson",
+    "last": "Van",
+    "state": "w",
+    "billCount": 6,
+    "gop": 11,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Stella",
+    "last": "Herrell",
+    "state": "NM",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Lee",
+    "last": "Zeldin",
+    "state": "NY",
+    "billCount": 5,
+    "gop": 31,
+    "indie": 0,
+    "dem": 16
+  },
+  {
+    "first": "Chris",
+    "last": "Jacobs",
+    "state": "NY",
+    "billCount": 3,
+    "gop": 1,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Nicole",
+    "last": "Malliotakis",
+    "state": "NY",
+    "billCount": 5,
+    "gop": 6,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Jim",
+    "last": "Jordan",
+    "state": "OH",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Bill",
+    "last": "Johnson",
+    "state": "OH",
+    "billCount": 3,
+    "gop": 2,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Bob",
+    "last": "Gibbs",
+    "state": "OH",
+    "billCount": 6,
+    "gop": 34,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Warren",
+    "last": "Davidson",
+    "state": "OH",
+    "billCount": 3,
+    "gop": 19,
+    "indie": 0,
+    "dem": 6
+  },
+  {
+    "first": "Tom",
+    "last": "Cole",
+    "state": "OK",
+    "billCount": 1,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Frank",
+    "last": "Lucas",
+    "state": "OK",
+    "billCount": 2,
+    "gop": 10,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Markwayne",
+    "last": "Mullin",
+    "state": "OK",
+    "billCount": 4,
+    "gop": 60,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Kevin",
+    "last": "Hern",
+    "state": "OK",
+    "billCount": 4,
+    "gop": 5,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Stephanie",
+    "last": "Bice",
+    "state": "OK",
+    "billCount": 1,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Mike",
+    "last": "Kelly",
+    "state": "PA",
+    "billCount": 2,
+    "gop": 51,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Scott",
+    "last": "Perry",
+    "state": "PA",
+    "billCount": 9,
+    "gop": 35,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "John",
+    "last": "Joyce",
+    "state": "PA",
+    "billCount": 1,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Guy",
+    "last": "Reschenthaler",
+    "state": "PA",
+    "billCount": 5,
+    "gop": 23,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Joe",
+    "last": "Wilson",
+    "state": "SC",
+    "billCount": 6,
+    "gop": 135,
+    "indie": 0,
+    "dem": 10
+  },
+  {
+    "first": "Jeff",
+    "last": "Duncan",
+    "state": "SC",
+    "billCount": 18,
+    "gop": 210,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Tom",
+    "last": "Rice",
+    "state": "SC",
+    "billCount": 4,
+    "gop": 39,
+    "indie": 0,
+    "dem": 19
+  },
+  {
+    "first": "William",
+    "last": "Timmons",
+    "state": "SC",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Chuck",
+    "last": "Fleischmann",
+    "state": "TN",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Scott",
+    "last": "DesJarlais",
+    "state": "TN",
+    "billCount": 3,
+    "gop": 7,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Tim",
+    "last": "Burchett",
+    "state": "TN",
+    "billCount": 7,
+    "gop": 12,
+    "indie": 0,
+    "dem": 6
+  },
+  {
+    "first": "John",
+    "last": "Rose",
+    "state": "TN",
+    "billCount": 3,
+    "gop": 13,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Mark",
+    "last": "Green",
+    "state": "TN",
+    "billCount": 9,
+    "gop": 0,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Diana",
+    "last": "Harshbarger",
+    "state": "TN",
+    "billCount": 1,
+    "gop": 1,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Michael",
+    "last": "Burgess",
+    "state": "TX",
+    "billCount": 15,
+    "gop": 23,
+    "indie": 0,
+    "dem": 3
+  },
+  {
+    "first": "John",
+    "last": "Carter",
+    "state": "TX",
+    "billCount": 2,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Pete",
+    "last": "Sessions",
+    "state": "TX",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Randy",
+    "last": "Weber",
+    "state": "TX",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Roger",
+    "last": "Williams",
+    "state": "TX",
+    "billCount": 1,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Brian",
+    "last": "Babin",
+    "state": "TX",
+    "billCount": 3,
+    "gop": 152,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Jodey",
+    "last": "Arrington",
+    "state": "TX",
+    "billCount": 10,
+    "gop": 77,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Michael",
+    "last": "Cloud",
+    "state": "TX",
+    "billCount": 7,
+    "gop": 181,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Lance",
+    "last": "Gooden",
+    "state": "TX",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Ron",
+    "last": "Wright",
+    "state": "TX",
+    "billCount": 2,
+    "gop": 23,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Patrick",
+    "last": "Fallon",
+    "state": "TX",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "August",
+    "last": "Pfluger",
+    "state": "",
+    "billCount": 4,
+    "gop": 51,
+    "indie": 0,
+    "dem": 8
+  },
+  {
+    "first": "Ronny",
+    "last": "Jackson",
+    "state": "TX",
+    "billCount": 2,
+    "gop": 23,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Troy",
+    "last": "Nehls",
+    "state": "TX",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Morgan",
+    "last": "Griffith",
+    "state": "VA",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Ben",
+    "last": "Cline",
+    "state": "VA",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Robert",
+    "last": "Good",
+    "state": "VA",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Thomas",
+    "last": "Tiffany",
+    "state": "WI",
+    "billCount": 3,
+    "gop": 10,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Scott",
+    "last": "Fitzgerald",
+    "state": "WI",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Carol",
+    "last": "Miller",
+    "state": "WV",
+    "billCount": 4,
+    "gop": 23,
+    "indie": 0,
+    "dem": 4
+  },
+  {
+    "first": "David",
+    "last": "Schweikert",
+    "state": "AZ",
+    "billCount": 4,
+    "gop": 3,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Greg",
+    "last": "Pence",
+    "state": "IN",
+    "billCount": 3,
+    "gop": 1,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Jacob",
+    "last": "LaTurner",
+    "state": "KS",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Garret",
+    "last": "Graves",
+    "state": "LA",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Virginia",
+    "last": "Foxx",
+    "state": "NC",
+    "billCount": 4,
+    "gop": 154,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Gregory",
+    "last": "Murphy",
+    "state": "NC",
+    "billCount": 4,
+    "gop": 52,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Elise",
+    "last": "Stefanik",
+    "state": "NY",
+    "billCount": 10,
+    "gop": 212,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Steve",
+    "last": "Chabot",
+    "state": "OH",
+    "billCount": 2,
+    "gop": 39,
+    "indie": 0,
+    "dem": 3
+  },
+  {
+    "first": "Cliff",
+    "last": "Bentz",
+    "state": "OR",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Glenn",
+    "last": "Thompson",
+    "state": "PA",
+    "billCount": 1,
+    "gop": 0,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Lloyd",
+    "last": "Smucker",
+    "state": "PA",
+    "billCount": 5,
+    "gop": 19,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "Daniel",
+    "last": "Meuser",
+    "state": "PA",
+    "billCount": 2,
+    "gop": 6,
+    "indie": 0,
+    "dem": 9
+  },
+  {
+    "first": "Fred",
+    "last": "Keller",
+    "state": "PA",
+    "billCount": 3,
+    "gop": 10,
+    "indie": 0,
+    "dem": 1
+  },
+  {
+    "first": "David",
+    "last": "Kustoff",
+    "state": "TN",
+    "billCount": 3,
+    "gop": 8,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Beth",
+    "last": "Van",
+    "state": "ne",
+    "billCount": 1,
+    "gop": 5,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Chris",
+    "last": "Stewart",
+    "state": "UT",
+    "billCount": 7,
+    "gop": 38,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Clarence",
+    "last": "Owens",
+    "state": "UT",
+    "billCount": 0,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Robert",
+    "last": "Wittman",
+    "state": "VA",
+    "billCount": 13,
+    "gop": 4,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Alex",
+    "last": "Mooney",
+    "state": "WV",
+    "billCount": 2,
+    "gop": 100,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Jerry",
+    "last": "Carl",
+    "state": "AL",
+    "billCount": 1,
+    "gop": 0,
+    "indie": 0,
+    "dem": 0
+  },
+  {
+    "first": "Ralph",
+    "last": "Norman",
+    "state": "SC",
+    "billCount": 5,
+    "gop": 224,
+    "indie": 0,
+    "dem": 2
+  },
+  {
+    "first": "Louie",
+    "last": "Gohmert",
+    "state": "TX",
+    "billCount": 10,
+    "gop": 15,
+    "indie": 0,
+    "dem": 0
+  }
+]

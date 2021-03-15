@@ -1,0 +1,2410 @@
+[
+  {
+    "sponsor": {
+      "first": "Richard",
+      "last": "Hudson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/38/cosponsors?s=10&r=9&overview=closed#tabs",
+    "title": "H.R.38 - Concealed Carry Reciprocity Act",
+    "cosponsors": [
+      "Rep. Allen, Rick W. [R-GA-12]*",
+      "Rep. Babin, Brian [R-TX-36]*",
+      "Rep. Balderson, Troy [R-OH-12]*",
+      "Rep. Barr, Andy [R-KY-6]*",
+      "Rep. Bishop, Dan [R-NC-9]*",
+      "Rep. Boebert, Lauren [R-CO-3]*",
+      "Rep. Brooks, Mo [R-AL-5]*",
+      "Rep. Budd, Ted [R-NC-13]*",
+      "Rep. Calvert, Ken [R-CA-42]*",
+      "Rep. Chabot, Steve [R-OH-1]*",
+      "Rep. Cline, Ben [R-VA-6]*",
+      "Rep. Cloud, Michael [R-TX-27]*",
+      "Rep. Davidson, Warren [R-OH-8]*",
+      "Rep. Duncan, Jeff [R-SC-3]*",
+      "Rep. Fulcher, Russ [R-ID-1]*",
+      "Rep. Ferguson, A. Drew, IV [R-GA-3]*",
+      "Rep. Gaetz, Matt [R-FL-1]*",
+      "Rep. Gosar, Paul A. [R-AZ-4]*",
+      "Rep. Greene, Marjorie Taylor [R-GA-14]*",
+      "Rep. Grothman, Glenn [R-WI-6]*",
+      "Rep. Higgins, Clay [R-LA-3]*",
+      "Rep. Hill, J. French [R-AR-2]*",
+      "Rep. Johnson, Bill [R-OH-6]*",
+      "Rep. Joyce, John [R-PA-13]*",
+      "Rep. Kelly, Mike [R-PA-16]*",
+      "Rep. Kinzinger, Adam [R-IL-16]*",
+      "Rep. LaMalfa, Doug [R-CA-1]*",
+      "Rep. Lamborn, Doug [R-CO-5]*",
+      "Rep. Long, Billy [R-MO-7]*",
+      "Rep. Mooney, Alexander X. [R-WV-2]*",
+      "Rep. Mullin, Markwayne [R-OK-2]*",
+      "Rep. Nehls, Troy E. [R-TX-22]*",
+      "Rep. Norman, Ralph [R-SC-5]*",
+      "Rep. Palazzo, Steven M. [R-MS-4]*",
+      "Rep. Palmer, Gary J. [R-AL-6]*",
+      "Rep. Posey, Bill [R-FL-8]*",
+      "Rep. Reschenthaler, Guy [R-PA-14]*",
+      "Rep. Rouzer, David [R-NC-7]*",
+      "Rep. Rutherford, John H. [R-FL-4]*",
+      "Rep. Steube, W. Gregory [R-FL-17]*",
+      "Rep. Taylor, Van [R-TX-3]*",
+      "Rep. Wagner, Ann [R-MO-2]*",
+      "Rep. Waltz, Michael [R-FL-6]*",
+      "Rep. Weber, Randy K., Sr. [R-TX-14]*",
+      "Rep. Zeldin, Lee M. [R-NY-1]*",
+      "Rep. Crenshaw, Dan [R-TX-2]*",
+      "Rep. Rice, Tom [R-SC-7]*",
+      "Rep. Gooden, Lance [R-TX-5]*",
+      "Rep. Bucshon, Larry [R-IN-8]*",
+      "Rep. Wittman, Robert J. [R-VA-1]*",
+      "Rep. Biggs, Andy [R-AZ-5]*",
+      "Rep. Stefanik, Elise M. [R-NY-21]*",
+      "Rep. Meuser, Daniel [R-PA-9]*",
+      "Rep. Armstrong, Kelly [R-ND-At Large]*",
+      "Rep. Womack, Steve [R-AR-3]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Lesko, Debbie [R-AZ-8]*",
+      "Rep. Simpson, Michael K. [R-ID-2]*",
+      "Rep. Walberg, Tim [R-MI-7]*",
+      "Rep. McKinley, David B. [R-WV-1]*",
+      "Rep. Gonzalez, Anthony [R-OH-16]*",
+      "Rep. Stivers, Steve [R-OH-15]*",
+      "Rep. Cole, Tom [R-OK-4]*",
+      "Rep. Hagedorn, Jim [R-MN-1]*",
+      "Rep. Kustoff, David [R-TN-8]*",
+      "Rep. Banks, Jim [R-IN-3]*",
+      "Rep. Garcia, Mike [R-CA-25]*",
+      "Rep. Hern, Kevin [R-OK-1]*",
+      "Rep. Newhouse, Dan [R-WA-4]*",
+      "Rep. Brady, Kevin [R-TX-8]*",
+      "Rep. Huizenga, Bill [R-MI-2]*",
+      "Rep. Scott, Austin [R-GA-8]*",
+      "Rep. Buchanan, Vern [R-FL-16]*",
+      "Rep. Green, Mark E. [R-TN-7]*",
+      "Rep. Smith, Jason [R-MO-8]*",
+      "Rep. Stewart, Chris [R-UT-2]*",
+      "Rep. Timmons, William R. IV [R-SC-4]*",
+      "Rep. Emmer, Tom [R-MN-6]*",
+      "Rep. Westerman, Bruce [R-AR-4]*",
+      "Rep. Murphy, Gregory [R-NC-3]*",
+      "Rep. Wright, Ron [R-TX-6]*",
+      "Rep. Herrera Beutler, Jaime [R-WA-3]*",
+      "Rep. Schweikert, David [R-AZ-6]*",
+      "Rep. Williams, Roger [R-TX-25]*",
+      "Rep. Bergman, Jack [R-MI-1]*",
+      "Rep. Latta, Robert E. [R-OH-5]*",
+      "Rep. Walorski, Jackie [R-IN-2]*",
+      "Rep. Jacobs, Chris [R-NY-27]*",
+      "Rep. Burchett, Tim [R-TN-2]*",
+      "Rep. Estes, Ron [R-KS-4]*",
+      "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]*",
+      "Rep. Wenstrup, Brad R. [R-OH-2]*",
+      "Rep. Comer, James [R-KY-1]*",
+      "Rep. Roy, Chip [R-TX-21]*",
+      "Rep. Hice, Jody B. [R-GA-10]*",
+      "Rep. Moore, Barry [R-AL-2]*",
+      "Rep. DesJarlais, Scott [R-TN-4]*",
+      "Rep. Thompson, Glenn [R-PA-15]*",
+      "Rep. Luetkemeyer, Blaine [R-MO-3]*",
+      "Rep. Amodei, Mark E. [R-NV-2]*",
+      "Rep. Rogers, Mike D. [R-AL-3]*",
+      "Rep. Smucker, Lloyd [R-PA-11]*",
+      "Rep. Mast, Brian J. [R-FL-18]*",
+      "Rep. Loudermilk, Barry [R-GA-11]*",
+      "Rep. Stauber, Pete [R-MN-8]*",
+      "Rep. Guest, Michael [R-MS-3]*",
+      "Rep. McHenry, Patrick T. [R-NC-10]*",
+      "Rep. Cawthorn, Madison [R-NC-11]*",
+      "Rep. Dunn, Neal P. [R-FL-2]*",
+      "Rep. Gibbs, Bob [R-OH-7]*",
+      "Rep. Spartz, Victoria [R-IN-5]*",
+      "Rep. Hartzler, Vicky [R-MO-4]*",
+      "Rep. Jackson, Ronny [R-TX-13]*",
+      "Rep. Harris, Andy [R-MD-1]*",
+      "Rep. Upton, Fred [R-MI-6]*",
+      "Rep. Gohmert, Louie [R-TX-1]*",
+      "Rep. Baird, James R. [R-IN-4]*",
+      "Rep. Smith, Adrian [R-NE-3]*",
+      "Rep. Arrington, Jodey C. [R-TX-19]*",
+      "Rep. Johnson, Dusty [R-SD-At Large]*",
+      "Rep. Clyde, Andrew S. [R-GA-9]*",
+      "Rep. Carter, John R. [R-TX-31]*",
+      "Rep. Granger, Kay [R-TX-12]*",
+      "Rep. Jordan, Jim [R-OH-4]*",
+      "Rep. Johnson, Mike [R-LA-4]*",
+      "Rep. LaHood, Darin [R-IL-18]*",
+      "Rep. Bice, Stephanie I. [R-OK-5]*",
+      "Rep. Buck, Ken [R-CO-4]*",
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Perry, Scott [R-PA-10]*",
+      "Rep. Curtis, John R. [R-UT-3]*",
+      "Rep. Gonzalez, Vicente [D-TX-15]*",
+      "Rep. Davis, Rodney [R-IL-13]*",
+      "Rep. Scalise, Steve [R-LA-1]*",
+      "Rep. Rose, John W. [R-TN-6]*",
+      "Rep. Bishop, Sanford D., Jr. [D-GA-2]*",
+      "Rep. Tiffany, Thomas P. [R-WI-7]*",
+      "Rep. Graves, Sam [R-MO-6]*",
+      "Rep. McClintock, Tom [R-CA-4]*",
+      "Rep. Cheney, Liz [R-WY-At Large]*",
+      "Rep. Pfluger, August [R-TX-11]*",
+      "Rep. Cammack, Kat [R-FL-3]*",
+      "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]*",
+      "Rep. Burgess, Michael C. [R-TX-26]*",
+      "Rep. Webster, Daniel [R-FL-11]*",
+      "Rep. Rogers, Harold [R-KY-5]*",
+      "Rep. Aderholt, Robert B. [R-AL-4]*",
+      "Rep. Steil, Bryan [R-WI-1]*",
+      "Rep. Fallon, Pat [R-TX-4]*",
+      "Rep. Reed, Tom [R-NY-23]*",
+      "Rep. Moore, Blake D. [R-UT-1]*",
+      "Rep. Guthrie, Brett [R-KY-2]*",
+      "Rep. Mace, Nancy [R-SC-1]*",
+      "Rep. Kelly, Trent [R-MS-1]*",
+      "Rep. Good, Bob [R-VA-5]",
+      "Rep. Carl, Jerry L. [R-AL-1]",
+      "Rep. Joyce, David P. [R-OH-14]",
+      "Rep. Miller, Mary E. [R-IL-15]",
+      "Rep. Fischbach, Michelle [R-MN-7]",
+      "Rep. Harshbarger, Diana [R-TN-1]",
+      "Rep. Feenstra, Randy [R-IA-4]",
+      "Rep. Franklin, C. Scott [R-FL-15]",
+      "Rep. Herrell, Yvette [R-NM-2]",
+      "Rep. Valadao, David G. [R-CA-21]",
+      "Rep. Lucas, Frank D. [R-OK-3]",
+      "Rep. Issa, Darrell E. [R-CA-50]",
+      "Rep. Moolenaar, John R. [R-MI-4]",
+      "Rep. Hinson, Ashley [R-IA-1]",
+      "Rep. Gonzales, Tony [R-TX-23]",
+      "Rep. Wilson, Joe [R-SC-2]",
+      "Rep. Katko, John [R-NY-24]",
+      "Rep. Keller, Fred [R-PA-12]",
+      "Rep. Young, Don [R-AK-At Large]",
+      "Rep. LaTurner, Jake [R-KS-2]",
+      "Rep. Obernolte, Jay [R-CA-8]",
+      "Rep. Owens, Burgess [R-UT-4]",
+      "Rep. Mann, Tracey [R-KS-1]",
+      "Rep. Miller, Carol D. [R-WV-3]",
+      "Rep. Turner, Michael R. [R-OH-10]"
+    ],
+    "dem": 3,
+    "gop": 176,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Jason",
+      "last": "Smith"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1712/cosponsors?s=7&r=2&overview=closed#tabs",
+    "title": "H.R.1712 - To amend the Internal Revenue Code of 1986 to repeal the estate and generation-skipping transfer taxes.",
+    "cosponsors": [
+      "Rep. Bishop, Sanford D., Jr. [D-GA-2]*",
+      "Rep. Taylor, Van [R-TX-3]*",
+      "Rep. Biggs, Andy [R-AZ-5]*",
+      "Rep. Steube, W. Gregory [R-FL-17]*",
+      "Rep. DesJarlais, Scott [R-TN-4]*",
+      "Rep. Allen, Rick W. [R-GA-12]*",
+      "Rep. Kelly, Mike [R-PA-16]*",
+      "Rep. Norman, Ralph [R-SC-5]*",
+      "Rep. Burchett, Tim [R-TN-2]*",
+      "Rep. Duncan, Jeff [R-SC-3]*",
+      "Rep. Joyce, John [R-PA-13]*",
+      "Rep. Westerman, Bruce [R-AR-4]*",
+      "Rep. Thompson, Glenn [R-PA-15]*",
+      "Rep. Perry, Scott [R-PA-10]*",
+      "Rep. Banks, Jim [R-IN-3]*",
+      "Rep. Kelly, Trent [R-MS-1]*",
+      "Rep. Calvert, Ken [R-CA-42]*",
+      "Rep. Bishop, Dan [R-NC-9]*",
+      "Rep. Kinzinger, Adam [R-IL-16]*",
+      "Rep. Higgins, Clay [R-LA-3]*",
+      "Rep. Palmer, Gary J. [R-AL-6]*",
+      "Rep. Cline, Ben [R-VA-6]*",
+      "Rep. Walorski, Jackie [R-IN-2]*",
+      "Rep. Davis, Rodney [R-IL-13]*",
+      "Rep. Long, Billy [R-MO-7]*",
+      "Rep. Gibbs, Bob [R-OH-7]*",
+      "Rep. Graves, Sam [R-MO-6]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Guest, Michael [R-MS-3]*",
+      "Rep. Young, Don [R-AK-At Large]*",
+      "Rep. Stivers, Steve [R-OH-15]*",
+      "Rep. Keller, Fred [R-PA-12]*",
+      "Rep. Arrington, Jodey C. [R-TX-19]*",
+      "Rep. Kustoff, David [R-TN-8]*",
+      "Rep. Lesko, Debbie [R-AZ-8]*",
+      "Rep. Miller, Carol D. [R-WV-3]*",
+      "Rep. Comer, James [R-KY-1]*",
+      "Rep. Foxx, Virginia [R-NC-5]*",
+      "Rep. Roy, Chip [R-TX-21]*",
+      "Rep. Wilson, Joe [R-SC-2]*",
+      "Rep. Luetkemeyer, Blaine [R-MO-3]*",
+      "Rep. Wittman, Robert J. [R-VA-1]*",
+      "Rep. Reschenthaler, Guy [R-PA-14]*",
+      "Rep. Johnson, Mike [R-LA-4]*",
+      "Rep. Katko, John [R-NY-24]*",
+      "Rep. Jackson, Ronny [R-TX-13]*",
+      "Rep. Mast, Brian J. [R-FL-18]*",
+      "Rep. Barr, Andy [R-KY-6]*",
+      "Rep. Guthrie, Brett [R-KY-2]*",
+      "Rep. Hinson, Ashley [R-IA-1]*",
+      "Rep. Davidson, Warren [R-OH-8]*",
+      "Rep. LaHood, Darin [R-IL-18]*",
+      "Rep. Fulcher, Russ [R-ID-1]*",
+      "Rep. Bost, Mike [R-IL-12]*",
+      "Rep. Rouzer, David [R-NC-7]*",
+      "Rep. Harris, Andy [R-MD-1]*",
+      "Rep. Hice, Jody B. [R-GA-10]*",
+      "Rep. Budd, Ted [R-NC-13]*",
+      "Rep. Bilirakis, Gus M. [R-FL-12]*",
+      "Rep. Feenstra, Randy [R-IA-4]*",
+      "Rep. Emmer, Tom [R-MN-6]*",
+      "Rep. Cloud, Michael [R-TX-27]*",
+      "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]*",
+      "Rep. Smith, Adrian [R-NE-3]*",
+      "Rep. Pence, Greg [R-IN-6]*",
+      "Rep. McClintock, Tom [R-CA-4]*",
+      "Rep. Baird, James R. [R-IN-4]*",
+      "Rep. Newhouse, Dan [R-WA-4]*",
+      "Rep. Hill, J. French [R-AR-2]*",
+      "Rep. Rosendale Sr., Matthew M. [R-MT-At Large]*",
+      "Rep. Latta, Robert E. [R-OH-5]*",
+      "Rep. Sessions, Pete [R-TX-17]*",
+      "Rep. Mann, Tracey [R-KS-1]*",
+      "Rep. Steel, Michelle [R-CA-48]*",
+      "Rep. Herrell, Yvette [R-NM-2]*",
+      "Rep. Steil, Bryan [R-WI-1]*",
+      "Rep. Gosar, Paul A. [R-AZ-4]*",
+      "Rep. Wagner, Ann [R-MO-2]*",
+      "Rep. Hern, Kevin [R-OK-1]*",
+      "Rep. Huizenga, Bill [R-MI-2]*",
+      "Rep. Armstrong, Kelly [R-ND-At Large]*",
+      "Rep. McMorris Rodgers, Cathy [R-WA-5]*",
+      "Rep. Turner, Michael R. [R-OH-10]*",
+      "Rep. Carl, Jerry L. [R-AL-1]*",
+      "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]*",
+      "Rep. Stauber, Pete [R-MN-8]*",
+      "Rep. Owens, Burgess [R-UT-4]*",
+      "Rep. Cawthorn, Madison [R-NC-11]*",
+      "Rep. Hagedorn, Jim [R-MN-1]*",
+      "Rep. Buck, Ken [R-CO-4]*",
+      "Rep. Gaetz, Matt [R-FL-1]*",
+      "Rep. Rogers, Mike D. [R-AL-3]*",
+      "Rep. Crenshaw, Dan [R-TX-2]*",
+      "Rep. McClain, Lisa C. [R-MI-10]*",
+      "Rep. Jordan, Jim [R-OH-4]*",
+      "Rep. Womack, Steve [R-AR-3]*",
+      "Rep. Pfluger, August [R-TX-11]*",
+      "Rep. Green, Mark E. [R-TN-7]*",
+      "Rep. Moore, Barry [R-AL-2]*",
+      "Rep. Valadao, David G. [R-CA-21]*",
+      "Rep. Smucker, Lloyd [R-PA-11]*",
+      "Rep. Harshbarger, Diana [R-TN-1]*",
+      "Rep. Garbarino, Andrew R. [R-NY-2]*",
+      "Rep. Tiffany, Thomas P. [R-WI-7]*",
+      "Rep. Scott, Austin [R-GA-8]*",
+      "Rep. Garcia, Mike [R-CA-25]*",
+      "Rep. Curtis, John R. [R-UT-3]*",
+      "Rep. Simpson, Michael K. [R-ID-2]*",
+      "Rep. Ferguson, A. Drew, IV [R-GA-3]*",
+      "Rep. Johnson, Bill [R-OH-6]*",
+      "Rep. Weber, Randy K., Sr. [R-TX-14]*",
+      "Rep. Nehls, Troy E. [R-TX-22]*",
+      "Rep. Bice, Stephanie I. [R-OK-5]*",
+      "Rep. Brooks, Mo [R-AL-5]*",
+      "Rep. Fitzgerald, Scott [R-WI-5]*",
+      "Rep. Nunes, Devin [R-CA-22]*",
+      "Rep. Rose, John W. [R-TN-6]*",
+      "Rep. Hartzler, Vicky [R-MO-4]*",
+      "Rep. McCaul, Michael T. [R-TX-10]*",
+      "Rep. Williams, Roger [R-TX-25]*",
+      "Rep. Balderson, Troy [R-OH-12]*"
+    ],
+    "dem": 1,
+    "gop": 120,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Trent",
+      "last": "Kelly"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+    "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+    "cosponsors": [
+      "Rep. Ryan, Tim [D-OH-13]*",
+      "Rep. Larsen, Rick [D-WA-2]*",
+      "Rep. Garamendi, John [D-CA-3]*",
+      "Rep. Wilson, Joe [R-SC-2]",
+      "Rep. Spanberger, Abigail Davis [D-VA-7]",
+      "Rep. Scott, Austin [R-GA-8]",
+      "Rep. Taylor, Van [R-TX-3]",
+      "Rep. Kuster, Ann M. [D-NH-2]",
+      "Rep. Duncan, Jeff [R-SC-3]",
+      "Rep. Waltz, Michael [R-FL-6]",
+      "Rep. Cole, Tom [R-OK-4]",
+      "Rep. Luria, Elaine G. [D-VA-2]",
+      "Rep. Haaland, Debra A. [D-NM-1]",
+      "Rep. Bacon, Don [R-NE-2]",
+      "Rep. Brown, Anthony G. [D-MD-4]",
+      "Rep. Escobar, Veronica [D-TX-16]",
+      "Rep. Mullin, Markwayne [R-OK-2]",
+      "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "Rep. Lucas, Frank D. [R-OK-3]",
+      "Rep. Yarmuth, John A. [D-KY-3]",
+      "Resident Commissioner Gonzalez-Colon, Jenniffer [R-PR-At Large]",
+      "Rep. Young, Don [R-AK-At Large]",
+      "Rep. Norman, Ralph [R-SC-5]",
+      "Rep. Luetkemeyer, Blaine [R-MO-3]",
+      "Rep. Napolitano, Grace F. [D-CA-32]",
+      "Rep. McKinley, David B. [R-WV-1]",
+      "Rep. Fortenberry, Jeff [R-NE-1]",
+      "Rep. Schrier, Kim [D-WA-8]",
+      "Rep. Cheney, Liz [R-WY-At Large]",
+      "Rep. Neguse, Joe [D-CO-2]",
+      "Rep. Wittman, Robert J. [R-VA-1]",
+      "Rep. Axne, Cynthia [D-IA-3]",
+      "Rep. Hastings, Alcee L. [D-FL-20]",
+      "Rep. Hern, Kevin [R-OK-1]",
+      "Rep. Turner, Michael R. [R-OH-10]",
+      "Rep. Delgado, Antonio [D-NY-19]",
+      "Rep. Hartzler, Vicky [R-MO-4]",
+      "Rep. Graves, Garret [R-LA-6]",
+      "Rep. Stauber, Pete [R-MN-8]",
+      "Rep. Rouzer, David [R-NC-7]",
+      "Rep. Gottheimer, Josh [D-NJ-5]",
+      "Rep. Rutherford, John H. [R-FL-4]",
+      "Rep. Curtis, John R. [R-UT-3]",
+      "Rep. Mast, Brian J. [R-FL-18]",
+      "Rep. Armstrong, Kelly [R-ND-At Large]",
+      "Rep. DesJarlais, Scott [R-TN-4]",
+      "Rep. Gaetz, Matt [R-FL-1]",
+      "Rep. Hill, J. French [R-AR-2]",
+      "Rep. Joyce, John [R-PA-13]",
+      "Rep. Craig, Angie [D-MN-2]",
+      "Rep. Guest, Michael [R-MS-3]",
+      "Rep. Westerman, Bruce [R-AR-4]",
+      "Rep. Latta, Robert E. [R-OH-5]",
+      "Rep. Stewart, Chris [R-UT-2]",
+      "Rep. Emmer, Tom [R-MN-6]",
+      "Rep. Golden, Jared F. [D-ME-2]",
+      "Rep. Allen, Rick W. [R-GA-12]",
+      "Rep. Calvert, Ken [R-CA-42]",
+      "Rep. Stivers, Steve [R-OH-15]",
+      "Rep. Murphy, Gregory [R-NC-3]",
+      "Rep. Graves, Sam [R-MO-6]",
+      "Rep. Posey, Bill [R-FL-8]",
+      "Rep. LaHood, Darin [R-IL-18]",
+      "Rep. Reschenthaler, Guy [R-PA-14]",
+      "Rep. McCollum, Betty [D-MN-4]",
+      "Rep. Pingree, Chellie [D-ME-1]",
+      "Rep. Courtney, Joe [D-CT-2]",
+      "Rep. Kaptur, Marcy [D-OH-9]",
+      "Rep. Kilmer, Derek [D-WA-6]",
+      "Rep. Pappas, Chris [D-NH-1]",
+      "Rep. Omar, Ilhan [D-MN-5]",
+      "Rep. Tonko, Paul [D-NY-20]",
+      "Rep. Kind, Ron [D-WI-3]",
+      "Rep. Lieu, Ted [D-CA-33]",
+      "Rep. Grijalva, Raul M. [D-AZ-3]",
+      "Rep. Himes, James A. [D-CT-4]",
+      "Rep. Welch, Peter [D-VT-At Large]",
+      "Rep. O'Halleran, Tom [D-AZ-1]",
+      "Rep. Pallone, Frank, Jr. [D-NJ-6]",
+      "Rep. Carson, Andre [D-IN-7]",
+      "Rep. Phillips, Dean [D-MN-3]",
+      "Rep. Pocan, Mark [D-WI-2]",
+      "Rep. Johnson, Henry C. \"Hank,\" Jr. [D-GA-4]",
+      "Rep. Crow, Jason [D-CO-6]",
+      "Rep. Case, Ed [D-HI-1]",
+      "Rep. Slotkin, Elissa [D-MI-8]",
+      "Rep. Perlmutter, Ed [D-CO-7]",
+      "Rep. Harder, Josh [D-CA-10]",
+      "Rep. Moore, Gwen [D-WI-4]",
+      "Rep. Kim, Andy [D-NJ-3]",
+      "Rep. DeLauro, Rosa L. [D-CT-3]",
+      "Rep. Larson, John B. [D-CT-1]"
+    ],
+    "dem": 47,
+    "gop": 45,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tracey",
+      "last": "Mann"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+    "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+    "cosponsors": [
+      "Rep. Langevin, James R. [D-RI-2]*",
+      "Rep. Wagner, Ann [R-MO-2]*",
+      "Rep. Newhouse, Dan [R-WA-4]*",
+      "Rep. Issa, Darrell E. [R-CA-50]*",
+      "Rep. Comer, James [R-KY-1]*",
+      "Rep. Thompson, Glenn [R-PA-15]*",
+      "Rep. McCaul, Michael T. [R-TX-10]*",
+      "Rep. Lucas, Frank D. [R-OK-3]*",
+      "Rep. Kelly, Mike [R-PA-16]*",
+      "Rep. Craig, Angie [D-MN-2]*",
+      "Rep. Pfluger, August [R-TX-11]*",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]*",
+      "Rep. Walorski, Jackie [R-IN-2]*",
+      "Rep. LaTurner, Jake [R-KS-2]*",
+      "Rep. O'Halleran, Tom [D-AZ-1]*",
+      "Rep. Herrell, Yvette [R-NM-2]*",
+      "Rep. Hayes, Jahana [D-CT-5]*",
+      "Rep. Hagedorn, Jim [R-MN-1]*",
+      "Rep. Costa, Jim [D-CA-16]*",
+      "Rep. Cloud, Michael [R-TX-27]*",
+      "Rep. Latta, Robert E. [R-OH-5]*",
+      "Rep. Bost, Mike [R-IL-12]*",
+      "Rep. Fischbach, Michelle [R-MN-7]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Emmer, Tom [R-MN-6]*",
+      "Rep. Jackson, Ronny [R-TX-13]*",
+      "Rep. Bustos, Cheri [D-IL-17]*",
+      "Rep. Harder, Josh [D-CA-10]*",
+      "Rep. Smith, Adrian [R-NE-3]*",
+      "Rep. Houlahan, Chrissy [D-PA-6]*",
+      "Rep. Weber, Randy K., Sr. [R-TX-14]*",
+      "Rep. Keller, Fred [R-PA-12]*",
+      "Rep. Fortenberry, Jeff [R-NE-1]*",
+      "Rep. McClain, Lisa C. [R-MI-10]*",
+      "Rep. Johnson, Dusty [R-SD-At Large]*",
+      "Rep. Hartzler, Vicky [R-MO-4]*",
+      "Rep. Graves, Sam [R-MO-6]*",
+      "Rep. Cline, Ben [R-VA-6]*",
+      "Rep. Pence, Greg [R-IN-6]*",
+      "Rep. Carl, Jerry L. [R-AL-1]*",
+      "Rep. Jacobs, Chris [R-NY-27]*",
+      "Rep. Kustoff, David [R-TN-8]*",
+      "Rep. Armstrong, Kelly [R-ND-At Large]*",
+      "Rep. Allen, Rick W. [R-GA-12]*",
+      "Rep. Baird, James R. [R-IN-4]*",
+      "Rep. Feenstra, Randy [R-IA-4]*",
+      "Rep. Stauber, Pete [R-MN-8]*",
+      "Rep. Kuster, Ann M. [D-NH-2]*",
+      "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]*",
+      "Rep. Gibbs, Bob [R-OH-7]*",
+      "Rep. Balderson, Troy [R-OH-12]*",
+      "Rep. Cammack, Kat [R-FL-3]*",
+      "Rep. Bishop, Sanford D., Jr. [D-GA-2]*",
+      "Rep. Smith, Jason [R-MO-8]*",
+      "Rep. Moore, Barry [R-AL-2]*",
+      "Rep. Grothman, Glenn [R-WI-6]*",
+      "Rep. Cleaver, Emanuel [D-MO-5]*",
+      "Rep. Westerman, Bruce [R-AR-4]*",
+      "Rep. Simpson, Michael K. [R-ID-2]*",
+      "Rep. Cheney, Liz [R-WY-At Large]*",
+      "Rep. Lawson, Al, Jr. [D-FL-5]*",
+      "Rep. Scott, Austin [R-GA-8]*",
+      "Rep. Luetkemeyer, Blaine [R-MO-3]*",
+      "Rep. Cicilline, David N. [D-RI-1]*",
+      "Rep. Valadao, David G. [R-CA-21]*",
+      "Rep. Fulcher, Russ [R-ID-1]*",
+      "Rep. Hinson, Ashley [R-IA-1]*",
+      "Rep. Spanberger, Abigail Davis [D-VA-7]*",
+      "Rep. Steube, W. Gregory [R-FL-17]*",
+      "Rep. Mullin, Markwayne [R-OK-2]*",
+      "Rep. Carbajal, Salud O. [D-CA-24]*",
+      "Rep. Meuser, Daniel [R-PA-9]*",
+      "Rep. Panetta, Jimmy [D-CA-20]*",
+      "Rep. Axne, Cynthia [D-IA-3]*",
+      "Rep. Case, Ed [D-HI-1]*",
+      "Rep. Davis, Rodney [R-IL-13]*",
+      "Rep. Schrier, Kim [D-WA-8]*",
+      "Rep. Estes, Ron [R-KS-4]*",
+      "Rep. Babin, Brian [R-TX-36]"
+    ],
+    "dem": 19,
+    "gop": 60,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Jim",
+      "last": "Hagedorn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1411/cosponsors?s=2&r=1&overview=closed#tabs",
+    "title": "H.R.1411 - To amend the Small Business Act to allow certain ranchers and farmers categorized as partnerships to use an alternative calculation for a maximum loan amount under the paycheck protection program, and for other purposes.",
+    "cosponsors": [
+      "Rep. Luetkemeyer, Blaine [R-MO-3]*",
+      "Rep. Thompson, Glenn [R-PA-15]*",
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Newhouse, Dan [R-WA-4]*",
+      "Rep. Scott, Austin [R-GA-8]*",
+      "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]*",
+      "Rep. LaMalfa, Doug [R-CA-1]*",
+      "Rep. Stauber, Pete [R-MN-8]*",
+      "Rep. Arrington, Jodey C. [R-TX-19]*",
+      "Rep. Meuser, Daniel [R-PA-9]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Stefanik, Elise M. [R-NY-21]*",
+      "Rep. Higgins, Clay [R-LA-3]*",
+      "Rep. Baird, James R. [R-IN-4]*",
+      "Rep. Moolenaar, John R. [R-MI-4]*",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]*",
+      "Rep. Rogers, Mike D. [R-AL-3]*",
+      "Rep. Kelly, Trent [R-MS-1]*",
+      "Rep. Kustoff, David [R-TN-8]*",
+      "Rep. Upton, Fred [R-MI-6]*",
+      "Rep. Turner, Michael R. [R-OH-10]*",
+      "Rep. Tenney, Claudia [R-NY-22]*",
+      "Rep. Mann, Tracey [R-KS-1]*",
+      "Rep. Issa, Darrell E. [R-CA-50]*",
+      "Rep. Smith, Jason [R-MO-8]*",
+      "Rep. Balderson, Troy [R-OH-12]*",
+      "Rep. Allen, Rick W. [R-GA-12]*",
+      "Rep. Fischbach, Michelle [R-MN-7]*",
+      "Rep. Sessions, Pete [R-TX-17]*",
+      "Rep. Carter, John R. [R-TX-31]*",
+      "Rep. Pfluger, August [R-TX-11]*",
+      "Rep. Timmons, William R. IV [R-SC-4]*",
+      "Rep. Kim, Young [R-CA-39]*",
+      "Rep. Cline, Ben [R-VA-6]*",
+      "Rep. McClain, Lisa C. [R-MI-10]*",
+      "Rep. Murphy, Gregory [R-NC-3]*",
+      "Rep. Rouzer, David [R-NC-7]*",
+      "Rep. Valadao, David G. [R-CA-21]*",
+      "Rep. Rose, John W. [R-TN-6]*",
+      "Rep. Jackson, Ronny [R-TX-13]*",
+      "Rep. Kelly, Mike [R-PA-16]*",
+      "Rep. Feenstra, Randy [R-IA-4]*",
+      "Rep. Emmer, Tom [R-MN-6]*",
+      "Rep. Rosendale Sr., Matthew M. [R-MT-At Large]*",
+      "Rep. Hern, Kevin [R-OK-1]*",
+      "Rep. Babin, Brian [R-TX-36]*",
+      "Rep. Gibbs, Bob [R-OH-7]*",
+      "Rep. Van Duyne, Beth [R-TX-24]*",
+      "Rep. Stewart, Chris [R-UT-2]*",
+      "Rep. Joyce, John [R-PA-13]*",
+      "Rep. Keller, Fred [R-PA-12]*",
+      "Rep. Donalds, Byron [R-FL-19]*",
+      "Rep. Williams, Roger [R-TX-25]*",
+      "Rep. Bentz, Cliff [R-OR-2]*",
+      "Rep. Fulcher, Russ [R-ID-1]",
+      "Rep. Hinson, Ashley [R-IA-1]",
+      "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]",
+      "Rep. Cheney, Liz [R-WY-At Large]",
+      "Rep. LaHood, Darin [R-IL-18]",
+      "Rep. Cole, Tom [R-OK-4]",
+      "Rep. Bost, Mike [R-IL-12]",
+      "Rep. Norman, Ralph [R-SC-5]",
+      "Rep. Diaz-Balart, Mario [R-FL-25]",
+      "Rep. Weber, Randy K., Sr. [R-TX-14]",
+      "Rep. Steube, W. Gregory [R-FL-17]"
+    ],
+    "dem": 1,
+    "gop": 64,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Jason",
+      "last": "Smith"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1381/cosponsors?s=7&r=3&overview=closed#tabs",
+    "title": "H.R.1381 - To amend the Internal Revenue Code of 1986 to make permanent the deduction for qualified business income.",
+    "cosponsors": [
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Taylor, Van [R-TX-3]*",
+      "Rep. Gottheimer, Josh [D-NJ-5]*",
+      "Rep. Burchett, Tim [R-TN-2]*",
+      "Rep. Hinson, Ashley [R-IA-1]*",
+      "Rep. Arrington, Jodey C. [R-TX-19]*",
+      "Rep. Reschenthaler, Guy [R-PA-14]*",
+      "Rep. Perry, Scott [R-PA-10]*",
+      "Rep. Guest, Michael [R-MS-3]*",
+      "Rep. Turner, Michael R. [R-OH-10]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Davis, Rodney [R-IL-13]*",
+      "Rep. Cole, Tom [R-OK-4]*",
+      "Rep. Katko, John [R-NY-24]*",
+      "Rep. Long, Billy [R-MO-7]*",
+      "Rep. Jackson, Ronny [R-TX-13]*",
+      "Rep. Lesko, Debbie [R-AZ-8]*",
+      "Rep. Gonzalez, Anthony [R-OH-16]*",
+      "Rep. Comer, James [R-KY-1]*",
+      "Rep. Budd, Ted [R-NC-13]*",
+      "Rep. Rogers, Mike D. [R-AL-3]*",
+      "Rep. Herrell, Yvette [R-NM-2]*",
+      "Rep. Meuser, Daniel [R-PA-9]*",
+      "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]*",
+      "Rep. Hern, Kevin [R-OK-1]*",
+      "Rep. Kustoff, David [R-TN-8]*",
+      "Rep. Luetkemeyer, Blaine [R-MO-3]*",
+      "Rep. Harshbarger, Diana [R-TN-1]*",
+      "Rep. Rice, Tom [R-SC-7]*",
+      "Rep. McClain, Lisa C. [R-MI-10]*",
+      "Rep. Cline, Ben [R-VA-6]*",
+      "Rep. Cawthorn, Madison [R-NC-11]*",
+      "Rep. Smith, Adrian [R-NE-3]*",
+      "Rep. Smucker, Lloyd [R-PA-11]*",
+      "Rep. Meijer, Peter [R-MI-3]*",
+      "Rep. Posey, Bill [R-FL-8]*",
+      "Rep. Garbarino, Andrew R. [R-NY-2]*",
+      "Rep. Jacobs, Chris [R-NY-27]*",
+      "Rep. Estes, Ron [R-KS-4]*",
+      "Rep. Walorski, Jackie [R-IN-2]*",
+      "Rep. Baird, James R. [R-IN-4]",
+      "Rep. Stivers, Steve [R-OH-15]",
+      "Rep. Allen, Rick W. [R-GA-12]",
+      "Rep. Norman, Ralph [R-SC-5]",
+      "Rep. DesJarlais, Scott [R-TN-4]",
+      "Rep. Palazzo, Steven M. [R-MS-4]",
+      "Rep. Moore, Barry [R-AL-2]",
+      "Rep. LaTurner, Jake [R-KS-2]",
+      "Rep. Stefanik, Elise M. [R-NY-21]",
+      "Rep. Curtis, John R. [R-UT-3]",
+      "Rep. Carl, Jerry L. [R-AL-1]",
+      "Rep. Lamborn, Doug [R-CO-5]",
+      "Rep. Feenstra, Randy [R-IA-4]",
+      "Rep. Bentz, Cliff [R-OR-2]",
+      "Rep. Latta, Robert E. [R-OH-5]"
+    ],
+    "dem": 2,
+    "gop": 53,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ralph",
+      "last": "Norman"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/582/cosponsors?s=5&r=2&overview=closed#tabs",
+    "title": "H.R.582 - To authorize the use of the rotunda of the Capitol for a memorial service in honor of United States Capitol Police Officer Brian Sicknick for his courage and sacrifice at the United States Capitol on January 6, 2021, and for other purposes.",
+    "cosponsors": [
+      "Rep. McKinley, David B. [R-WV-1]",
+      "Rep. Budd, Ted [R-NC-13]",
+      "Rep. Malliotakis, Nicole [R-NY-11]",
+      "Rep. Graves, Garret [R-LA-6]",
+      "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]",
+      "Rep. Meuser, Daniel [R-PA-9]",
+      "Rep. Hinson, Ashley [R-IA-1]",
+      "Rep. Timmons, William R. IV [R-SC-4]",
+      "Rep. Thompson, Glenn [R-PA-15]",
+      "Rep. Gimenez, Carlos A. [R-FL-26]",
+      "Rep. Cheney, Liz [R-WY-At Large]",
+      "Rep. Kelly, Trent [R-MS-1]",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "Rep. Luetkemeyer, Blaine [R-MO-3]",
+      "Rep. Herrell, Yvette [R-NM-2]",
+      "Rep. Jackson Lee, Sheila [D-TX-18]",
+      "Rep. Kinzinger, Adam [R-IL-16]",
+      "Rep. Walberg, Tim [R-MI-7]",
+      "Rep. Stewart, Chris [R-UT-2]",
+      "Rep. Guthrie, Brett [R-KY-2]",
+      "Rep. Joyce, David P. [R-OH-14]",
+      "Rep. Hice, Jody B. [R-GA-10]",
+      "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "Rep. Bishop, Dan [R-NC-9]",
+      "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "Rep. Gibbs, Bob [R-OH-7]",
+      "Rep. Garbarino, Andrew R. [R-NY-2]",
+      "Rep. Boebert, Lauren [R-CO-3]",
+      "Rep. Johnson, Bill [R-OH-6]",
+      "Rep. Crenshaw, Dan [R-TX-2]",
+      "Rep. Wright, Ron [R-TX-6]",
+      "Rep. Donalds, Byron [R-FL-19]",
+      "Rep. Obernolte, Jay [R-CA-8]",
+      "Rep. Smith, Christopher H. [R-NJ-4]",
+      "Rep. Baird, James R. [R-IN-4]",
+      "Rep. Arrington, Jodey C. [R-TX-19]",
+      "Rep. Mast, Brian J. [R-FL-18]",
+      "Rep. Burgess, Michael C. [R-TX-26]",
+      "Rep. Bucshon, Larry [R-IN-8]",
+      "Rep. Cawthorn, Madison [R-NC-11]",
+      "Rep. Balderson, Troy [R-OH-12]",
+      "Rep. Hudson, Richard [R-NC-8]",
+      "Rep. Johnson, Henry C. \"Hank,\" Jr. [D-GA-4]",
+      "Rep. Fischbach, Michelle [R-MN-7]",
+      "Rep. Calvert, Ken [R-CA-42]",
+      "Rep. Johnson, Mike [R-LA-4]",
+      "Rep. Babin, Brian [R-TX-36]",
+      "Rep. Gohmert, Louie [R-TX-1]"
+    ],
+    "dem": 2,
+    "gop": 46,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Elise",
+      "last": "Stefanik"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/161/cosponsors?s=3&r=8&overview=closed#tabs",
+    "title": "H.Res.161 - Commemorating the 30th anniversary of Operation Desert Storm's ground campaign and honoring the legacy of America's Desert Storm veterans and their example of strength and courage.",
+    "cosponsors": [
+      "Rep. Crow, Jason [D-CO-6]*",
+      "Rep. Turner, Michael R. [R-OH-10]*",
+      "Rep. Waltz, Michael [R-FL-6]*",
+      "Rep. Gaetz, Matt [R-FL-1]*",
+      "Rep. Carl, Jerry L. [R-AL-1]*",
+      "Rep. Wilson, Joe [R-SC-2]*",
+      "Rep. Kelly, Trent [R-MS-1]*",
+      "Rep. Gohmert, Louie [R-TX-1]*",
+      "Rep. Nehls, Troy E. [R-TX-22]*",
+      "Rep. Stewart, Chris [R-UT-2]*",
+      "Rep. Reschenthaler, Guy [R-PA-14]*",
+      "Rep. Moore, Barry [R-AL-2]*",
+      "Rep. Miller-Meeks, Mariannette [R-IA-2]*",
+      "Rep. Cheney, Liz [R-WY-At Large]*",
+      "Rep. Herrell, Yvette [R-NM-2]*",
+      "Rep. Owens, Burgess [R-UT-4]*",
+      "Rep. Joyce, John [R-PA-13]*",
+      "Rep. Garcia, Mike [R-CA-25]*",
+      "Rep. Harris, Andy [R-MD-1]*",
+      "Rep. Rice, Tom [R-SC-7]*",
+      "Rep. Wagner, Ann [R-MO-2]*",
+      "Rep. Bice, Stephanie I. [R-OK-5]*",
+      "Rep. Kelly, Mike [R-PA-16]*",
+      "Rep. Bucshon, Larry [R-IN-8]*",
+      "Rep. Taylor, Van [R-TX-3]*",
+      "Rep. Rouzer, David [R-NC-7]*",
+      "Rep. Hudson, Richard [R-NC-8]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Baird, James R. [R-IN-4]*",
+      "Rep. Walorski, Jackie [R-IN-2]*",
+      "Rep. Palazzo, Steven M. [R-MS-4]*",
+      "Rep. Jackson, Ronny [R-TX-13]*",
+      "Rep. LaMalfa, Doug [R-CA-1]*",
+      "Rep. Wenstrup, Brad R. [R-OH-2]*",
+      "Rep. Cawthorn, Madison [R-NC-11]*",
+      "Rep. Garbarino, Andrew R. [R-NY-2]",
+      "Rep. Johnson, Bill [R-OH-6]",
+      "Rep. Bilirakis, Gus M. [R-FL-12]",
+      "Rep. Estes, Ron [R-KS-4]",
+      "Rep. Babin, Brian [R-TX-36]",
+      "Rep. Womack, Steve [R-AR-3]",
+      "Rep. Thompson, Glenn [R-PA-15]"
+    ],
+    "dem": 1,
+    "gop": 41,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "August",
+      "last": "Pfluger"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/186/cosponsors?s=5&r=3&overview=closed#tabs",
+    "title": "H.Res.186 - Calling for the immediate release of Trevor Reed, a United States citizen who was unjustly found guilty and sentenced to nine years in a Russian prison.",
+    "cosponsors": [
+      "Rep. McCaul, Michael T. [R-TX-10]*",
+      "Rep. McCarthy, Kevin [R-CA-23]*",
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Crenshaw, Dan [R-TX-2]*",
+      "Rep. Babin, Brian [R-TX-36]*",
+      "Rep. Arrington, Jodey C. [R-TX-19]*",
+      "Rep. Williams, Roger [R-TX-25]*",
+      "Rep. Weber, Randy K., Sr. [R-TX-14]*",
+      "Rep. Van Duyne, Beth [R-TX-24]*",
+      "Rep. Veasey, Marc A. [D-TX-33]*",
+      "Rep. Fallon, Pat [R-TX-4]*",
+      "Rep. Gonzalez, Vicente [D-TX-15]*",
+      "Rep. Roy, Chip [R-TX-21]*",
+      "Rep. Kahele, Kaiali'i [D-HI-2]*",
+      "Rep. Burgess, Michael C. [R-TX-26]*",
+      "Rep. Sessions, Pete [R-TX-17]*",
+      "Rep. Jackson, Ronny [R-TX-13]*",
+      "Rep. Gooden, Lance [R-TX-5]*",
+      "Rep. Brady, Kevin [R-TX-8]*",
+      "Rep. Gonzales, Tony [R-TX-23]*",
+      "Rep. Green, Al [D-TX-9]*",
+      "Rep. Allred, Colin Z. [D-TX-32]*",
+      "Rep. Castro, Joaquin [D-TX-20]*",
+      "Rep. Taylor, Van [R-TX-3]*",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "Rep. Wilson, Joe [R-SC-2]",
+      "Rep. Steube, W. Gregory [R-FL-17]",
+      "Rep. Burchett, Tim [R-TN-2]",
+      "Rep. Perry, Scott [R-PA-10]",
+      "Rep. Kinzinger, Adam [R-IL-16]",
+      "Rep. Tenney, Claudia [R-NY-22]",
+      "Rep. Meijer, Peter [R-MI-3]"
+    ],
+    "dem": 7,
+    "gop": 25,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tom",
+      "last": "Rice"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+    "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+    "cosponsors": [
+      "Rep. Cartwright, Matt [D-PA-8]*",
+      "Rep. Kelly, Mike [R-PA-16]*",
+      "Rep. Young, Don [R-AK-At Large]*",
+      "Rep. Cole, Tom [R-OK-4]*",
+      "Rep. Bilirakis, Gus M. [R-FL-12]*",
+      "Rep. Davis, Rodney [R-IL-13]*",
+      "Rep. Underwood, Lauren [D-IL-14]*",
+      "Rep. Norman, Ralph [R-SC-5]*",
+      "Rep. Cohen, Steve [D-TN-9]*",
+      "Rep. McKinley, David B. [R-WV-1]*",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]*",
+      "Rep. Wild, Susan [D-PA-7]*",
+      "Rep. McCollum, Betty [D-MN-4]*",
+      "Rep. Butterfield, G. K. [D-NC-1]*",
+      "Rep. Reschenthaler, Guy [R-PA-14]*",
+      "Rep. Welch, Peter [D-VT-At Large]*",
+      "Rep. Rutherford, John H. [R-FL-4]*",
+      "Rep. Massie, Thomas [R-KY-4]*",
+      "Rep. Yarmuth, John A. [D-KY-3]*",
+      "Rep. Blunt Rochester, Lisa [D-DE-At Large]*",
+      "Rep. O'Halleran, Tom [D-AZ-1]*",
+      "Rep. McBath, Lucy [D-GA-6]*",
+      "Rep. Neguse, Joe [D-CO-2]*",
+      "Rep. Schakowsky, Janice D. [D-IL-9]*",
+      "Rep. Foster, Bill [D-IL-11]*",
+      "Rep. Chu, Judy [D-CA-27]",
+      "Rep. Timmons, William R. IV [R-SC-4]"
+    ],
+    "dem": 15,
+    "gop": 12,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Paul",
+      "last": "Gosar"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+    "title": "H.R.855 - VETS Safe Travel Act",
+    "cosponsors": [
+      "Rep. Brownley, Julia [D-CA-26]*",
+      "Rep. Norman, Ralph [R-SC-5]*",
+      "Rep. Connolly, Gerald E. [D-VA-11]*",
+      "Rep. Thompson, Mike [D-CA-5]*",
+      "Rep. Steube, W. Gregory [R-FL-17]*",
+      "Rep. LaMalfa, Doug [R-CA-1]*",
+      "Rep. Waltz, Michael [R-FL-6]*",
+      "Rep. Biggs, Andy [R-AZ-5]*",
+      "Rep. Blunt Rochester, Lisa [D-DE-At Large]*",
+      "Rep. Johnson, Dusty [R-SD-At Large]*",
+      "Rep. Harshbarger, Diana [R-TN-1]*",
+      "Rep. Carl, Jerry L. [R-AL-1]*",
+      "Rep. Moulton, Seth [D-MA-6]*",
+      "Rep. McMorris Rodgers, Cathy [R-WA-5]*",
+      "Rep. Keller, Fred [R-PA-12]*",
+      "Rep. Bergman, Jack [R-MI-1]*",
+      "Rep. Correa, J. Luis [D-CA-46]*",
+      "Rep. Kelly, Trent [R-MS-1]*",
+      "Rep. Lamb, Conor [D-PA-17]*",
+      "Rep. Houlahan, Chrissy [D-PA-6]*",
+      "Rep. Slotkin, Elissa [D-MI-8]*",
+      "Rep. San Nicolas, Michael F. Q. [D-GU-At Large]*",
+      "Rep. Pence, Greg [R-IN-6]*",
+      "Rep. Gallagher, Mike [R-WI-8]*",
+      "Rep. Steel, Michelle [R-CA-48]",
+      "Rep. Hagedorn, Jim [R-MN-1]"
+    ],
+    "dem": 10,
+    "gop": 16,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tom",
+      "last": "Rice"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1518/cosponsors?s=2&r=3&overview=closed#tabs",
+    "title": "H.R.1518 - To improve the national instant criminal background check system in order to search the National Data Exchange database when conducting criminal background checks.",
+    "cosponsors": [
+      "Rep. Mace, Nancy [R-SC-1]*",
+      "Rep. Gonzalez, Vicente [D-TX-15]*",
+      "Rep. Kind, Ron [D-WI-3]*",
+      "Rep. Timmons, William R. IV [R-SC-4]",
+      "Rep. Cohen, Steve [D-TN-9]",
+      "Rep. Gonzalez, Anthony [R-OH-16]",
+      "Rep. Meijer, Peter [R-MI-3]",
+      "Rep. Gibbs, Bob [R-OH-7]",
+      "Rep. Rutherford, John H. [R-FL-4]",
+      "Rep. Rogers, Mike D. [R-AL-3]",
+      "Rep. Bacon, Don [R-NE-2]",
+      "Rep. Barr, Andy [R-KY-6]",
+      "Rep. Grothman, Glenn [R-WI-6]",
+      "Rep. Graves, Garret [R-LA-6]",
+      "Rep. Tenney, Claudia [R-NY-22]",
+      "Rep. Malliotakis, Nicole [R-NY-11]",
+      "Rep. Lesko, Debbie [R-AZ-8]",
+      "Rep. Hill, J. French [R-AR-2]",
+      "Rep. Wilson, Joe [R-SC-2]",
+      "Rep. Moolenaar, John R. [R-MI-4]",
+      "Rep. Scott, Austin [R-GA-8]",
+      "Rep. Crenshaw, Dan [R-TX-2]",
+      "Rep. Hudson, Richard [R-NC-8]",
+      "Rep. Gimenez, Carlos A. [R-FL-26]",
+      "Rep. Stauber, Pete [R-MN-8]"
+    ],
+    "dem": 3,
+    "gop": 22,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Michael",
+      "last": "Burgess"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1330/cosponsors?s=8&r=2&overview=closed#tabs",
+    "title": "H.R.1330 - To repeal changes made by health care reform laws to the Medicare exception to the prohibition on certain physician referrals for hospitals, and for other purposes.",
+    "cosponsors": [
+      "Rep. Gonzalez, Vicente [D-TX-15]*",
+      "Rep. Wenstrup, Brad R. [R-OH-2]*",
+      "Rep. Vela, Filemon [D-TX-34]*",
+      "Rep. Harris, Andy [R-MD-1]*",
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Babin, Brian [R-TX-36]*",
+      "Rep. Hice, Jody B. [R-GA-10]*",
+      "Rep. Walorski, Jackie [R-IN-2]*",
+      "Rep. Mullin, Markwayne [R-OK-2]*",
+      "Rep. Perry, Scott [R-PA-10]*",
+      "Rep. Cole, Tom [R-OK-4]*",
+      "Rep. Westerman, Bruce [R-AR-4]*",
+      "Rep. Hill, J. French [R-AR-2]*",
+      "Rep. Taylor, Van [R-TX-3]*",
+      "Rep. Dunn, Neal P. [R-FL-2]*",
+      "Rep. Johnson, Bill [R-OH-6]*",
+      "Rep. Schweikert, David [R-AZ-6]*",
+      "Rep. Hern, Kevin [R-OK-1]*",
+      "Rep. Griffith, H. Morgan [R-VA-9]*",
+      "Rep. Cloud, Michael [R-TX-27]*",
+      "Rep. Banks, Jim [R-IN-3]"
+    ],
+    "dem": 3,
+    "gop": 18,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Carol",
+      "last": "Miller"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-concurrent-resolution/7/cosponsors?s=8&r=4&overview=closed#tabs",
+    "title": "H.Con.Res.7 - Authorizing the use of the rotunda of the Capitol to honor the last surviving Medal of Honor recipient of the Second World War upon death.",
+    "cosponsors": [
+      "Rep. Mooney, Alexander X. [R-WV-2]*",
+      "Rep. McKinley, David B. [R-WV-1]*",
+      "Rep. Bishop, Sanford D., Jr. [D-GA-2]*",
+      "Rep. Webster, Daniel [R-FL-11]*",
+      "Rep. Gaetz, Matt [R-FL-1]*",
+      "Rep. Steube, W. Gregory [R-FL-17]*",
+      "Rep. McMorris Rodgers, Cathy [R-WA-5]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Biggs, Andy [R-AZ-5]*",
+      "Rep. Massie, Thomas [R-KY-4]*",
+      "Rep. Harshbarger, Diana [R-TN-1]*",
+      "Rep. Budd, Ted [R-NC-13]*",
+      "Rep. Burchett, Tim [R-TN-2]*",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]*",
+      "Rep. Greene, Marjorie Taylor [R-GA-14]*",
+      "Rep. Cicilline, David N. [D-RI-1]*",
+      "Rep. DesJarlais, Scott [R-TN-4]",
+      "Rep. Lesko, Debbie [R-AZ-8]",
+      "Rep. Burgess, Michael C. [R-TX-26]",
+      "Rep. Cline, Ben [R-VA-6]"
+    ],
+    "dem": 2,
+    "gop": 18,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "John",
+      "last": "Rutherford"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+    "title": "H.R.1022 - PAWS Act of 2021",
+    "cosponsors": [
+      "Rep. Waltz, Michael [R-FL-6]*",
+      "Rep. Lawson, Al, Jr. [D-FL-5]*",
+      "Rep. Pappas, Chris [D-NH-1]*",
+      "Rep. Stivers, Steve [R-OH-15]*",
+      "Rep. Stewart, Chris [R-UT-2]",
+      "Rep. Steube, W. Gregory [R-FL-17]",
+      "Rep. Herrera Beutler, Jaime [R-WA-3]",
+      "Rep. Valadao, David G. [R-CA-21]",
+      "Rep. Cohen, Steve [D-TN-9]",
+      "Rep. Delgado, Antonio [D-NY-19]",
+      "Rep. McMorris Rodgers, Cathy [R-WA-5]",
+      "Rep. Ryan, Tim [D-OH-13]",
+      "Rep. Posey, Bill [R-FL-8]",
+      "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "Rep. Kuster, Ann M. [D-NH-2]",
+      "Rep. Davis, Rodney [R-IL-13]",
+      "Rep. McBath, Lucy [D-GA-6]",
+      "Rep. Khanna, Ro [D-CA-17]",
+      "Rep. Strickland, Marilyn [D-WA-10]"
+    ],
+    "dem": 9,
+    "gop": 10,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Lee",
+      "last": "Zeldin"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1476/cosponsors?s=5&r=2&overview=closed#tabs",
+    "title": "H.R.1476 - To authorize the Secretary of Veterans Affairs to make grants to State and local entities to carry out peer-to-peer mental health programs.",
+    "cosponsors": [
+      "Rep. Garbarino, Andrew R. [R-NY-2]*",
+      "Rep. Stefanik, Elise M. [R-NY-21]*",
+      "Rep. Crenshaw, Dan [R-TX-2]*",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]*",
+      "Rep. Gonzalez, Anthony [R-OH-16]*",
+      "Rep. Steube, W. Gregory [R-FL-17]*",
+      "Rep. Walorski, Jackie [R-IN-2]*",
+      "Rep. Kilmer, Derek [D-WA-6]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Suozzi, Thomas R. [D-NY-3]*",
+      "Rep. Steil, Bryan [R-WI-1]*",
+      "Rep. Rose, John W. [R-TN-6]*",
+      "Rep. Cawthorn, Madison [R-NC-11]*",
+      "Rep. Feenstra, Randy [R-IA-4]*",
+      "Rep. Stivers, Steve [R-OH-15]",
+      "Rep. Hartzler, Vicky [R-MO-4]",
+      "Rep. Delgado, Antonio [D-NY-19]",
+      "Rep. Lesko, Debbie [R-AZ-8]"
+    ],
+    "dem": 4,
+    "gop": 15,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Brian",
+      "last": "Mast"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/261/cosponsors?s=3&r=2&overview=closed#tabs",
+    "title": "H.R.261 - Palestinian International Terrorism Support Prevention Act of 2021",
+    "cosponsors": [
+      "Rep. Gottheimer, Josh [D-NJ-5]*",
+      "Rep. Rice, Kathleen M. [D-NY-4]*",
+      "Rep. Trone, David J. [D-MD-6]*",
+      "Rep. DesJarlais, Scott [R-TN-4]*",
+      "Rep. Reschenthaler, Guy [R-PA-14]*",
+      "Rep. Stefanik, Elise M. [R-NY-21]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Hartzler, Vicky [R-MO-4]*",
+      "Rep. Burchett, Tim [R-TN-2]*",
+      "Rep. Suozzi, Thomas R. [D-NY-3]*",
+      "Rep. Gaetz, Matt [R-FL-1]*",
+      "Rep. Weber, Randy K., Sr. [R-TX-14]*",
+      "Rep. Walorski, Jackie [R-IN-2]",
+      "Rep. Latta, Robert E. [R-OH-5]",
+      "Rep. Wilson, Joe [R-SC-2]",
+      "Rep. Zeldin, Lee M. [R-NY-1]",
+      "Rep. Chabot, Steve [R-OH-1]"
+    ],
+    "dem": 4,
+    "gop": 13,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Joe",
+      "last": "Wilson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+    "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+    "cosponsors": [
+      "Rep. Cleaver, Emanuel [D-MO-5]*",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]*",
+      "Rep. Cohen, Steve [D-TN-9]*",
+      "Rep. Hudson, Richard [R-NC-8]*",
+      "Rep. Moore, Gwen [D-WI-4]*",
+      "Rep. Bilirakis, Gus M. [R-FL-12]*",
+      "Rep. Eshoo, Anna G. [D-CA-18]*",
+      "Rep. Harris, Andy [R-MD-1]*",
+      "Rep. Smith, Christopher H. [R-NJ-4]",
+      "Rep. Spanberger, Abigail Davis [D-VA-7]",
+      "Rep. Kaptur, Marcy [D-OH-9]",
+      "Rep. Veasey, Marc A. [D-TX-33]",
+      "Rep. Quigley, Mike [D-IL-5]",
+      "Rep. McClain, Lisa C. [R-MI-10]",
+      "Rep. Aderholt, Robert B. [R-AL-4]",
+      "Rep. Titus, Dina [D-NV-1]"
+    ],
+    "dem": 9,
+    "gop": 7,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Daniel",
+      "last": "Meuser"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+    "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+    "cosponsors": [
+      "Rep. Trone, David J. [D-MD-6]*",
+      "Rep. Axne, Cynthia [D-IA-3]",
+      "Rep. Foster, Bill [D-IL-11]",
+      "Rep. Mooney, Alexander X. [R-WV-2]",
+      "Rep. Spanberger, Abigail Davis [D-VA-7]",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "Rep. Ryan, Tim [D-OH-13]",
+      "Rep. Cohen, Steve [D-TN-9]",
+      "Rep. Tiffany, Thomas P. [R-WI-7]",
+      "Rep. Pingree, Chellie [D-ME-1]",
+      "Rep. Carbajal, Salud O. [D-CA-24]",
+      "Rep. Lieu, Ted [D-CA-33]",
+      "Rep. McMorris Rodgers, Cathy [R-WA-5]",
+      "Rep. Rutherford, John H. [R-FL-4]"
+    ],
+    "dem": 9,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ronny",
+      "last": "Jackson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1692/cosponsors?s=6&r=1&overview=closed#tabs",
+    "title": "H.R.1692 - To extend and expand the Wildfire Hurricane Indemnity Program to cover losses due to high winds, polar vortexes, and hailstorms.",
+    "cosponsors": [
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Brady, Kevin [R-TX-8]*",
+      "Rep. Arrington, Jodey C. [R-TX-19]*",
+      "Rep. Burgess, Michael C. [R-TX-26]*",
+      "Rep. Sessions, Pete [R-TX-17]*",
+      "Rep. Gohmert, Louie [R-TX-1]*",
+      "Rep. Weber, Randy K., Sr. [R-TX-14]*",
+      "Rep. Van Duyne, Beth [R-TX-24]*",
+      "Rep. Pfluger, August [R-TX-11]*",
+      "Rep. Gonzales, Tony [R-TX-23]*",
+      "Rep. Babin, Brian [R-TX-36]*",
+      "Rep. Fallon, Pat [R-TX-4]*",
+      "Rep. Cloud, Michael [R-TX-27]"
+    ],
+    "dem": 1,
+    "gop": 12,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Lee",
+      "last": "Zeldin"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/492/cosponsors?s=5&r=4&overview=closed#tabs",
+    "title": "H.R.492 - Supporting Veteran Families in Need Act",
+    "cosponsors": [
+      "Rep. Suozzi, Thomas R. [D-NY-3]*",
+      "Rep. Stefanik, Elise M. [R-NY-21]*",
+      "Rep. Phillips, Dean [D-MN-3]",
+      "Rep. Grijalva, Raul M. [D-AZ-3]",
+      "Rep. Moore, Gwen [D-WI-4]",
+      "Rep. Delgado, Antonio [D-NY-19]",
+      "Rep. Welch, Peter [D-VT-At Large]",
+      "Rep. Baird, James R. [R-IN-4]",
+      "Rep. Katko, John [R-NY-24]",
+      "Rep. Khanna, Ro [D-CA-17]",
+      "Rep. Nadler, Jerrold [D-NY-10]"
+    ],
+    "dem": 8,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ken",
+      "last": "Calvert"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/197/cosponsors?s=5&r=11&overview=closed#tabs",
+    "title": "H.R.197 - FACT Act",
+    "cosponsors": [
+      "Rep. Mast, Brian J. [R-FL-18]*",
+      "Rep. Gaetz, Matt [R-FL-1]*",
+      "Rep. Buchanan, Vern [R-FL-16]*",
+      "Rep. Brownley, Julia [D-CA-26]*",
+      "Rep. Titus, Dina [D-NV-1]*",
+      "Rep. Boyle, Brendan F. [D-PA-2]",
+      "Rep. Hastings, Alcee L. [D-FL-20]",
+      "Rep. Walorski, Jackie [R-IN-2]",
+      "Rep. Napolitano, Grace F. [D-CA-32]"
+    ],
+    "dem": 5,
+    "gop": 4,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Scott",
+      "last": "DesJarlais"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1737/cosponsors?s=3&r=1&overview=closed#tabs",
+    "title": "H.R.1737 - To designate the Mental Health Residential Rehabilitation Treatment Facility Expansion of the Department of Veterans Affairs Alvin C. York Medical Center in Murfreesboro, Tennessee, as the \"Sergeant John Toombs Residential Rehabilitation Treatment Facility\".",
+    "cosponsors": [
+      "Rep. Harshbarger, Diana [R-TN-1]*",
+      "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]*",
+      "Rep. Kustoff, David [R-TN-8]*",
+      "Rep. Burchett, Tim [R-TN-2]*",
+      "Rep. Green, Mark E. [R-TN-7]*",
+      "Rep. Rose, John W. [R-TN-6]*",
+      "Rep. Cooper, Jim [D-TN-5]*",
+      "Rep. Cohen, Steve [D-TN-9]*",
+      "Rep. Steube, W. Gregory [R-FL-17]*"
+    ],
+    "dem": 2,
+    "gop": 7,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "David",
+      "last": "Kustoff"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/819/cosponsors?s=9&r=3&overview=closed#tabs",
+    "title": "H.R.819 - Stop Corrupt Iranian Oligarchs and Entities Act",
+    "cosponsors": [
+      "Rep. Gottheimer, Josh [D-NJ-5]*",
+      "Rep. Zeldin, Lee M. [R-NY-1]",
+      "Rep. Crenshaw, Dan [R-TX-2]",
+      "Rep. Chabot, Steve [R-OH-1]",
+      "Rep. Loudermilk, Barry [R-GA-11]",
+      "Rep. Lesko, Debbie [R-AZ-8]",
+      "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]",
+      "Rep. DesJarlais, Scott [R-TN-4]"
+    ],
+    "dem": 1,
+    "gop": 7,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Paul",
+      "last": "Gosar"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1127/cosponsors?s=3&r=3&overview=closed#tabs",
+    "title": "H.R.1127 - To amend the Federal Election Campaign Act of 1971 to prohibit the acceptance by political committees of online contributions from certain unverified sources, and for other purposes.",
+    "cosponsors": [
+      "Rep. Eshoo, Anna G. [D-CA-18]*",
+      "Rep. Moulton, Seth [D-MA-6]*",
+      "Rep. Gohmert, Louie [R-TX-1]*",
+      "Rep. Brooks, Mo [R-AL-5]*",
+      "Rep. Lamborn, Doug [R-CO-5]*",
+      "Rep. Bacon, Don [R-NE-2]*",
+      "Rep. Duncan, Jeff [R-SC-3]"
+    ],
+    "dem": 2,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Debbie",
+      "last": "Lesko"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/143/cosponsors?s=4&r=7&overview=closed#tabs",
+    "title": "H.Res.143 - Expressing the sense of the House of Representatives regarding United States policy recognizing the Semele Massacre of 1933.",
+    "cosponsors": [
+      "Rep. Harder, Josh [D-CA-10]*",
+      "Rep. Perry, Scott [R-PA-10]*",
+      "Rep. Sherman, Brad [D-CA-30]*",
+      "Rep. Schweikert, David [R-AZ-6]*",
+      "Rep. Eshoo, Anna G. [D-CA-18]*",
+      "Rep. Costa, Jim [D-CA-16]",
+      "Rep. McClain, Lisa C. [R-MI-10]"
+    ],
+    "dem": 4,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ken",
+      "last": "Calvert"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/797/cosponsors?s=5&r=4&overview=closed#tabs",
+    "title": "H.R.797 - To designate the facility of the United States Postal Service located at 24930 Washington Avenue in Murrieta, California, as the \"Riverside County Iraq and Afghanistan Veterans Memorial Post Office\".",
+    "cosponsors": [
+      "Rep. DeSaulnier, Mark [D-CA-11]*",
+      "Rep. Khanna, Ro [D-CA-17]*",
+      "Rep. Costa, Jim [D-CA-16]*",
+      "Rep. McClintock, Tom [R-CA-4]*",
+      "Rep. Nunes, Devin [R-CA-22]*",
+      "Rep. Lieu, Ted [D-CA-33]*",
+      "Rep. Lowenthal, Alan S. [D-CA-47]*"
+    ],
+    "dem": 5,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Sam",
+      "last": "Graves"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/539/cosponsors?s=3&r=1&overview=closed#tabs",
+    "title": "H.R.539 - Preventing Disaster Revictimization Act",
+    "cosponsors": [
+      "Rep. LaMalfa, Doug [R-CA-1]*",
+      "Rep. Garamendi, John [D-CA-3]*",
+      "Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]*",
+      "Rep. Thompson, Mike [D-CA-5]*",
+      "Rep. Huffman, Jared [D-CA-2]*",
+      "Rep. Carbajal, Salud O. [D-CA-24]*",
+      "Rep. Webster, Daniel [R-FL-11]"
+    ],
+    "dem": 4,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Warren",
+      "last": "Davidson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/746/cosponsors?s=10&r=2&overview=closed#tabs",
+    "title": "H.R.746 - Ensuring Survivor Benefits during COVID–19 Act of 2021",
+    "cosponsors": [
+      "Rep. Trahan, Lori [D-MA-3]*",
+      "Rep. Budd, Ted [R-NC-13]*",
+      "Rep. Hern, Kevin [R-OK-1]*",
+      "Rep. Kahele, Kaiali'i [D-HI-2]",
+      "Rep. Ryan, Tim [D-OH-13]",
+      "Rep. McKinley, David B. [R-WV-1]",
+      "Rep. O'Halleran, Tom [D-AZ-1]"
+    ],
+    "dem": 4,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tim",
+      "last": "Burchett"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1102/cosponsors?s=4&r=3&overview=closed#tabs",
+    "title": "H.R.1102 - To amend title 39, United States Code, to establish rules and procedures for the United States Postal Service regarding the use of centralized delivery of the mail with respect to residential housing units, and for other purposes.",
+    "cosponsors": [
+      "Rep. Thompson, Bennie G. [D-MS-2]*",
+      "Rep. Smith, Jason [R-MO-8]*",
+      "Rep. Kustoff, David [R-TN-8]*",
+      "Rep. Young, Don [R-AK-At Large]*",
+      "Rep. Brooks, Mo [R-AL-5]*",
+      "Rep. Rose, John W. [R-TN-6]",
+      "Rep. Steube, W. Gregory [R-FL-17]"
+    ],
+    "dem": 1,
+    "gop": 6,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tim",
+      "last": "Burchett"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/970/cosponsors?s=4&r=4&overview=closed#tabs",
+    "title": "H.R.970 - Opportunity Zone Extension Act of 2021",
+    "cosponsors": [
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Reschenthaler, Guy [R-PA-14]",
+      "Rep. Carbajal, Salud O. [D-CA-24]",
+      "Rep. Steel, Michelle [R-CA-48]",
+      "Rep. McMorris Rodgers, Cathy [R-WA-5]",
+      "Rep. Harshbarger, Diana [R-TN-1]",
+      "Rep. Westerman, Bruce [R-AR-4]"
+    ],
+    "dem": 2,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ken",
+      "last": "Calvert"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/866/cosponsors?s=5&r=3&overview=closed#tabs",
+    "title": "H.R.866 - FISH Act",
+    "cosponsors": [
+      "Rep. Costa, Jim [D-CA-16]*",
+      "Rep. McClintock, Tom [R-CA-4]*",
+      "Rep. Simpson, Michael K. [R-ID-2]*",
+      "Rep. Steel, Michelle [R-CA-48]*",
+      "Rep. Valadao, David G. [R-CA-21]*",
+      "Rep. Nunes, Devin [R-CA-22]"
+    ],
+    "dem": 1,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Brian",
+      "last": "Mast"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/565/cosponsors?s=3&r=1&overview=closed#tabs",
+    "title": "H.R.565 - South Florida Clean Coastal Waters Act of 2021",
+    "cosponsors": [
+      "Rep. Soto, Darren [D-FL-9]*",
+      "Rep. Posey, Bill [R-FL-8]*",
+      "Rep. Waltz, Michael [R-FL-6]",
+      "Rep. Gimenez, Carlos A. [R-FL-26]",
+      "Rep. Bilirakis, Gus M. [R-FL-12]",
+      "Rep. Salazar, Maria Elvira [R-FL-27]"
+    ],
+    "dem": 1,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Jack",
+      "last": "Bergman"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/634/cosponsors?s=10&r=4&overview=closed#tabs",
+    "title": "H.R.634 - To designate the facility of the United States Postal Service located at 202 West Washington Street, Suite 1, in Marquette, Michigan, as the \"Senator Tom Casperson Post Office Building\".",
+    "cosponsors": [
+      "Rep. Slotkin, Elissa [D-MI-8]*",
+      "Rep. Huizenga, Bill [R-MI-2]*",
+      "Rep. Moolenaar, John R. [R-MI-4]*",
+      "Rep. Meijer, Peter [R-MI-3]*",
+      "Rep. McClain, Lisa C. [R-MI-10]",
+      "Rep. Upton, Fred [R-MI-6]"
+    ],
+    "dem": 1,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Jim",
+      "last": "Hagedorn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/98/cosponsors?s=2&r=2&overview=closed#tabs",
+    "title": "H.Res.98 - Recognizing the 100th anniversary of the Department of Minnesota Veterans of Foreign Wars.",
+    "cosponsors": [
+      "Rep. Emmer, Tom [R-MN-6]*",
+      "Rep. Stauber, Pete [R-MN-8]*",
+      "Rep. Fischbach, Michelle [R-MN-7]*",
+      "Rep. Phillips, Dean [D-MN-3]*",
+      "Rep. Craig, Angie [D-MN-2]*",
+      "Rep. McCollum, Betty [D-MN-4]"
+    ],
+    "dem": 3,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Trent",
+      "last": "Kelly"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1302/cosponsors?s=8&r=2&overview=closed#tabs",
+    "title": "H.R.1302 - To amend title 10, United States Code, to authorize the Secretary of Defense to provide space-available travel on aircraft of the Department of Defense to children, surviving spouses, parents, and siblings of members of the Armed Forces who die while serving in the active military, naval, or air service.",
+    "cosponsors": [
+      "Rep. Ryan, Tim [D-OH-13]*",
+      "Rep. Vela, Filemon [D-TX-34]",
+      "Rep. Wittman, Robert J. [R-VA-1]",
+      "Rep. Gaetz, Matt [R-FL-1]",
+      "Rep. Carter, John R. [R-TX-31]",
+      "Rep. Guest, Michael [R-MS-3]"
+    ],
+    "dem": 2,
+    "gop": 4,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Scott",
+      "last": "Perry"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1656/cosponsors?s=7&r=2&overview=closed#tabs",
+    "title": "H.R.1656 - To direct the Secretary of Veterans Affairs and the Secretary of Defense to furnish stellate ganglion block to veterans and members of the Armed Forces with post-traumatic stress disorder, and for other purposes.",
+    "cosponsors": [
+      "Rep. Crenshaw, Dan [R-TX-2]*",
+      "Rep. Zeldin, Lee M. [R-NY-1]*",
+      "Rep. Taylor, Van [R-TX-3]*",
+      "Rep. Bishop, Dan [R-NC-9]*",
+      "Rep. Murphy, Gregory [R-NC-3]*",
+      "Rep. DeSaulnier, Mark [D-CA-11]"
+    ],
+    "dem": 1,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tom",
+      "last": "Rice"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/264/cosponsors?s=2&r=4&overview=closed#tabs",
+    "title": "H.R.264 - To designate the facility of the United States Postal Service located at 1101 Charlotte Street in Georgetown, South Carolina, as the \"Joseph Hayne Rainey Memorial Post Office Building\".",
+    "cosponsors": [
+      "Rep. Clyburn, James E. [D-SC-6]*",
+      "Rep. Mace, Nancy [R-SC-1]*",
+      "Rep. Timmons, William R. IV [R-SC-4]*",
+      "Rep. Wilson, Joe [R-SC-2]*",
+      "Rep. Norman, Ralph [R-SC-5]*",
+      "Rep. Duncan, Jeff [R-SC-3]*"
+    ],
+    "dem": 1,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Jodey",
+      "last": "Arrington"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/858/cosponsors?s=2&r=5&overview=closed#tabs",
+    "title": "H.R.858 - Donna M. Doss Memorial Act of 2021",
+    "cosponsors": [
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Babin, Brian [R-TX-36]*",
+      "Rep. Williams, Roger [R-TX-25]*",
+      "Rep. Wright, Ron [R-TX-6]*",
+      "Rep. Jackson, Ronny [R-TX-13]*",
+      "Rep. Weber, Randy K., Sr. [R-TX-14]*"
+    ],
+    "dem": 1,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mario",
+      "last": "Diaz-Balart"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/750/cosponsors?s=9&r=2&overview=closed#tabs",
+    "title": "H.R.750 - Luke and Alex School Safety Act of 2021",
+    "cosponsors": [
+      "Rep. Rutherford, John H. [R-FL-4]*",
+      "Rep. Deutch, Theodore E. [D-FL-22]*",
+      "Rep. Murphy, Stephanie N. [D-FL-7]*",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "Rep. Davis, Rodney [R-IL-13]"
+    ],
+    "dem": 2,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Lee",
+      "last": "Zeldin"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1273/cosponsors?s=5&r=3&overview=closed#tabs",
+    "title": "H.R.1273 - To direct the Secretary of Veterans Affairs to study and report on the prevalence of cholangiocarcinoma in veterans who served in the Vietnam theater of operations during the Vietnam era, and for other purposes.",
+    "cosponsors": [
+      "Rep. Garbarino, Andrew R. [R-NY-2]*",
+      "Rep. Suozzi, Thomas R. [D-NY-3]*",
+      "Rep. Fitzpatrick, Brian K. [R-PA-1]*",
+      "Rep. Posey, Bill [R-FL-8]*",
+      "Rep. Neguse, Joe [D-CO-2]*"
+    ],
+    "dem": 2,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Jodey",
+      "last": "Arrington"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1608/cosponsors?s=2&r=1&overview=closed#tabs",
+    "title": "H.R.1608 - To amend the Intermodal Surface Transportation Efficiency Act of 1991 with respect to future interstate designations, and for other purposes.",
+    "cosponsors": [
+      "Rep. Cuellar, Henry [D-TX-28]*",
+      "Rep. Granger, Kay [R-TX-12]*",
+      "Rep. Jackson, Ronny [R-TX-13]*",
+      "Rep. Gonzales, Tony [R-TX-23]*",
+      "Rep. Armstrong, Kelly [R-ND-At Large]*"
+    ],
+    "dem": 1,
+    "gop": 4,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mario",
+      "last": "Diaz-Balart"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/462/cosponsors?s=9&r=3&overview=closed#tabs",
+    "title": "H.R.462 - To establish new ZIP codes for certain communities, and for other purposes.",
+    "cosponsors": [
+      "Rep. Demings, Val Butler [D-FL-10]*",
+      "Rep. Zeldin, Lee M. [R-NY-1]*",
+      "Rep. Meng, Grace [D-NY-6]*",
+      "Rep. Donalds, Byron [R-FL-19]*"
+    ],
+    "dem": 2,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "David",
+      "last": "Rouzer"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/895/cosponsors?s=1&r=1&overview=closed#tabs",
+    "title": "H.R.895 - Emergency Assistance for Rural Water Systems Act of 2021",
+    "cosponsors": [
+      "Rep. Vela, Filemon [D-TX-34]*",
+      "Rep. Costa, Jim [D-CA-16]",
+      "Rep. Pingree, Chellie [D-ME-1]",
+      "Rep. Stauber, Pete [R-MN-8]"
+    ],
+    "dem": 3,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Budd"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/296/cosponsors?s=2&r=14&overview=closed#tabs",
+    "title": "H.R.296 - Financial Technology Protection Act",
+    "cosponsors": [
+      "Rep. Davidson, Warren [R-OH-8]*",
+      "Rep. Lynch, Stephen F. [D-MA-8]*",
+      "Rep. Donalds, Byron [R-FL-19]*",
+      "Rep. Soto, Darren [D-FL-9]*"
+    ],
+    "dem": 2,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Warren",
+      "last": "Davidson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1628/cosponsors?s=10&r=1&overview=closed#tabs",
+    "title": "H.R.1628 - To amend the Securities Act of 1933 and the Securities Exchange Act of 1934 to exclude digital tokens from the definition of a security, to direct the Securities and Exchange Commission to enact certain regulatory changes regarding digital units secured through public key cryptography, to adjust taxation of virtual currencies held in individual retirement accounts, to create a tax exemption for exchanges of one virtual currency for another, to create a de minimis exemption from taxation for gains realized from the sale or exchange of virtual currency for other than cash, and for other purposes.",
+    "cosponsors": [
+      "Rep. Soto, Darren [D-FL-9]*",
+      "Rep. Budd, Ted [R-NC-13]*",
+      "Rep. Gottheimer, Josh [D-NJ-5]*",
+      "Rep. Perry, Scott [R-PA-10]*"
+    ],
+    "dem": 2,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Gary",
+      "last": "Palmer"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/27/cosponsors?s=2&r=3&overview=closed#tabs",
+    "title": "H.R.27 - Settlement Agreement Information Database Act of 2021",
+    "cosponsors": [
+      "Rep. Taylor, Van [R-TX-3]*",
+      "Rep. Cooper, Jim [D-TN-5]*",
+      "Rep. Connolly, Gerald E. [D-VA-11]*"
+    ],
+    "dem": 2,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Debbie",
+      "last": "Lesko"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/765/cosponsors?s=4&r=3&overview=closed#tabs",
+    "title": "H.R.765 - VA Medical Center Facility Transparency Act",
+    "cosponsors": [
+      "Rep. Lee, Susie [D-NV-3]*",
+      "Rep. Luetkemeyer, Blaine [R-MO-3]*",
+      "Rep. Hartzler, Vicky [R-MO-4]*"
+    ],
+    "dem": 1,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Trent",
+      "last": "Kelly"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/209/cosponsors?s=8&r=4&overview=closed#tabs",
+    "title": "H.R.209 - To designate the facility of the United States Postal Service located at 305 Highway 15 North in Pontotoc, Mississippi, as the \"Lance Corporal Marc Lucas Tucker Post Office Building\".",
+    "cosponsors": [
+      "Rep. Guest, Michael [R-MS-3]*",
+      "Rep. Thompson, Bennie G. [D-MS-2]*",
+      "Rep. Palazzo, Steven M. [R-MS-4]"
+    ],
+    "dem": 1,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Trent",
+      "last": "Kelly"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/208/cosponsors?s=8&r=5&overview=closed#tabs",
+    "title": "H.R.208 - To designate the facility of the United States Postal Service located at 500 West Main Street, Suite 102 in Tupelo, Mississippi, as the \"Colonel Carlyle 'Smitty' Harris Post Office\".",
+    "cosponsors": [
+      "Rep. Thompson, Bennie G. [D-MS-2]",
+      "Rep. Guest, Michael [R-MS-3]",
+      "Rep. Palazzo, Steven M. [R-MS-4]"
+    ],
+    "dem": 1,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Trent",
+      "last": "Kelly"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/207/cosponsors?s=8&r=6&overview=closed#tabs",
+    "title": "H.R.207 - To designate the facility of the United States Postal Service located at 215 1st Avenue in Amory, Mississippi, as the \"Command Sergeant Major Lawrence E. 'Rabbit' Kennedy Post Office Building\".",
+    "cosponsors": [
+      "Rep. Thompson, Bennie G. [D-MS-2]",
+      "Rep. Guest, Michael [R-MS-3]",
+      "Rep. Palazzo, Steven M. [R-MS-4]"
+    ],
+    "dem": 1,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Dan",
+      "last": "Bishop"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1482/cosponsors?s=3&r=2&overview=closed#tabs",
+    "title": "H.R.1482 - 504 Credit Risk Management Improvement Act of 2021",
+    "cosponsors": [
+      "Rep. Craig, Angie [D-MN-2]*",
+      "Rep. Kim, Young [R-CA-39]*",
+      "Rep. Davids, Sharice [D-KS-3]*"
+    ],
+    "dem": 2,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Lee",
+      "last": "Zeldin"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/342/cosponsors?s=5&r=5&overview=closed#tabs",
+    "title": "H.R.342 - PFC Garfield M. Langhorn Memorial Semipostal Stamp to Benefit our Veterans Act of 2021",
+    "cosponsors": [
+      "Rep. Rice, Kathleen M. [D-NY-4]*",
+      "Rep. Meng, Grace [D-NY-6]*",
+      "Rep. Garbarino, Andrew R. [R-NY-2]"
+    ],
+    "dem": 2,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Bob",
+      "last": "Gibbs"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1821/cosponsors?s=9&r=1&overview=closed#tabs",
+    "title": "H.R.1821 - To amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.",
+    "cosponsors": [
+      "Rep. Foster, Bill [D-IL-11]*",
+      "Rep. Mast, Brian J. [R-FL-18]*",
+      "Rep. Feenstra, Randy [R-IA-4]*"
+    ],
+    "dem": 1,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Guy",
+      "last": "Reschenthaler"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1536/cosponsors?s=9&r=1&overview=closed#tabs",
+    "title": "H.R.1536 - To amend the Higher Education Act of 1965 to include all members of the Armed Forces in the definition of \"independent student\" for purposes of determining the eligibility of such members for Federal financial assistance, and for other purposes.",
+    "cosponsors": [
+      "Rep. Ryan, Tim [D-OH-13]*",
+      "Rep. Thompson, Glenn [R-PA-15]*",
+      "Rep. Trone, David J. [D-MD-6]*"
+    ],
+    "dem": 2,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tim",
+      "last": "Burchett"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1487/cosponsors?s=4&r=2&overview=closed#tabs",
+    "title": "H.R.1487 - Microloan Transparency and Accountability Act of 2021",
+    "cosponsors": [
+      "Rep. Kim, Andy [D-NJ-3]*",
+      "Rep. Fitzgerald, Scott [R-WI-5]*",
+      "Rep. Newman, Marie [D-IL-3]*"
+    ],
+    "dem": 2,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Chabot"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/241/cosponsors?s=4&r=1&overview=closed#tabs",
+    "title": "H.R.241 - Tropical Forest and Coral Reef Conservation Reauthorization Act of 2021",
+    "cosponsors": [
+      "Rep. Sherman, Brad [D-CA-30]*",
+      "Rep. Sires, Albio [D-NJ-8]",
+      "Rep. Spanberger, Abigail Davis [D-VA-7]"
+    ],
+    "dem": 3,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Bost"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1798/cosponsors?s=10&r=1&overview=closed#tabs",
+    "title": "H.R.1798 - To provide for emergency grants for essential community facilities and temporary installations needed in response to COVID-19 pandemic in rural areas.",
+    "cosponsors": [
+      "Rep. Luria, Elaine G. [D-VA-2]*",
+      "Rep. Hagedorn, Jim [R-MN-1]*"
+    ],
+    "dem": 1,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tim",
+      "last": "Walberg"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1032/cosponsors?s=9&r=4&overview=closed#tabs",
+    "title": "H.R.1032 - Telecommunications Skilled Workforce Act",
+    "cosponsors": [
+      "Rep. Clarke, Yvette D. [D-NY-9]*",
+      "Rep. Pence, Greg [R-IN-6]"
+    ],
+    "dem": 1,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Budd"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1100/cosponsors?s=2&r=4&overview=closed#tabs",
+    "title": "H.R.1100 - To amend the Americans with Disabilities Act of 1990 to include consumer facing websites and mobile applications owned or operated by a private entity, to establish web accessibility compliance standards for such websites and mobile applications, and for other purposes.",
+    "cosponsors": [
+      "Rep. Hudson, Richard [R-NC-8]*",
+      "Rep. Correa, J. Luis [D-CA-46]*"
+    ],
+    "dem": 1,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "David",
+      "last": "Schweikert"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/318/cosponsors?s=9&r=2&overview=closed#tabs",
+    "title": "H.R.318 - Safe Testing at Residence Telehealth Act of 2021",
+    "cosponsors": [
+      "Rep. Rush, Bobby L. [D-IL-1]*",
+      "Rep. Kelly, Mike [R-PA-16]*"
+    ],
+    "dem": 1,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Elise",
+      "last": "Stefanik"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/489/cosponsors?s=3&r=7&overview=closed#tabs",
+    "title": "H.R.489 - Protecting Rural Access to Care Act",
+    "cosponsors": [
+      "Rep. Delgado, Antonio [D-NY-19]*",
+      "Rep. Jacobs, Chris [R-NY-27]"
+    ],
+    "dem": 1,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Fred",
+      "last": "Keller"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/331/cosponsors?s=8&r=3&overview=closed#tabs",
+    "title": "H.R.331 - Nurses CARE Act of 2021",
+    "cosponsors": [
+      "Rep. Wild, Susan [D-PA-7]*",
+      "Rep. Kelly, Mike [R-PA-16]"
+    ],
+    "dem": 1,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Robert",
+      "last": "Wittman"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1668/cosponsors?s=2&r=1&overview=closed#tabs",
+    "title": "H.R.1668 - To extend the authority for agencies to reimburse paid leave provided by Federal contractors to certain employees or subcontractors unable to perform work due to the COVID-19 pandemic.",
+    "cosponsors": [
+      "Rep. Ruppersberger, C. A. Dutch [D-MD-2]*",
+      "Rep. Rose, John W. [R-TN-6]"
+    ],
+    "dem": 1,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ken",
+      "last": "Calvert"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/972/cosponsors?s=5&r=1&overview=closed#tabs",
+    "title": "H.R.972 - Wildlife Refuge Conservation and Recreation for the Community Act",
+    "cosponsors": [
+      "Rep. Takano, Mark [D-CA-41]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Doug",
+      "last": "LaMalfa"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/938/cosponsors?s=7&r=3&overview=closed#tabs",
+    "title": "H.R.938 - Wildland Firefighter Recognition Act",
+    "cosponsors": [
+      "Rep. DeSaulnier, Mark [D-CA-11]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Bill",
+      "last": "Posey"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1369/cosponsors?s=10&r=1&overview=closed#tabs",
+    "title": "H.R.1369 - To amend the Internal Revenue Code of 1986 to provide bonus depreciation for certain space launch expenditures, and for other purposes.",
+    "cosponsors": [
+      "Rep. Crist, Charlie [D-FL-13]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Scalise"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1856/cosponsors?s=6&r=1&overview=closed#tabs",
+    "title": "H.R.1856 - To repeal certain provisions of the Communications Act of 1934, title 17 of the United States Code, and certain regulations, to allow for interim carriage of television broadcast signals, and for other purposes.",
+    "cosponsors": [
+      "Rep. Eshoo, Anna G. [D-CA-18]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Clay",
+      "last": "Higgins"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1299/cosponsors?s=7&r=2&overview=closed#tabs",
+    "title": "H.R.1299 - To permit the Secretary of Transportation to approve Federal participation in the replacement or rehabilitation of certain bridges, and for other purposes.",
+    "cosponsors": [
+      "Rep. Krishnamoorthi, Raja [D-IL-8]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Clay",
+      "last": "Higgins"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1236/cosponsors?s=7&r=3&overview=closed#tabs",
+    "title": "H.R.1236 - To amend the Federal Food, Drug, and Cosmetic Act to ensure the safety of imported seafood.",
+    "cosponsors": [
+      "Rep. Krishnamoorthi, Raja [D-IL-8]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tim",
+      "last": "Walberg"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1781/cosponsors?s=9&r=1&overview=closed#tabs",
+    "title": "H.R.1781 - To amend the Children's Online Privacy Protection Act of 1998.",
+    "cosponsors": [
+      "Rep. Rush, Bobby L. [D-IL-1]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Jack",
+      "last": "Bergman"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/905/cosponsors?s=10&r=3&overview=closed#tabs",
+    "title": "H.R.905 - Coronavirus Front-Line Responders Commemorative Coin Act",
+    "cosponsors": [
+      "Rep. Neguse, Joe [D-CO-2]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Blaine",
+      "last": "Luetkemeyer"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1508/cosponsors?s=4&r=2&overview=closed#tabs",
+    "title": "H.R.1508 - To require a guidance clarity statement on certain agency guidance, and for other purposes.",
+    "cosponsors": [
+      "Rep. Golden, Jared F. [D-ME-2]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Blaine",
+      "last": "Luetkemeyer"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1507/cosponsors?s=4&r=3&overview=closed#tabs",
+    "title": "H.R.1507 - To require each agency, in providing notice of a rule making, to include a link to a 100 word plain language summary of the proposed rule.",
+    "cosponsors": [
+      "Rep. Golden, Jared F. [D-ME-2]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Billy",
+      "last": "Long"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1754/cosponsors?s=6&r=1&overview=closed#tabs",
+    "title": "H.R.1754 - To amend the Communications Act of 1934 to require the Federal Communications Commission to consider market entry barriers for socially disadvantaged individuals in the communications marketplace report under section 13 of such Act.",
+    "cosponsors": [
+      "Rep. Veasey, Marc A. [D-TX-33]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Richard",
+      "last": "Hudson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/110/cosponsors?s=10&r=6&overview=closed#tabs",
+    "title": "H.R.110 - Care for the Veteran Caregiver Act",
+    "cosponsors": [
+      "Rep. Rice, Kathleen M. [D-NY-4]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Richard",
+      "last": "Hudson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/109/cosponsors?s=10&r=7&overview=closed#tabs",
+    "title": "H.R.109 - Department of Veterans Affairs Electronic Health Record Advisory Committee Act",
+    "cosponsors": [
+      "Rep. Ruppersberger, C. A. Dutch [D-MD-2]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Richard",
+      "last": "Hudson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/108/cosponsors?s=10&r=8&overview=closed#tabs",
+    "title": "H.R.108 - National Medal of Honor Monument Act",
+    "cosponsors": [
+      "Rep. Panetta, Jimmy [D-CA-20]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Frank",
+      "last": "Lucas"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/210/cosponsors?s=2&r=2&overview=closed#tabs",
+    "title": "H.R.210 - Rural STEM Education Research Act",
+    "cosponsors": [
+      "Rep. Johnson, Eddie Bernice [D-TX-30]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Markwayne",
+      "last": "Mullin"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1762/cosponsors?s=3&r=1&overview=closed#tabs",
+    "title": "H.R.1762 - To direct the Federal Trade Commission to submit to Congress a report on unfair or deceptive acts or practices targeted at Indian Tribes or members of Indian Tribes, and for other purposes.",
+    "cosponsors": [
+      "Rep. O'Halleran, Tom [D-AZ-1]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Scott",
+      "last": "Perry"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1586/cosponsors?s=7&r=3&overview=closed#tabs",
+    "title": "H.R.1586 - To amend the Higher Education Act of 1965 to direct the Secretary of Education to carry out a program under which an institution of higher education may elect to cosign Federal student loans made to students attending the institution, and for other purposes.",
+    "cosponsors": [
+      "Del. San Nicolas, Michael F. Q. [D-GU-At Large]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Joe",
+      "last": "Wilson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1036/cosponsors?s=10&r=3&overview=closed#tabs",
+    "title": "H.R.1036 - Bassam Barabandi Rewards for Justice Act",
+    "cosponsors": [
+      "Rep. Deutch, Theodore E. [D-FL-22]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tim",
+      "last": "Burchett"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/915/cosponsors?s=4&r=5&overview=closed#tabs",
+    "title": "H.R.915 - RAFT Act of 2021",
+    "cosponsors": [
+      "Rep. Case, Ed [D-HI-1]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mark",
+      "last": "Green"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1743/cosponsors?s=6&r=1&overview=closed#tabs",
+    "title": "H.R.1743 - To require annual reports on allied contributions to the common defense, and for other purposes.",
+    "cosponsors": [
+      "Rep. Cuellar, Henry [D-TX-28]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "August",
+      "last": "Pfluger"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1311/cosponsors?s=5&r=1&overview=closed#tabs",
+    "title": "H.R.1311 - To amend the State Department Basic Authorities Act of 1956 to provide for energy security and diplomacy, and for other purposes.",
+    "cosponsors": [
+      "Rep. Gonzalez, Vicente [D-TX-15]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Carol",
+      "last": "Miller"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1701/cosponsors?s=8&r=1&overview=closed#tabs",
+    "title": "H.R.1701 - To promote exports of goods and services from and facilitation of business investment in rural areas of the United States.",
+    "cosponsors": [
+      "Rep. Trone, David J. [D-MD-6]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Carol",
+      "last": "Miller"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1063/cosponsors?s=8&r=2&overview=closed#tabs",
+    "title": "H.R.1063 - Helping Gig Economy Workers Act of 2021",
+    "cosponsors": [
+      "Rep. Cuellar, Henry [D-TX-28]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "David",
+      "last": "Schweikert"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/283/cosponsors?s=9&r=4&overview=closed#tabs",
+    "title": "H.R.283 - Crowd Sourcing of Environmental Data Act of 2021",
+    "cosponsors": [
+      "Rep. Cardenas, Tony [D-CA-29]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Greg",
+      "last": "Pence"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1788/cosponsors?s=10&r=1&overview=closed#tabs",
+    "title": "H.R.1788 - To amend title XVII of the Energy Policy Act of 2005 relating to the eligibility for loan guarantees for projects relating to hydrogen production, delivery, infrastructure, storage, fuel cells, and end uses, and for other purposes.",
+    "cosponsors": [
+      "Rep. Carson, Andre [D-IN-7]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Greg",
+      "last": "Pence"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/947/cosponsors?s=10&r=3&overview=closed#tabs",
+    "title": "H.R.947 - RURAL Act",
+    "cosponsors": [
+      "Rep. Brownley, Julia [D-CA-26]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Virginia",
+      "last": "Foxx"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/701/cosponsors?s=1&r=1&overview=closed#tabs",
+    "title": "H.R.701 - Unfunded Mandates Accountability and Transparency Act",
+    "cosponsors": [
+      "Rep. Cuellar, Henry [D-TX-28]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Glenn",
+      "last": "Thompson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1861/cosponsors?s=5&r=1&overview=closed#tabs",
+    "title": "H.R.1861 - To amend the Richard B. Russell National School Lunch Act to allow schools that participate in the school lunch program under such Act to serve whole milk.",
+    "cosponsors": [
+      "Rep. Delgado, Antonio [D-NY-19]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Lloyd",
+      "last": "Smucker"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1713/cosponsors?s=6&r=1&overview=closed#tabs",
+    "title": "H.R.1713 - To amend the Child Abuse Prevention and Treatment and Adoption Reform Act of 1978 to require a study and report on adoption outcomes and the factors affecting those outcomes, and for other purposes.",
+    "cosponsors": [
+      "Rep. Underwood, Lauren [D-IL-14]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "David",
+      "last": "Kustoff"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1303/cosponsors?s=9&r=2&overview=closed#tabs",
+    "title": "H.R.1303 - To amend the Controlled Substances Act to prohibit the knowing possession of a pill press mold with intent to manufacture in violation of such Act a counterfeit substance in schedule I or II in a capsule, tablet, and other form intended for distribution, and for other purposes.",
+    "cosponsors": [
+      "Rep. Spanberger, Abigail Davis [D-VA-7]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Robert",
+      "last": "Wittman"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/184/cosponsors?s=2&r=12&overview=closed#tabs",
+    "title": "H.Res.184 - Expressing support for the designation of the week of March 28, 2021, through April 3, 2021, as National Small Business Workplace Solutions Week.",
+    "cosponsors": [
+      "Rep. Cuellar, Henry [D-TX-28]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  }
+]

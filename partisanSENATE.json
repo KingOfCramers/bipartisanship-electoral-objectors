@@ -1,0 +1,1807 @@
+[
+  {
+    "sponsor": {
+      "first": "Cindy",
+      "last": "Hyde-Smith"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/78/cosponsors?s=6&r=2&overview=closed#tabs",
+    "title": "S.78 - SAVE Moms and Babies Act of 2021",
+    "cosponsors": [
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Blunt, Roy [R-MO]*",
+      "Sen. Boozman, John [R-AR]*",
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Fischer, Deb [R-NE]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Portman, Rob [R-OH]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Sasse, Ben  [R-NE]*",
+      "Sen. Sullivan, Dan  [R-AK]*",
+      "Sen. Thune, John [R-SD]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Graham, Lindsey [R-SC]*",
+      "Sen. Hoeven, John [R-ND]*",
+      "Sen. Lee, Mike [R-UT]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Paul, Rand [R-KY]*",
+      "Sen. Scott, Rick  [R-FL]*",
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Young, Todd [R-IN]*",
+      "Sen. Scott, Tim [R-SC]*"
+    ],
+    "dem": 0,
+    "gop": 31,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Cynthia",
+      "last": "Lummis"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/76/cosponsors?s=7&r=1&overview=closed#tabs",
+    "title": "S.76 - POWER Act of 2021",
+    "cosponsors": [
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Capito, Shelley Moore [R-WV]*",
+      "Sen. Cassidy, Bill [R-LA]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Crapo, Mike [R-ID]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Hoeven, John [R-ND]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Kennedy, John [R-LA]*",
+      "Sen. Lee, Mike [R-UT]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Toomey, Pat [R-PA]*",
+      "Sen. Tuberville, Tommy [R-AL]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Romney, Mitt  [R-UT]*",
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Boozman, John [R-AR]*",
+      "Sen. Johnson, Ron [R-WI]*",
+      "Sen. Sullivan, Dan  [R-AK]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Ernst, Joni  [R-IA]",
+      "Sen. Hagerty, Bill [R-TN]"
+    ],
+    "dem": 0,
+    "gop": 28,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Marsha",
+      "last": "Blackburn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/88/cosponsors?s=1&r=6&overview=closed#tabs",
+    "title": "S.88 - Title X Abortion Provider Prohibition Act",
+    "cosponsors": [
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Paul, Rand [R-KY]*",
+      "Sen. Romney, Mitt  [R-UT]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Blunt, Roy [R-MO]*",
+      "Sen. Fischer, Deb [R-NE]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Thune, John [R-SD]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Sasse, Ben  [R-NE]*",
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Cassidy, Bill [R-LA]*",
+      "Sen. Lee, Mike [R-UT]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Young, Todd [R-IN]",
+      "Sen. Boozman, John [R-AR]"
+    ],
+    "dem": 0,
+    "gop": 28,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Bill",
+      "last": "Hagerty"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/488/cosponsors?s=4&r=2&overview=closed#tabs",
+    "title": "S.488 - A bill to provide for congressional review of actions to terminate or waive sanctions imposed with respect to Iran.",
+    "cosponsors": [
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Blunt, Roy [R-MO]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Hoeven, John [R-ND]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Johnson, Ron [R-WI]*",
+      "Sen. Young, Todd [R-IN]*",
+      "Sen. Sasse, Ben  [R-NE]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Boozman, John [R-AR]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Capito, Shelley Moore [R-WV]*",
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Murkowski, Lisa [R-AK]",
+      "Sen. Rounds, Mike  [R-SD]",
+      "Sen. Moran, Jerry [R-KS]",
+      "Sen. Collins, Susan M. [R-ME]",
+      "Sen. Cruz, Ted [R-TX]",
+      "Sen. Tuberville, Tommy [R-AL]"
+    ],
+    "dem": 0,
+    "gop": 27,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "James",
+      "last": "Lankford"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/401/cosponsors?s=4&r=4&overview=closed#tabs",
+    "title": "S.401 - A bill to amend the Public Health Service Act to prohibit governmental discrimination against health care providers that do not participate in abortion.",
+    "cosponsors": [
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Portman, Rob [R-OH]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Fischer, Deb [R-NE]*",
+      "Sen. Boozman, John [R-AR]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Cassidy, Bill [R-LA]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Thune, John [R-SD]*",
+      "Sen. Hoeven, John [R-ND]*",
+      "Sen. Sasse, Ben  [R-NE]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Scott, Rick  [R-FL]*",
+      "Sen. Lee, Mike [R-UT]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Rubio, Marco [R-FL]"
+    ],
+    "dem": 0,
+    "gop": 25,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "James",
+      "last": "Lankford"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/95/cosponsors?s=4&r=5&overview=closed#tabs",
+    "title": "S.95 - Women’s Public Health and Safety Act",
+    "cosponsors": [
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Thune, John [R-SD]*",
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Boozman, John [R-AR]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Scott, Rick  [R-FL]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Hawley, Josh  [R-MO]*"
+    ],
+    "dem": 0,
+    "gop": 22,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Cindy",
+      "last": "Hyde-Smith"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/77/cosponsors?s=6&r=3&overview=closed#tabs",
+    "title": "S.77 - Protecting Life and Integrity in Research Act of 2021",
+    "cosponsors": [
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Boozman, John [R-AR]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Fischer, Deb [R-NE]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Portman, Rob [R-OH]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Kennedy, John [R-LA]*",
+      "Sen. Lee, Mike [R-UT]*"
+    ],
+    "dem": 0,
+    "gop": 21,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/293/cosponsors?s=2&r=10&overview=closed#tabs",
+    "title": "S.293 - Dignity for Aborted Children Act",
+    "cosponsors": [
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Thune, John [R-SD]*",
+      "Sen. Blunt, Roy [R-MO]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Scott, Rick  [R-FL]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Young, Todd [R-IN]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Paul, Rand [R-KY]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Lee, Mike [R-UT]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Rounds, Mike  [R-SD]"
+    ],
+    "dem": 0,
+    "gop": 21,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-joint-resolution/9/cosponsors?s=1&r=21&overview=closed#tabs",
+    "title": "S.J.Res.9 - A joint resolution proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
+    "cosponsors": [
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Boozman, John [R-AR]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Cassidy, Bill [R-LA]*",
+      "Sen. Lee, Mike [R-UT]*",
+      "Sen. Portman, Rob [R-OH]*",
+      "Sen. Grassley, Chuck [R-IA]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Kennedy, John [R-LA]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Tillis, Thom [R-NC]*"
+    ],
+    "dem": 0,
+    "gop": 17,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Cindy",
+      "last": "Hyde-Smith"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-joint-resolution/6/cosponsors?s=6&r=4&overview=closed#tabs",
+    "title": "S.J.Res.6 - A joint resolution proposing an amendment to the Constitution of the United States relative to balancing the budget.",
+    "cosponsors": [
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Hoeven, John [R-ND]*",
+      "Sen. Young, Todd [R-IN]*",
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Crapo, Mike [R-ID]*",
+      "Sen. Capito, Shelley Moore [R-WV]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Fischer, Deb [R-NE]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Hagerty, Bill [R-TN]*"
+    ],
+    "dem": 0,
+    "gop": 15,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/461/cosponsors?s=1&r=6&overview=closed#tabs",
+    "title": "S.461 - A bill to create a point of order against legislation modifying the number of Justices of the Supreme Court of the United States.",
+    "cosponsors": [
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Boozman, John [R-AR]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Cassidy, Bill [R-LA]*",
+      "Sen. Lee, Mike [R-UT]*",
+      "Sen. Scott, Rick  [R-FL]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Kennedy, John [R-LA]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Inhofe, James M. [R-OK]*"
+    ],
+    "dem": 0,
+    "gop": 14,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "John",
+      "last": "Kennedy"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/86/cosponsors?s=3&r=3&overview=closed#tabs",
+    "title": "S.86 - PRENDA",
+    "cosponsors": [
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Sasse, Ben  [R-NE]*",
+      "Sen. Thune, John [R-SD]*"
+    ],
+    "dem": 0,
+    "gop": 14,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-concurrent-resolution/4/cosponsors?s=3&r=9&overview=closed#tabs",
+    "title": "S.Con.Res.4 - A concurrent resolution affirming the importance of religious freedom as a fundamental human right that is essential to a free society and protected for all people of the United States under the Constitution of the United States, and recognizing the 235th anniversary of the enactment of the Virginia Statute for Religious Freedom.",
+    "cosponsors": [
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Blunt, Roy [R-MO]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Hoeven, John [R-ND]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Rounds, Mike  [R-SD]*"
+    ],
+    "dem": 0,
+    "gop": 14,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/294/cosponsors?s=2&r=9&overview=closed#tabs",
+    "title": "S.294 - Parental Notification and Intervention Act",
+    "cosponsors": [
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Scott, Rick  [R-FL]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Paul, Rand [R-KY]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*"
+    ],
+    "dem": 0,
+    "gop": 13,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ron",
+      "last": "Johnson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/628/cosponsors?s=2&r=1&overview=closed#tabs",
+    "title": "S.628 - A bill to increase access to agency guidance documents.",
+    "cosponsors": [
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Paul, Rand [R-KY]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Inhofe, James M. [R-OK]",
+      "Sen. Lee, Mike [R-UT]"
+    ],
+    "dem": 0,
+    "gop": 12,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/501/cosponsors?s=3&r=2&overview=closed#tabs",
+    "title": "S.501 - A bill to prohibit earmarks.",
+    "cosponsors": [
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Lee, Mike [R-UT]*",
+      "Sen. Johnson, Ron [R-WI]*",
+      "Sen. Paul, Rand [R-KY]*",
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Toomey, Pat [R-PA]*",
+      "Sen. Portman, Rob [R-OH]*",
+      "Sen. Grassley, Chuck [R-IA]",
+      "Sen. Scott, Rick  [R-FL]",
+      "Sen. Braun, Mike  [R-IN]"
+    ],
+    "dem": 0,
+    "gop": 12,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-joint-resolution/3/cosponsors?s=1&r=22&overview=closed#tabs",
+    "title": "S.J.Res.3 - A joint resolution proposing an amendment to the Constitution of the United States relative to limiting the number of terms that a Member of Congress may serve.",
+    "cosponsors": [
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Toomey, Pat [R-PA]*",
+      "Sen. Young, Todd [R-IN]*",
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Scott, Rick  [R-FL]*",
+      "Sen. Lee, Mike [R-UT]",
+      "Sen. Sasse, Ben  [R-NE]",
+      "Sen. Tuberville, Tommy [R-AL]",
+      "Sen. Marshall, Roger W. [R-KS]",
+      "Sen. Lummis, Cynthia M. [R-WY]"
+    ],
+    "dem": 0,
+    "gop": 10,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/88/cosponsors?s=9&r=14&overview=closed#tabs",
+    "title": "S.Res.88 - A resolution requesting that the President transmit to the Senate not later than 14 days after the date of the adoption of this resolution documents in the possession of the President relating to the amount of funding previously enacted under certain public laws and currently unspent.",
+    "cosponsors": [
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Young, Todd [R-IN]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Hoeven, John [R-ND]*",
+      "Sen. Blackburn, Marsha [R-TN]"
+    ],
+    "dem": 0,
+    "gop": 10,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Marsha",
+      "last": "Blackburn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/364/cosponsors?s=1&r=3&overview=closed#tabs",
+    "title": "S.364 - No Taxpayer Funding for Paris Climate Agreement Act",
+    "cosponsors": [
+      "Sen. Tuberville, Tommy [R-AL]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Wicker, Roger F. [R-MS]*"
+    ],
+    "dem": 0,
+    "gop": 10,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/106/cosponsors?s=3&r=7&overview=closed#tabs",
+    "title": "S.106 - A PLUS Act",
+    "cosponsors": [
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Johnson, Ron [R-WI]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Scott, Rick  [R-FL]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Sasse, Ben  [R-NE]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Lankford, James [R-OK]"
+    ],
+    "dem": 0,
+    "gop": 10,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/68/cosponsors?s=3&r=10&overview=closed#tabs",
+    "title": "S.Res.68 - A resolution expressing the sense of the Senate that the President should submit the Paris Agreement to the Senate for review and consideration.",
+    "cosponsors": [
+      "Sen. Crapo, Mike [R-ID]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Paul, Rand [R-KY]*",
+      "Sen. Toomey, Pat [R-PA]*"
+    ],
+    "dem": 0,
+    "gop": 10,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/43/cosponsors?s=1&r=20&overview=closed#tabs",
+    "title": "S.43 - Education Freedom Scholarships and Opportunity Act",
+    "cosponsors": [
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Toomey, Pat [R-PA]*",
+      "Sen. Sasse, Ben  [R-NE]*",
+      "Sen. Young, Todd [R-IN]*",
+      "Sen. Cassidy, Bill [R-LA]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Scott, Tim [R-SC]"
+    ],
+    "dem": 0,
+    "gop": 9,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Cindy",
+      "last": "Hyde-Smith"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/702/cosponsors?s=6&r=1&overview=closed#tabs",
+    "title": "S.702 - A bill to prohibit Federal funding of State firearm ownership databases, and for other purposes.",
+    "cosponsors": [
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Hagerty, Bill [R-TN]*",
+      "Sen. Thune, John [R-SD]*"
+    ],
+    "dem": 0,
+    "gop": 9,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Roger",
+      "last": "Marshall"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/87/cosponsors?s=8&r=1&overview=closed#tabs",
+    "title": "S.87 - Protecting Life in Crisis Act",
+    "cosponsors": [
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Paul, Rand [R-KY]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Cramer, Kevin [R-ND]"
+    ],
+    "dem": 0,
+    "gop": 9,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/44/cosponsors?s=1&r=19&overview=closed#tabs",
+    "title": "S.44 - Student Empowerment Act",
+    "cosponsors": [
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Toomey, Pat [R-PA]*",
+      "Sen. Sasse, Ben  [R-NE]*",
+      "Sen. Johnson, Ron [R-WI]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Paul, Rand [R-KY]*",
+      "Sen. Scott, Tim [R-SC]",
+      "Sen. Braun, Mike  [R-IN]"
+    ],
+    "dem": 0,
+    "gop": 8,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "John",
+      "last": "Kennedy"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/83/cosponsors?s=3&r=4&overview=closed#tabs",
+    "title": "S.83 - Pregnant Women Health and Safety Act of 2021",
+    "cosponsors": [
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Tillis, Thom [R-NC]*"
+    ],
+    "dem": 0,
+    "gop": 7,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "John",
+      "last": "Kennedy"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/69/cosponsors?s=3&r=5&overview=closed#tabs",
+    "title": "S.69 - Conservation Funding Protection Act",
+    "cosponsors": [
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Cassidy, Bill [R-LA]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*"
+    ],
+    "dem": 0,
+    "gop": 7,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/13/cosponsors?s=9&r=18&overview=closed#tabs",
+    "title": "S.Res.13 - A resolution expressing the sense of the Senate that the International Olympic Committee should rebid the 2022 Winter Olympic Games to be hosted by a country that recognizes and respects human rights.",
+    "cosponsors": [
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Young, Todd [R-IN]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Marshall, Roger W. [R-KS]"
+    ],
+    "dem": 0,
+    "gop": 7,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Marsha",
+      "last": "Blackburn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/25/cosponsors?s=1&r=7&overview=closed#tabs",
+    "title": "S.25 - Stop Greenlighting Driver Licenses for Illegal Immigrants Act of 2021",
+    "cosponsors": [
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Daines, Steve [R-MT]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Kennedy, John [R-LA]"
+    ],
+    "dem": 0,
+    "gop": 7,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "John",
+      "last": "Kennedy"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/590/cosponsors?s=3&r=1&overview=closed#tabs",
+    "title": "S.590 - CONFUCIUS Act",
+    "cosponsors": [
+      "Sen. Grassley, Chuck [R-IA]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Marshall, Roger W. [R-KS]*"
+    ],
+    "dem": 0,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Marsha",
+      "last": "Blackburn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/710/cosponsors?s=1&r=1&overview=closed#tabs",
+    "title": "S.710 - A bill to direct the Comptroller General of the United States to conduct a study to evaluate the activities of sister city partnerships operating within the United States, and for other purposes.",
+    "cosponsors": [
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Marshall, Roger W. [R-KS]*"
+    ],
+    "dem": 0,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/12/cosponsors?s=2&r=12&overview=closed#tabs",
+    "title": "S.Res.12 - A resolution memorializing the unborn by lowering the United States flag to half-staff on January 22, 2021.",
+    "cosponsors": [
+      "Sen. Inhofe, James M. [R-OK]",
+      "Sen. Blackburn, Marsha [R-TN]",
+      "Sen. Rounds, Mike  [R-SD]",
+      "Sen. Paul, Rand [R-KY]",
+      "Sen. Hagerty, Bill [R-TN]"
+    ],
+    "dem": 0,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/525/cosponsors?s=3&r=1&overview=closed#tabs",
+    "title": "S.525 - A bill to amend chapter 44 of title 18, United States Code, to more comprehensively address the interstate transportation of firearms or ammunition.",
+    "cosponsors": [
+      "Sen. Crapo, Mike [R-ID]*",
+      "Sen. Lankford, James [R-OK]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Rounds, Mike  [R-SD]*",
+      "Sen. Capito, Shelley Moore [R-WV]*"
+    ],
+    "dem": 0,
+    "gop": 5,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Josh",
+      "last": "Hawley"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/18/cosponsors?s=5&r=5&overview=closed#tabs",
+    "title": "S.Res.18 - A resolution in support of an international investigation into the handling by the Government of the People's Republic of China of COVID-19 and the impact thereof on the people of the United States and other nations.",
+    "cosponsors": [
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Daines, Steve [R-MT]",
+      "Sen. Braun, Mike  [R-IN]"
+    ],
+    "dem": 0,
+    "gop": 4,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/459/cosponsors?s=9&r=4&overview=closed#tabs",
+    "title": "S.459 - A bill to amend the National Voter Registration Act of 1993 and the Help America Vote Act of 2002 to promote integrity in voter registration, the casting of ballots, and the tabulation of ballots in elections for Federal office, and for other purposes.",
+    "cosponsors": [
+      "Sen. Hyde-Smith, Cindy [R-MS]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Cramer, Kevin [R-ND]"
+    ],
+    "dem": 0,
+    "gop": 4,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/103/cosponsors?s=9&r=13&overview=closed#tabs",
+    "title": "S.Res.103 - A resolution condemning military aggression and use of force by the Chinese Coast Guard against peaceful foreign vessels that purportedly violate the unlawful maritime sovereignty of China.",
+    "cosponsors": [
+      "Sen. Sullivan, Dan  [R-AK]*",
+      "Sen. Wicker, Roger F. [R-MS]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Hawley, Josh  [R-MO]*"
+    ],
+    "dem": 0,
+    "gop": 4,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/84/cosponsors?s=9&r=15&overview=closed#tabs",
+    "title": "S.Res.84 - A resolution amending the Standing Rules of the Senate to prohibit the consideration of legislation in the Senate unless the text of the legislation that will be considered has been made publicly available in electronic form for a mandatory minimum review period.",
+    "cosponsors": [
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Kennedy, John [R-LA]*"
+    ],
+    "dem": 0,
+    "gop": 4,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Bill",
+      "last": "Hagerty"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/519/cosponsors?s=4&r=1&overview=closed#tabs",
+    "title": "S.519 - A bill to review the use of election security grants in the 2020 presidential election and to prohibit future election security grants to States with unconstitutional election procedures.",
+    "cosponsors": [
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Lummis, Cynthia M. [R-WY]",
+      "Sen. Marshall, Roger W. [R-KS]"
+    ],
+    "dem": 0,
+    "gop": 4,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/524/cosponsors?s=1&r=4&overview=closed#tabs",
+    "title": "S.524 - A bill to abolish the Federal Insurance Office of the Department of the Treasury, and for other purposes.",
+    "cosponsors": [
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*"
+    ],
+    "dem": 0,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/126/cosponsors?s=1&r=17&overview=closed#tabs",
+    "title": "S.126 - A bill to amend the Internal Revenue Code of 1986 to make permanent the individual tax provisions of the tax reform law, and for other purposes.",
+    "cosponsors": [
+      "Sen. Ernst, Joni  [R-IA]*",
+      "Sen. Braun, Mike  [R-IN]*",
+      "Sen. Inhofe, James M. [R-OK]*"
+    ],
+    "dem": 0,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/568/cosponsors?s=9&r=3&overview=closed#tabs",
+    "title": "S.568 - A bill to require the Secretary of Commerce to certify, before removing an entity from the entity list, that the entity is no longer involved in activities contrary to the national security or foreign policy interests of the United States and that removing the entity from the list does not pose a threat to allies of the United States.",
+    "cosponsors": [
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Rubio, Marco [R-FL]*"
+    ],
+    "dem": 0,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/480/cosponsors?s=3&r=3&overview=closed#tabs",
+    "title": "S.480 - A bill to amend the Internal Revenue Code of 1986 to make permanent the deduction for qualified business income.",
+    "cosponsors": [
+      "Sen. Cassidy, Bill [R-LA]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Portman, Rob [R-OH]*"
+    ],
+    "dem": 0,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/706/cosponsors?s=1&r=1&overview=closed#tabs",
+    "title": "S.706 - A bill to modify a provision relating to adjustments of certain State apportionments for Federal highway programs, and for other purposes.",
+    "cosponsors": [
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Burr, Richard [R-NC]*"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/705/cosponsors?s=1&r=2&overview=closed#tabs",
+    "title": "S.705 - A bill to amend the Intermodal Surface Transportation Efficiency Act of 1991 with respect to future interstate designations, and for other purposes.",
+    "cosponsors": [
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Cramer, Kevin [R-ND]*"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/523/cosponsors?s=1&r=5&overview=closed#tabs",
+    "title": "S.523 - A bill to repeal the Office of Financial Research, and for other purposes.",
+    "cosponsors": [
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Braun, Mike  [R-IN]*"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/361/cosponsors?s=1&r=8&overview=closed#tabs",
+    "title": "S.361 - A bill to establish a 90-day limit to file a petition for judicial review of a permit, license, or approval for a highway or public transportation project, and for other purposes.",
+    "cosponsors": [
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Lee, Mike [R-UT]"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/154/cosponsors?s=1&r=14&overview=closed#tabs",
+    "title": "S.154 - Reciprocity Ensures Streamlined Use of Lifesaving Treatments Act of 2021",
+    "cosponsors": [
+      "Sen. Johnson, Ron [R-WI]*",
+      "Sen. Ernst, Joni  [R-IA]*"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/153/cosponsors?s=1&r=15&overview=closed#tabs",
+    "title": "S.153 - Personalized Care Act of 2021",
+    "cosponsors": [
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Braun, Mike  [R-IN]"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ron",
+      "last": "Johnson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/111/cosponsors?s=2&r=4&overview=closed#tabs",
+    "title": "S.111 - Luke and Alex School Safety Act of 2021",
+    "cosponsors": [
+      "Sen. Scott, Rick  [R-FL]*",
+      "Sen. Rubio, Marco [R-FL]*"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "James",
+      "last": "Lankford"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/533/cosponsors?s=4&r=2&overview=closed#tabs",
+    "title": "S.533 - A bill to require a guidance clarity statement on certain agency guidance, and for other purposes.",
+    "cosponsors": [
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Johnson, Ron [R-WI]*"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Josh",
+      "last": "Hawley"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/62/cosponsors?s=5&r=4&overview=closed#tabs",
+    "title": "S.62 - Duck Boat Safety Enhancement Act of 2021",
+    "cosponsors": [
+      "Sen. Blunt, Roy [R-MO]*",
+      "Sen. Cotton, Tom [R-AR]"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/55/cosponsors?s=9&r=11&overview=closed#tabs",
+    "title": "S.55 - A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.",
+    "cosponsors": [
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Braun, Mike  [R-IN]*"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/31/cosponsors?s=9&r=17&overview=closed#tabs",
+    "title": "S.Res.31 - A resolution expressing the Senate's opposition to the current, ineffective JCPOA.",
+    "cosponsors": [
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Ernst, Joni  [R-IA]*"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/338/cosponsors?s=2&r=8&overview=closed#tabs",
+    "title": "S.338 - Helping Gig Economy Workers Act of 2021",
+    "cosponsors": [
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Cassidy, Bill [R-LA]"
+    ],
+    "dem": 0,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/676/cosponsors?s=1&r=3&overview=closed#tabs",
+    "title": "S.676 - A bill to address foreign threats to higher education in the United States.",
+    "cosponsors": [
+      "Sen. Blackburn, Marsha [R-TN]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/362/cosponsors?s=1&r=7&overview=closed#tabs",
+    "title": "S.362 - Federal Permitting Modernization Act of 2021",
+    "cosponsors": [
+      "Sen. Cotton, Tom [R-AR]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/277/cosponsors?s=1&r=9&overview=closed#tabs",
+    "title": "S.277 - Public Water Supply Invasive Species Compliance Act of 2021",
+    "cosponsors": [
+      "Sen. Cassidy, Bill [R-LA]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/276/cosponsors?s=1&r=10&overview=closed#tabs",
+    "title": "S.276 - SAVES Act",
+    "cosponsors": [
+      "Sen. Paul, Rand [R-KY]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/275/cosponsors?s=1&r=11&overview=closed#tabs",
+    "title": "S.275 - Retirement Freedom Act",
+    "cosponsors": [
+      "Sen. Paul, Rand [R-KY]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/155/cosponsors?s=1&r=13&overview=closed#tabs",
+    "title": "S.155 - Equal Access to Care Act",
+    "cosponsors": [
+      "Sen. Blackburn, Marsha [R-TN]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/152/cosponsors?s=1&r=16&overview=closed#tabs",
+    "title": "S.152 - Right to Test Act",
+    "cosponsors": [
+      "Sen. Braun, Mike  [R-IN]"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Cynthia",
+      "last": "Lummis"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/22/cosponsors?s=7&r=2&overview=closed#tabs",
+    "title": "S.22 - A bill to designate the mountain at the Devils Tower National Monument, Wyoming, as Devils Tower, and for other purposes.",
+    "cosponsors": [
+      "Sen. Barrasso, John [R-WY]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/296/cosponsors?s=9&r=9&overview=closed#tabs",
+    "title": "S.296 - World Health Organization Accountability Act of 2021",
+    "cosponsors": [
+      "Sen. Hawley, Josh  [R-MO]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/42/cosponsors?s=9&r=16&overview=closed#tabs",
+    "title": "S.Res.42 - A resolution honoring the memories of the victims of the senseless attack at Marjory Stoneman Douglas High School on February 14, 2018.",
+    "cosponsors": [
+      "Sen. Rubio, Marco [R-FL]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Marsha",
+      "last": "Blackburn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/298/cosponsors?s=1&r=4&overview=closed#tabs",
+    "title": "S.298 - Pharmacy Benefit Manager Accountability Study Act of 2021",
+    "cosponsors": [
+      "Sen. Braun, Mike  [R-IN]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/546/cosponsors?s=2&r=3&overview=closed#tabs",
+    "title": "S.546 - A bill to amend title 18, United States Code, to prohibit former Members and elected officers of Congress from lobbying Congress at any time after leaving office.",
+    "cosponsors": [
+      "Sen. Scott, Rick  [R-FL]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/489/cosponsors?s=2&r=4&overview=closed#tabs",
+    "title": "S.489 - A bill to require an annual report of Federal employees and retirees with delinquent tax debt.",
+    "cosponsors": [
+      "Sen. Ernst, Joni  [R-IA]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/474/cosponsors?s=2&r=5&overview=closed#tabs",
+    "title": "S.474 - A bill to prohibit the Export-Import Bank of the United States from providing financing to persons with seriously delinquent tax debt.",
+    "cosponsors": [
+      "Sen. Kennedy, John [R-LA]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/472/cosponsors?s=2&r=6&overview=closed#tabs",
+    "title": "S.472 - A bill to amend title 5, United States Code, to provide for the termination of certain retirement benefits for Members of Congress, except the right to continue participating in the Thrift Savings Plan, and for other purposes.",
+    "cosponsors": [
+      "Sen. Scott, Rick  [R-FL]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/471/cosponsors?s=2&r=7&overview=closed#tabs",
+    "title": "S.471 - A bill to allow Members of Congress to opt out of the Federal Employees Retirement System, and allow Members who opt out of the Federal Employees Retirement System to continue to participate in the Thrift Savings Plan.",
+    "cosponsors": [
+      "Sen. Scott, Rick  [R-FL]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/102/cosponsors?s=2&r=11&overview=closed#tabs",
+    "title": "S.Res.102 - A resolution recognizing the 100th anniversary of The Hoosier Gym and the 35th anniversary of the release of the film \"Hoosiers\".",
+    "cosponsors": [
+      "Sen. Young, Todd [R-IN]*"
+    ],
+    "dem": 0,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/197/cosponsors?s=1&r=12&overview=closed#tabs",
+    "title": "S.197 - CREATE JOBS Act",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ted",
+      "last": "Cruz"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/45/cosponsors?s=1&r=18&overview=closed#tabs",
+    "title": "S.45 - School Security Enhancement Act",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "John",
+      "last": "Kennedy"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/398/cosponsors?s=3&r=2&overview=closed#tabs",
+    "title": "S.398 - A bill to amend the Homeland Security Act of 2002 to clarify that utility line technicians qualify as emergency response providers.",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Josh",
+      "last": "Hawley"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/720/cosponsors?s=5&r=1&overview=closed#tabs",
+    "title": "S.720 - A bill to encourage States to permit members of the Armed Forces who are outside of the State under orders to renew a permit to carry a concealed firearm through the mail, and for other purposes.",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Josh",
+      "last": "Hawley"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/555/cosponsors?s=5&r=2&overview=closed#tabs",
+    "title": "S.555 - A bill to amend the Fair Labor Standards Act of 1938 to increase the Federal minimum wage for employers with at least $1,000,000,000 in annual revenue, and for other purposes.",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Josh",
+      "last": "Hawley"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/536/cosponsors?s=5&r=3&overview=closed#tabs",
+    "title": "S.536 - A bill to amend the Internal Revenue Code of 1986 to provide a credit for wages received by individuals that are less than the median wage.",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Josh",
+      "last": "Hawley"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/18/all-actions?s=5&r=5&overview=closed#tabs",
+    "title": "S.Res.18 - A resolution in support of an international investigation into the handling by the Government of the People's Republic of China of COVID-19 and the impact thereof on the people of the United States and other nations.",
+    "cosponsors": [
+      "S178"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/629/cosponsors?s=9&r=2&overview=closed#tabs",
+    "title": "S.629 - A bill to amend chapter 8 of title 5, United States Code, to require Federal agencies to submit to the Comptroller General of the United States a report on rules that are revoked, suspended, replaced, amended, or otherwise made ineffective.",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/332/cosponsors?s=9&r=6&overview=closed#tabs",
+    "title": "S.332 - Taiwan Invasion Prevention Act",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/302/cosponsors?s=9&r=7&overview=closed#tabs",
+    "title": "S.302 - STOP COVID–19 Act",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/301/cosponsors?s=9&r=8&overview=closed#tabs",
+    "title": "S.301 - Verifiable, Orderly, and Timely Election Results Act",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-joint-resolution/2/cosponsors?s=9&r=12&overview=closed#tabs",
+    "title": "S.J.Res.2 - A joint resolution proposing amendments to the Constitution of the United States relative to the line item veto, a limitation on the number of terms that a Member of Congress may serve, and requiring a vote of two-thirds of the membership of both Houses of Congress on any legislation raising or imposing new taxes or fees.",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/103/all-actions?s=9&r=13&overview=closed#tabs",
+    "title": "S.Res.103 - A resolution condemning military aggression and use of force by the Chinese Coast Guard against peaceful foreign vessels that purportedly violate the unlawful maritime sovereignty of China.",
+    "cosponsors": [
+      "S1471-1472"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/88/all-actions?s=9&r=14&overview=closed#tabs",
+    "title": "S.Res.88 - A resolution requesting that the President transmit to the Senate not later than 14 days after the date of the adoption of this resolution documents in the possession of the President relating to the amount of funding previously enacted under certain public laws and currently unspent.",
+    "cosponsors": [
+      "S1031"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/congressional-record/volume-167/senate-section/page/S579",
+    "title": "Title not found.",
+    "cosponsors": [
+      "SENATE RESOLUTION 41--ALLOWING LIMITED LAPTOP COMPUTER ACCESS ON THE FLOOR OF THE SENATE DURING IMPEACHMENT PROCEEDINGS OF DONALD JOHN TRUMP, FORMER PRESIDENT OF THE UNITED STATES; Congressional Record Vol. 167, No. 23",
+      "PDF",
+      "SENATE RESOLUTION 42--HONORING THE MEMORIES OF THE VICTIMS OF THE SENSELESS ATTACK AT MARJORY STONEMAN DOUGLAS HIGH SCHOOL ON FEBRUARY 14, 2018; Congressional Record Vol. 167, No. 23",
+      "PDF",
+      "SENATE RESOLUTION 43--RECOGNIZING THE DUTY OF THE FEDERAL GOVERNMENT TO IMPLEMENT AN AGENDA TO TRANSFORM, HEAL, AND RENEW BY INVESTING IN A VIBRANT ECONOMY (``THRIVE''); Congressional Record Vol. 167, No. 23",
+      "PDF"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/31/all-actions?s=9&r=17&overview=closed#tabs",
+    "title": "S.Res.31 - A resolution expressing the Senate's opposition to the current, ineffective JCPOA.",
+    "cosponsors": [
+      "S322-323"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/13/all-actions?s=9&r=18&overview=closed#tabs",
+    "title": "S.Res.13 - A resolution expressing the sense of the Senate that the International Olympic Committee should rebid the 2022 Winter Olympic Games to be hosted by a country that recognizes and respects human rights.",
+    "cosponsors": [
+      "S106-107"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Tommy",
+      "last": "Tuberville"
+    },
+    "billLink": "https://www.congress.gov/amendment/117th-congress/senate-amendment/891/actions?s=10&r=2&s=10&r=2",
+    "title": "S.Amdt.891 to ",
+    "cosponsors": [
+      "SA 891",
+      "S1219",
+      "SA 891",
+      "S1051-1117",
+      "S1051-1117"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Marsha",
+      "last": "Blackburn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/113/cosponsors?s=1&r=5&overview=closed#tabs",
+    "title": "S.113 - BROWSER Act of 2021",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Marsha",
+      "last": "Blackburn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/17/cosponsors?s=1&r=8&overview=closed#tabs",
+    "title": "S.17 - Ban Birth Tourism Act",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/730/cosponsors?s=2&r=1&overview=closed#tabs",
+    "title": "S.730 - A bill to amend title VI of the Social Security Act to remove the prohibition on States and territories against lowering their taxes.",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/congressional-record/volume-167/senate-section/page/S1471",
+    "title": "Title not found.",
+    "cosponsors": [
+      "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTION; Congressional Record Vol. 167, No. 45",
+      "PDF",
+      "SUBMITTED RESOLUTIONS; Congressional Record Vol. 167, No. 45",
+      "PDF",
+      "SENATE RESOLUTION 103--CONDEMNING MILITARY AGGRESSION AND USE OF FORCE BY THE CHINESE COAST GUARD AGAINST PEACEFUL FOREIGN VESSELS THAT PURPORTEDLY VIOLATE THE UNLAWFUL MARITIME SOVEREIGNTY OF CHINA; Congressional Record Vol. 167, No. 45",
+      "PDF"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/12/all-actions?s=2&r=12&overview=closed#tabs",
+    "title": "S.Res.12 - A resolution memorializing the unborn by lowering the United States flag to half-staff on January 22, 2021.",
+    "cosponsors": [
+      "S105"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/48/cosponsors?s=3&r=8&overview=closed#tabs",
+    "title": "S.48 - Balanced Budget Accountability Act",
+    "cosponsors": [],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-concurrent-resolution/4/all-actions?s=3&r=9&overview=closed#tabs",
+    "title": "S.Con.Res.4 - A concurrent resolution affirming the importance of religious freedom as a fundamental human right that is essential to a free society and protected for all people of the United States under the Constitution of the United States, and recognizing the 235th anniversary of the enactment of the Virginia Statute for Religious Freedom.",
+    "cosponsors": [
+      "S204-205"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/68/all-actions?s=3&r=10&overview=closed#tabs",
+    "title": "S.Res.68 - A resolution expressing the sense of the Senate that the President should submit the Paris Agreement to the Senate for review and consideration.",
+    "cosponsors": [
+      "S774"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Bill",
+      "last": "Hagerty"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/107/all-actions?s=4&r=3&overview=closed#tabs",
+    "title": "S.Res.107 - A resolution expressing the sense of the Senate relating to the 10th anniversary of the March 11, 2011, earthquake and tsunami in Japan.",
+    "cosponsors": [
+      "S1505-1506"
+    ],
+    "dem": 0,
+    "gop": 0,
+    "indie": 0
+  }
+]

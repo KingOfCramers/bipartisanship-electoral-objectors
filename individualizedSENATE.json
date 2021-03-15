@@ -1,0 +1,128 @@
+[
+  {
+    "first": "Ted",
+    "last": "Cruz",
+    "state": "TX",
+    "billCount": 22,
+    "gop": 83,
+    "dem": 0,
+    "indie": 0
+  },
+  {
+    "first": "Ron",
+    "last": "Johnson",
+    "state": "WI",
+    "billCount": 4,
+    "gop": 17,
+    "dem": 2,
+    "indie": 0
+  },
+  {
+    "first": "John",
+    "last": "Kennedy",
+    "state": "LA",
+    "billCount": 5,
+    "gop": 33,
+    "dem": 0,
+    "indie": 0
+  },
+  {
+    "first": "James",
+    "last": "Lankford",
+    "state": "OK",
+    "billCount": 5,
+    "gop": 54,
+    "dem": 6,
+    "indie": 0
+  },
+  {
+    "first": "Josh",
+    "last": "Hawley",
+    "state": "MO",
+    "billCount": 6,
+    "gop": 6,
+    "dem": 0,
+    "indie": 0
+  },
+  {
+    "first": "Cindy",
+    "last": "Hyde-Smith",
+    "state": "MS",
+    "billCount": 4,
+    "gop": 76,
+    "dem": 0,
+    "indie": 0
+  },
+  {
+    "first": "Cynthia",
+    "last": "Lummis",
+    "state": "WY",
+    "billCount": 2,
+    "gop": 29,
+    "dem": 0,
+    "indie": 0
+  },
+  {
+    "first": "Roger",
+    "last": "Marshall",
+    "state": "KS",
+    "billCount": 1,
+    "gop": 9,
+    "dem": 0,
+    "indie": 0
+  },
+  {
+    "first": "Rick",
+    "last": "Scott",
+    "state": "FL",
+    "billCount": 23,
+    "gop": 44,
+    "dem": 4,
+    "indie": 0
+  },
+  {
+    "first": "Tommy",
+    "last": "Tuberville",
+    "state": "AL",
+    "billCount": 1,
+    "gop": 0,
+    "dem": 0,
+    "indie": 0
+  },
+  {
+    "first": "Marsha",
+    "last": "Blackburn",
+    "state": "TN",
+    "billCount": 8,
+    "gop": 53,
+    "dem": 2,
+    "indie": 0
+  },
+  {
+    "first": "Mike",
+    "last": "Braun",
+    "state": "IN",
+    "billCount": 14,
+    "gop": 48,
+    "dem": 2,
+    "indie": 0
+  },
+  {
+    "first": "Steve",
+    "last": "Daines",
+    "state": "MT",
+    "billCount": 12,
+    "gop": 73,
+    "dem": 6,
+    "indie": 0
+  },
+  {
+    "first": "Bill",
+    "last": "Hagerty",
+    "state": "TN",
+    "billCount": 4,
+    "gop": 31,
+    "dem": 1,
+    "indie": 0
+  }
+]

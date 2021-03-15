@@ -1,0 +1,3859 @@
+[
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Richard",
+          "last": "Hudson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/38/cosponsors?s=10&r=9&overview=closed#tabs",
+        "title": "H.R.38 - Concealed Carry Reciprocity Act",
+        "cosponsors": 179,
+        "dem": 3,
+        "gop": 176,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jim",
+          "last": "Hagedorn"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1411/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1411 - To amend the Small Business Act to allow certain ranchers and farmers categorized as partnerships to use an alternative calculation for a maximum loan amount under the paycheck protection program, and for other purposes.",
+        "cosponsors": 65,
+        "dem": 1,
+        "gop": 64,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jason",
+          "last": "Smith"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1381/cosponsors?s=7&r=3&overview=closed#tabs",
+        "title": "H.R.1381 - To amend the Internal Revenue Code of 1986 to make permanent the deduction for qualified business income.",
+        "cosponsors": 55,
+        "dem": 2,
+        "gop": 53,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "August",
+          "last": "Pfluger"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/186/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.Res.186 - Calling for the immediate release of Trevor Reed, a United States citizen who was unjustly found guilty and sentenced to nine years in a Russian prison.",
+        "cosponsors": 32,
+        "dem": 7,
+        "gop": 25,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Michael",
+          "last": "Burgess"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1330/cosponsors?s=8&r=2&overview=closed#tabs",
+        "title": "H.R.1330 - To repeal changes made by health care reform laws to the Medicare exception to the prohibition on certain physician referrals for hospitals, and for other purposes.",
+        "cosponsors": 21,
+        "dem": 3,
+        "gop": 18,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1476/cosponsors?s=5&r=2&overview=closed#tabs",
+        "title": "H.R.1476 - To authorize the Secretary of Veterans Affairs to make grants to State and local entities to carry out peer-to-peer mental health programs.",
+        "cosponsors": 19,
+        "dem": 4,
+        "gop": 15,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ronny",
+          "last": "Jackson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1692/cosponsors?s=6&r=1&overview=closed#tabs",
+        "title": "H.R.1692 - To extend and expand the Wildfire Hurricane Indemnity Program to cover losses due to high winds, polar vortexes, and hailstorms.",
+        "cosponsors": 13,
+        "dem": 1,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tim",
+          "last": "Burchett"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/970/cosponsors?s=4&r=4&overview=closed#tabs",
+        "title": "H.R.970 - Opportunity Zone Extension Act of 2021",
+        "cosponsors": 7,
+        "dem": 2,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jodey",
+          "last": "Arrington"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/858/cosponsors?s=2&r=5&overview=closed#tabs",
+        "title": "H.R.858 - Donna M. Doss Memorial Act of 2021",
+        "cosponsors": 6,
+        "dem": 1,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jodey",
+          "last": "Arrington"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1608/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1608 - To amend the Intermodal Surface Transportation Efficiency Act of 1991 with respect to future interstate designations, and for other purposes.",
+        "cosponsors": 5,
+        "dem": 1,
+        "gop": 4,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Mark",
+          "last": "Green"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1743/cosponsors?s=6&r=1&overview=closed#tabs",
+        "title": "H.R.1743 - To require annual reports on allied contributions to the common defense, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Carol",
+          "last": "Miller"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1063/cosponsors?s=8&r=2&overview=closed#tabs",
+        "title": "H.R.1063 - Helping Gig Economy Workers Act of 2021",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Virginia",
+          "last": "Foxx"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/701/cosponsors?s=1&r=1&overview=closed#tabs",
+        "title": "H.R.701 - Unfunded Mandates Accountability and Transparency Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Robert",
+          "last": "Wittman"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/184/cosponsors?s=2&r=12&overview=closed#tabs",
+        "title": "H.Res.184 - Expressing support for the designation of the week of March 28, 2021, through April 3, 2021, as National Small Business Workplace Solutions Week.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Cuellar, Henry [D-TX-28]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "John",
+          "last": "Rutherford"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1022 - PAWS Act of 2021",
+        "cosponsors": 19,
+        "dem": 9,
+        "gop": 10,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Daniel",
+          "last": "Meuser"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+        "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+        "cosponsors": 14,
+        "dem": 9,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Warren",
+          "last": "Davidson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/746/cosponsors?s=10&r=2&overview=closed#tabs",
+        "title": "H.R.746 - Ensuring Survivor Benefits during COVID–19 Act of 2021",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1302/cosponsors?s=8&r=2&overview=closed#tabs",
+        "title": "H.R.1302 - To amend title 10, United States Code, to authorize the Secretary of Defense to provide space-available travel on aircraft of the Department of Defense to children, surviving spouses, parents, and siblings of members of the Armed Forces who die while serving in the active military, naval, or air service.",
+        "cosponsors": 6,
+        "dem": 2,
+        "gop": 4,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Guy",
+          "last": "Reschenthaler"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1536/cosponsors?s=9&r=1&overview=closed#tabs",
+        "title": "H.R.1536 - To amend the Higher Education Act of 1965 to include all members of the Armed Forces in the definition of \"independent student\" for purposes of determining the eligibility of such members for Federal financial assistance, and for other purposes.",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Ryan, Tim [D-OH-13]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+        "cosponsors": 16,
+        "dem": 9,
+        "gop": 7,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Daniel",
+          "last": "Meuser"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+        "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+        "cosponsors": 14,
+        "dem": 9,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Steve",
+          "last": "Chabot"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/241/cosponsors?s=4&r=1&overview=closed#tabs",
+        "title": "H.R.241 - Tropical Forest and Coral Reef Conservation Reauthorization Act of 2021",
+        "cosponsors": 3,
+        "dem": 3,
+        "gop": 0,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "David",
+          "last": "Kustoff"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1303/cosponsors?s=9&r=2&overview=closed#tabs",
+        "title": "H.R.1303 - To amend the Controlled Substances Act to prohibit the knowing possession of a pill press mold with intent to manufacture in violation of such Act a counterfeit substance in schedule I or II in a capsule, tablet, and other form intended for distribution, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Spanberger, Abigail Davis [D-VA-7]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "John",
+          "last": "Rutherford"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1022 - PAWS Act of 2021",
+        "cosponsors": 19,
+        "dem": 9,
+        "gop": 10,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1476/cosponsors?s=5&r=2&overview=closed#tabs",
+        "title": "H.R.1476 - To authorize the Secretary of Veterans Affairs to make grants to State and local entities to carry out peer-to-peer mental health programs.",
+        "cosponsors": 19,
+        "dem": 4,
+        "gop": 15,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/492/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.492 - Supporting Veteran Families in Need Act",
+        "cosponsors": 11,
+        "dem": 8,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Elise",
+          "last": "Stefanik"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/489/cosponsors?s=3&r=7&overview=closed#tabs",
+        "title": "H.R.489 - Protecting Rural Access to Care Act",
+        "cosponsors": 2,
+        "dem": 1,
+        "gop": 1,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Glenn",
+          "last": "Thompson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1861/cosponsors?s=5&r=1&overview=closed#tabs",
+        "title": "H.R.1861 - To amend the Richard B. Russell National School Lunch Act to allow schools that participate in the school lunch program under such Act to serve whole milk.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Delgado, Antonio [D-NY-19]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1518/cosponsors?s=2&r=3&overview=closed#tabs",
+        "title": "H.R.1518 - To improve the national instant criminal background check system in order to search the National Data Exchange database when conducting criminal background checks.",
+        "cosponsors": 25,
+        "dem": 3,
+        "gop": 22,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "John",
+          "last": "Rutherford"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1022 - PAWS Act of 2021",
+        "cosponsors": 19,
+        "dem": 9,
+        "gop": 10,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+        "cosponsors": 16,
+        "dem": 9,
+        "gop": 7,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Daniel",
+          "last": "Meuser"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+        "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+        "cosponsors": 14,
+        "dem": 9,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Scott",
+          "last": "DesJarlais"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1737/cosponsors?s=3&r=1&overview=closed#tabs",
+        "title": "H.R.1737 - To designate the Mental Health Residential Rehabilitation Treatment Facility Expansion of the Department of Veterans Affairs Alvin C. York Medical Center in Murfreesboro, Tennessee, as the \"Sergeant John Toombs Residential Rehabilitation Treatment Facility\".",
+        "cosponsors": 9,
+        "dem": 2,
+        "gop": 7,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Cohen, Steve [D-TN-9]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Richard",
+          "last": "Hudson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/38/cosponsors?s=10&r=9&overview=closed#tabs",
+        "title": "H.R.38 - Concealed Carry Reciprocity Act",
+        "cosponsors": 179,
+        "dem": 3,
+        "gop": 176,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "August",
+          "last": "Pfluger"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/186/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.Res.186 - Calling for the immediate release of Trevor Reed, a United States citizen who was unjustly found guilty and sentenced to nine years in a Russian prison.",
+        "cosponsors": 32,
+        "dem": 7,
+        "gop": 25,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1518/cosponsors?s=2&r=3&overview=closed#tabs",
+        "title": "H.R.1518 - To improve the national instant criminal background check system in order to search the National Data Exchange database when conducting criminal background checks.",
+        "cosponsors": 25,
+        "dem": 3,
+        "gop": 22,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Michael",
+          "last": "Burgess"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1330/cosponsors?s=8&r=2&overview=closed#tabs",
+        "title": "H.R.1330 - To repeal changes made by health care reform laws to the Medicare exception to the prohibition on certain physician referrals for hospitals, and for other purposes.",
+        "cosponsors": 21,
+        "dem": 3,
+        "gop": 18,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "August",
+          "last": "Pfluger"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1311/cosponsors?s=5&r=1&overview=closed#tabs",
+        "title": "H.R.1311 - To amend the State Department Basic Authorities Act of 1956 to provide for energy security and diplomacy, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Gonzalez, Vicente [D-TX-15]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jason",
+          "last": "Smith"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1381/cosponsors?s=7&r=3&overview=closed#tabs",
+        "title": "H.R.1381 - To amend the Internal Revenue Code of 1986 to make permanent the deduction for qualified business income.",
+        "cosponsors": 55,
+        "dem": 2,
+        "gop": 53,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Brian",
+          "last": "Mast"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/261/cosponsors?s=3&r=2&overview=closed#tabs",
+        "title": "H.R.261 - Palestinian International Terrorism Support Prevention Act of 2021",
+        "cosponsors": 17,
+        "dem": 4,
+        "gop": 13,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "David",
+          "last": "Kustoff"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/819/cosponsors?s=9&r=3&overview=closed#tabs",
+        "title": "H.R.819 - Stop Corrupt Iranian Oligarchs and Entities Act",
+        "cosponsors": 8,
+        "dem": 1,
+        "gop": 7,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Warren",
+          "last": "Davidson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1628/cosponsors?s=10&r=1&overview=closed#tabs",
+        "title": "H.R.1628 - To amend the Securities Act of 1933 and the Securities Exchange Act of 1934 to exclude digital tokens from the definition of a security, to direct the Securities and Exchange Commission to enact certain regulatory changes regarding digital units secured through public key cryptography, to adjust taxation of virtual currencies held in individual retirement accounts, to create a tax exemption for exchanges of one virtual currency for another, to create a de minimis exemption from taxation for gains realized from the sale or exchange of virtual currency for other than cash, and for other purposes.",
+        "cosponsors": 4,
+        "dem": 2,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Gottheimer, Josh [D-NJ-5]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Warren",
+          "last": "Davidson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/746/cosponsors?s=10&r=2&overview=closed#tabs",
+        "title": "H.R.746 - Ensuring Survivor Benefits during COVID–19 Act of 2021",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Markwayne",
+          "last": "Mullin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1762/cosponsors?s=3&r=1&overview=closed#tabs",
+        "title": "H.R.1762 - To direct the Federal Trade Commission to submit to Congress a report on unfair or deceptive acts or practices targeted at Indian Tribes or members of Indian Tribes, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. O'Halleran, Tom [D-AZ-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Debbie",
+          "last": "Lesko"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/143/cosponsors?s=4&r=7&overview=closed#tabs",
+        "title": "H.Res.143 - Expressing the sense of the House of Representatives regarding United States policy recognizing the Semele Massacre of 1933.",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/797/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.797 - To designate the facility of the United States Postal Service located at 24930 Washington Avenue in Murrieta, California, as the \"Riverside County Iraq and Afghanistan Veterans Memorial Post Office\".",
+        "cosponsors": 7,
+        "dem": 5,
+        "gop": 2,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/866/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.R.866 - FISH Act",
+        "cosponsors": 6,
+        "dem": 1,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "David",
+          "last": "Rouzer"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/895/cosponsors?s=1&r=1&overview=closed#tabs",
+        "title": "H.R.895 - Emergency Assistance for Rural Water Systems Act of 2021",
+        "cosponsors": 4,
+        "dem": 3,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Costa, Jim [D-CA-16]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Richard",
+          "last": "Hudson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/38/cosponsors?s=10&r=9&overview=closed#tabs",
+        "title": "H.R.38 - Concealed Carry Reciprocity Act",
+        "cosponsors": 179,
+        "dem": 3,
+        "gop": 176,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jason",
+          "last": "Smith"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1712/cosponsors?s=7&r=2&overview=closed#tabs",
+        "title": "H.R.1712 - To amend the Internal Revenue Code of 1986 to repeal the estate and generation-skipping transfer taxes.",
+        "cosponsors": 121,
+        "dem": 1,
+        "gop": 120,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Carol",
+          "last": "Miller"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-concurrent-resolution/7/cosponsors?s=8&r=4&overview=closed#tabs",
+        "title": "H.Con.Res.7 - Authorizing the use of the rotunda of the Capitol to honor the last surviving Medal of Honor recipient of the Second World War upon death.",
+        "cosponsors": 20,
+        "dem": 2,
+        "gop": 18,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Bishop, Sanford D., Jr. [D-GA-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1273/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.R.1273 - To direct the Secretary of Veterans Affairs to study and report on the prevalence of cholangiocarcinoma in veterans who served in the Vietnam theater of operations during the Vietnam era, and for other purposes.",
+        "cosponsors": 5,
+        "dem": 2,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jack",
+          "last": "Bergman"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/905/cosponsors?s=10&r=3&overview=closed#tabs",
+        "title": "H.R.905 - Coronavirus Front-Line Responders Commemorative Coin Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Neguse, Joe [D-CO-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jim",
+          "last": "Hagedorn"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/98/cosponsors?s=2&r=2&overview=closed#tabs",
+        "title": "H.Res.98 - Recognizing the 100th anniversary of the Department of Minnesota Veterans of Foreign Wars.",
+        "cosponsors": 6,
+        "dem": 3,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Dan",
+          "last": "Bishop"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1482/cosponsors?s=3&r=2&overview=closed#tabs",
+        "title": "H.R.1482 - 504 Credit Risk Management Improvement Act of 2021",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Craig, Angie [D-MN-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Daniel",
+          "last": "Meuser"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+        "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+        "cosponsors": 14,
+        "dem": 9,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Sam",
+          "last": "Graves"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/539/cosponsors?s=3&r=1&overview=closed#tabs",
+        "title": "H.R.539 - Preventing Disaster Revictimization Act",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tim",
+          "last": "Burchett"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/970/cosponsors?s=4&r=4&overview=closed#tabs",
+        "title": "H.R.970 - Opportunity Zone Extension Act of 2021",
+        "cosponsors": 7,
+        "dem": 2,
+        "gop": 5,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Carbajal, Salud O. [D-CA-24]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1476/cosponsors?s=5&r=2&overview=closed#tabs",
+        "title": "H.R.1476 - To authorize the Secretary of Veterans Affairs to make grants to State and local entities to carry out peer-to-peer mental health programs.",
+        "cosponsors": 19,
+        "dem": 4,
+        "gop": 15,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Brian",
+          "last": "Mast"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/261/cosponsors?s=3&r=2&overview=closed#tabs",
+        "title": "H.R.261 - Palestinian International Terrorism Support Prevention Act of 2021",
+        "cosponsors": 17,
+        "dem": 4,
+        "gop": 13,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/492/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.492 - Supporting Veteran Families in Need Act",
+        "cosponsors": 11,
+        "dem": 8,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1273/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.R.1273 - To direct the Secretary of Veterans Affairs to study and report on the prevalence of cholangiocarcinoma in veterans who served in the Vietnam theater of operations during the Vietnam era, and for other purposes.",
+        "cosponsors": 5,
+        "dem": 2,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Suozzi, Thomas R. [D-NY-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Brian",
+          "last": "Mast"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/261/cosponsors?s=3&r=2&overview=closed#tabs",
+        "title": "H.R.261 - Palestinian International Terrorism Support Prevention Act of 2021",
+        "cosponsors": 17,
+        "dem": 4,
+        "gop": 13,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Daniel",
+          "last": "Meuser"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+        "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+        "cosponsors": 14,
+        "dem": 9,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Guy",
+          "last": "Reschenthaler"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1536/cosponsors?s=9&r=1&overview=closed#tabs",
+        "title": "H.R.1536 - To amend the Higher Education Act of 1965 to include all members of the Armed Forces in the definition of \"independent student\" for purposes of determining the eligibility of such members for Federal financial assistance, and for other purposes.",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Carol",
+          "last": "Miller"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1701/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1701 - To promote exports of goods and services from and facilitation of business investment in rural areas of the United States.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Trone, David J. [D-MD-6]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+        "cosponsors": 16,
+        "dem": 9,
+        "gop": 7,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1127/cosponsors?s=3&r=3&overview=closed#tabs",
+        "title": "H.R.1127 - To amend the Federal Election Campaign Act of 1971 to prohibit the acceptance by political committees of online contributions from certain unverified sources, and for other purposes.",
+        "cosponsors": 7,
+        "dem": 2,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Debbie",
+          "last": "Lesko"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/143/cosponsors?s=4&r=7&overview=closed#tabs",
+        "title": "H.Res.143 - Expressing the sense of the House of Representatives regarding United States policy recognizing the Semele Massacre of 1933.",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Steve",
+          "last": "Scalise"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1856/cosponsors?s=6&r=1&overview=closed#tabs",
+        "title": "H.R.1856 - To repeal certain provisions of the Communications Act of 1934, title 17 of the United States Code, and certain regulations, to allow for interim carriage of television broadcast signals, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Eshoo, Anna G. [D-CA-18]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tim",
+          "last": "Burchett"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1102/cosponsors?s=4&r=3&overview=closed#tabs",
+        "title": "H.R.1102 - To amend title 39, United States Code, to establish rules and procedures for the United States Postal Service regarding the use of centralized delivery of the mail with respect to residential housing units, and for other purposes.",
+        "cosponsors": 7,
+        "dem": 1,
+        "gop": 6,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/209/cosponsors?s=8&r=4&overview=closed#tabs",
+        "title": "H.R.209 - To designate the facility of the United States Postal Service located at 305 Highway 15 North in Pontotoc, Mississippi, as the \"Lance Corporal Marc Lucas Tucker Post Office Building\".",
+        "cosponsors": 3,
+        "dem": 1,
+        "gop": 2,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/208/cosponsors?s=8&r=5&overview=closed#tabs",
+        "title": "H.R.208 - To designate the facility of the United States Postal Service located at 500 West Main Street, Suite 102 in Tupelo, Mississippi, as the \"Colonel Carlyle 'Smitty' Harris Post Office\".",
+        "cosponsors": 3,
+        "dem": 1,
+        "gop": 2,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/207/cosponsors?s=8&r=6&overview=closed#tabs",
+        "title": "H.R.207 - To designate the facility of the United States Postal Service located at 215 1st Avenue in Amory, Mississippi, as the \"Command Sergeant Major Lawrence E. 'Rabbit' Kennedy Post Office Building\".",
+        "cosponsors": 3,
+        "dem": 1,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Thompson, Bennie G. [D-MS-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "John",
+          "last": "Rutherford"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1022 - PAWS Act of 2021",
+        "cosponsors": 19,
+        "dem": 9,
+        "gop": 10,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Kuster, Ann M. [D-NH-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Daniel",
+          "last": "Meuser"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+        "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+        "cosponsors": 14,
+        "dem": 9,
+        "gop": 5,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Axne, Cynthia [D-IA-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Blaine",
+          "last": "Luetkemeyer"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1508/cosponsors?s=4&r=2&overview=closed#tabs",
+        "title": "H.R.1508 - To require a guidance clarity statement on certain agency guidance, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Blaine",
+          "last": "Luetkemeyer"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1507/cosponsors?s=4&r=3&overview=closed#tabs",
+        "title": "H.R.1507 - To require each agency, in providing notice of a rule making, to include a link to a 100 word plain language summary of the proposed rule.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Golden, Jared F. [D-ME-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jim",
+          "last": "Hagedorn"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/98/cosponsors?s=2&r=2&overview=closed#tabs",
+        "title": "H.Res.98 - Recognizing the 100th anniversary of the Department of Minnesota Veterans of Foreign Wars.",
+        "cosponsors": 6,
+        "dem": 3,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. McCollum, Betty [D-MN-4]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Daniel",
+          "last": "Meuser"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+        "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+        "cosponsors": 14,
+        "dem": 9,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "David",
+          "last": "Rouzer"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/895/cosponsors?s=1&r=1&overview=closed#tabs",
+        "title": "H.R.895 - Emergency Assistance for Rural Water Systems Act of 2021",
+        "cosponsors": 4,
+        "dem": 3,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Pingree, Chellie [D-ME-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Daniel",
+          "last": "Meuser"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+        "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+        "cosponsors": 14,
+        "dem": 9,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/797/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.797 - To designate the facility of the United States Postal Service located at 24930 Washington Avenue in Murrieta, California, as the \"Riverside County Iraq and Afghanistan Veterans Memorial Post Office\".",
+        "cosponsors": 7,
+        "dem": 5,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Lieu, Ted [D-CA-33]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/492/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.492 - Supporting Veteran Families in Need Act",
+        "cosponsors": 11,
+        "dem": 8,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Welch, Peter [D-VT-At Large]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/492/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.492 - Supporting Veteran Families in Need Act",
+        "cosponsors": 11,
+        "dem": 8,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jim",
+          "last": "Hagedorn"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/98/cosponsors?s=2&r=2&overview=closed#tabs",
+        "title": "H.Res.98 - Recognizing the 100th anniversary of the Department of Minnesota Veterans of Foreign Wars.",
+        "cosponsors": 6,
+        "dem": 3,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Phillips, Dean [D-MN-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tim",
+          "last": "Burchett"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/915/cosponsors?s=4&r=5&overview=closed#tabs",
+        "title": "H.R.915 - RAFT Act of 2021",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Case, Ed [D-HI-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Jack",
+          "last": "Bergman"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/634/cosponsors?s=10&r=4&overview=closed#tabs",
+        "title": "H.R.634 - To designate the facility of the United States Postal Service located at 202 West Washington Street, Suite 1, in Marquette, Michigan, as the \"Senator Tom Casperson Post Office Building\".",
+        "cosponsors": 6,
+        "dem": 1,
+        "gop": 5,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Slotkin, Elissa [D-MI-8]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Debbie",
+          "last": "Lesko"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/143/cosponsors?s=4&r=7&overview=closed#tabs",
+        "title": "H.Res.143 - Expressing the sense of the House of Representatives regarding United States policy recognizing the Semele Massacre of 1933.",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Harder, Josh [D-CA-10]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+        "cosponsors": 16,
+        "dem": 9,
+        "gop": 7,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/492/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.492 - Supporting Veteran Families in Need Act",
+        "cosponsors": 11,
+        "dem": 8,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Moore, Gwen [D-WI-4]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "August",
+          "last": "Pfluger"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/186/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.Res.186 - Calling for the immediate release of Trevor Reed, a United States citizen who was unjustly found guilty and sentenced to nine years in a Russian prison.",
+        "cosponsors": 32,
+        "dem": 7,
+        "gop": 25,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+        "cosponsors": 16,
+        "dem": 9,
+        "gop": 7,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Billy",
+          "last": "Long"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1754/cosponsors?s=6&r=1&overview=closed#tabs",
+        "title": "H.R.1754 - To amend the Communications Act of 1934 to require the Federal Communications Commission to consider market entry barriers for socially disadvantaged individuals in the communications marketplace report under section 13 of such Act.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Veasey, Marc A. [D-TX-33]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Daniel",
+          "last": "Meuser"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1361/cosponsors?s=7&r=1&overview=closed#tabs",
+        "title": "H.R.1361 - To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to provide or assist in providing an additional vehicle adapted for operation by disabled individuals to certain eligible persons.",
+        "cosponsors": 14,
+        "dem": 9,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Bob",
+          "last": "Gibbs"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1821/cosponsors?s=9&r=1&overview=closed#tabs",
+        "title": "H.R.1821 - To amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.",
+        "cosponsors": 3,
+        "dem": 1,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Foster, Bill [D-IL-11]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/197/cosponsors?s=5&r=11&overview=closed#tabs",
+        "title": "H.R.197 - FACT Act",
+        "cosponsors": 9,
+        "dem": 5,
+        "gop": 4,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Greg",
+          "last": "Pence"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/947/cosponsors?s=10&r=3&overview=closed#tabs",
+        "title": "H.R.947 - RURAL Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Brownley, Julia [D-CA-26]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Michael",
+          "last": "Burgess"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1330/cosponsors?s=8&r=2&overview=closed#tabs",
+        "title": "H.R.1330 - To repeal changes made by health care reform laws to the Medicare exception to the prohibition on certain physician referrals for hospitals, and for other purposes.",
+        "cosponsors": 21,
+        "dem": 3,
+        "gop": 18,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1302/cosponsors?s=8&r=2&overview=closed#tabs",
+        "title": "H.R.1302 - To amend title 10, United States Code, to authorize the Secretary of Defense to provide space-available travel on aircraft of the Department of Defense to children, surviving spouses, parents, and siblings of members of the Armed Forces who die while serving in the active military, naval, or air service.",
+        "cosponsors": 6,
+        "dem": 2,
+        "gop": 4,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "David",
+          "last": "Rouzer"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/895/cosponsors?s=1&r=1&overview=closed#tabs",
+        "title": "H.R.895 - Emergency Assistance for Rural Water Systems Act of 2021",
+        "cosponsors": 4,
+        "dem": 3,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Vela, Filemon [D-TX-34]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "John",
+          "last": "Rutherford"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1022 - PAWS Act of 2021",
+        "cosponsors": 19,
+        "dem": 9,
+        "gop": 10,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/492/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.492 - Supporting Veteran Families in Need Act",
+        "cosponsors": 11,
+        "dem": 8,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/797/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.797 - To designate the facility of the United States Postal Service located at 24930 Washington Avenue in Murrieta, California, as the \"Riverside County Iraq and Afghanistan Veterans Memorial Post Office\".",
+        "cosponsors": 7,
+        "dem": 5,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Khanna, Ro [D-CA-17]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Brian",
+          "last": "Mast"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/261/cosponsors?s=3&r=2&overview=closed#tabs",
+        "title": "H.R.261 - Palestinian International Terrorism Support Prevention Act of 2021",
+        "cosponsors": 17,
+        "dem": 4,
+        "gop": 13,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/342/cosponsors?s=5&r=5&overview=closed#tabs",
+        "title": "H.R.342 - PFC Garfield M. Langhorn Memorial Semipostal Stamp to Benefit our Veterans Act of 2021",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Richard",
+          "last": "Hudson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/110/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.110 - Care for the Veteran Caregiver Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Rice, Kathleen M. [D-NY-4]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/797/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.797 - To designate the facility of the United States Postal Service located at 24930 Washington Avenue in Murrieta, California, as the \"Riverside County Iraq and Afghanistan Veterans Memorial Post Office\".",
+        "cosponsors": 7,
+        "dem": 5,
+        "gop": 2,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Scott",
+          "last": "Perry"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1656/cosponsors?s=7&r=2&overview=closed#tabs",
+        "title": "H.R.1656 - To direct the Secretary of Veterans Affairs and the Secretary of Defense to furnish stellate ganglion block to veterans and members of the Armed Forces with post-traumatic stress disorder, and for other purposes.",
+        "cosponsors": 6,
+        "dem": 1,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Doug",
+          "last": "LaMalfa"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/938/cosponsors?s=7&r=3&overview=closed#tabs",
+        "title": "H.R.938 - Wildland Firefighter Recognition Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. DeSaulnier, Mark [D-CA-11]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Brian",
+          "last": "Mast"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/565/cosponsors?s=3&r=1&overview=closed#tabs",
+        "title": "H.R.565 - South Florida Clean Coastal Waters Act of 2021",
+        "cosponsors": 6,
+        "dem": 1,
+        "gop": 5,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ted",
+          "last": "Budd"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/296/cosponsors?s=2&r=14&overview=closed#tabs",
+        "title": "H.R.296 - Financial Technology Protection Act",
+        "cosponsors": 4,
+        "dem": 2,
+        "gop": 2,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Warren",
+          "last": "Davidson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1628/cosponsors?s=10&r=1&overview=closed#tabs",
+        "title": "H.R.1628 - To amend the Securities Act of 1933 and the Securities Exchange Act of 1934 to exclude digital tokens from the definition of a security, to direct the Securities and Exchange Commission to enact certain regulatory changes regarding digital units secured through public key cryptography, to adjust taxation of virtual currencies held in individual retirement accounts, to create a tax exemption for exchanges of one virtual currency for another, to create a de minimis exemption from taxation for gains realized from the sale or exchange of virtual currency for other than cash, and for other purposes.",
+        "cosponsors": 4,
+        "dem": 2,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Soto, Darren [D-FL-9]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Sam",
+          "last": "Graves"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/539/cosponsors?s=3&r=1&overview=closed#tabs",
+        "title": "H.R.539 - Preventing Disaster Revictimization Act",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Garamendi, John [D-CA-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Mike",
+          "last": "Bost"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1798/cosponsors?s=10&r=1&overview=closed#tabs",
+        "title": "H.R.1798 - To provide for emergency grants for essential community facilities and temporary installations needed in response to COVID-19 pandemic in rural areas.",
+        "cosponsors": 2,
+        "dem": 1,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Luria, Elaine G. [D-VA-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Yarmuth, John A. [D-KY-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/197/cosponsors?s=5&r=11&overview=closed#tabs",
+        "title": "H.R.197 - FACT Act",
+        "cosponsors": 9,
+        "dem": 5,
+        "gop": 4,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Napolitano, Grace F. [D-CA-32]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Schrier, Kim [D-WA-8]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/197/cosponsors?s=5&r=11&overview=closed#tabs",
+        "title": "H.R.197 - FACT Act",
+        "cosponsors": 9,
+        "dem": 5,
+        "gop": 4,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Hastings, Alcee L. [D-FL-20]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+        "cosponsors": 16,
+        "dem": 9,
+        "gop": 7,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Kaptur, Marcy [D-OH-9]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1476/cosponsors?s=5&r=2&overview=closed#tabs",
+        "title": "H.R.1476 - To authorize the Secretary of Veterans Affairs to make grants to State and local entities to carry out peer-to-peer mental health programs.",
+        "cosponsors": 19,
+        "dem": 4,
+        "gop": 15,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Kilmer, Derek [D-WA-6]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "John",
+          "last": "Rutherford"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1022 - PAWS Act of 2021",
+        "cosponsors": 19,
+        "dem": 9,
+        "gop": 10,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Pappas, Chris [D-NH-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1518/cosponsors?s=2&r=3&overview=closed#tabs",
+        "title": "H.R.1518 - To improve the national instant criminal background check system in order to search the National Data Exchange database when conducting criminal background checks.",
+        "cosponsors": 25,
+        "dem": 3,
+        "gop": 22,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Kind, Ron [D-WI-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/492/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.492 - Supporting Veteran Families in Need Act",
+        "cosponsors": 11,
+        "dem": 8,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Grijalva, Raul M. [D-AZ-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Greg",
+          "last": "Pence"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1788/cosponsors?s=10&r=1&overview=closed#tabs",
+        "title": "H.R.1788 - To amend title XVII of the Energy Policy Act of 2005 relating to the eligibility for loan guarantees for projects relating to hydrogen production, delivery, infrastructure, storage, fuel cells, and end uses, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Carson, Andre [D-IN-7]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ralph",
+          "last": "Norman"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/582/cosponsors?s=5&r=2&overview=closed#tabs",
+        "title": "H.R.582 - To authorize the use of the rotunda of the Capitol for a memorial service in honor of United States Capitol Police Officer Brian Sicknick for his courage and sacrifice at the United States Capitol on January 6, 2021, and for other purposes.",
+        "cosponsors": 48,
+        "dem": 2,
+        "gop": 46,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Johnson, Henry C. \"Hank,\" Jr. [D-GA-4]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Elise",
+          "last": "Stefanik"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/161/cosponsors?s=3&r=8&overview=closed#tabs",
+        "title": "H.Res.161 - Commemorating the 30th anniversary of Operation Desert Storm's ground campaign and honoring the legacy of America's Desert Storm veterans and their example of strength and courage.",
+        "cosponsors": 42,
+        "dem": 1,
+        "gop": 41,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Crow, Jason [D-CO-6]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tim",
+          "last": "Burchett"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1487/cosponsors?s=4&r=2&overview=closed#tabs",
+        "title": "H.R.1487 - Microloan Transparency and Accountability Act of 2021",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Kim, Andy [D-NJ-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Houlahan, Chrissy [D-PA-6]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+        "cosponsors": 16,
+        "dem": 9,
+        "gop": 7,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Cleaver, Emanuel [D-MO-5]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "John",
+          "last": "Rutherford"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1022 - PAWS Act of 2021",
+        "cosponsors": 19,
+        "dem": 9,
+        "gop": 10,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Lawson, Al, Jr. [D-FL-5]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Carol",
+          "last": "Miller"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-concurrent-resolution/7/cosponsors?s=8&r=4&overview=closed#tabs",
+        "title": "H.Con.Res.7 - Authorizing the use of the rotunda of the Capitol to honor the last surviving Medal of Honor recipient of the Second World War upon death.",
+        "cosponsors": 20,
+        "dem": 2,
+        "gop": 18,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Cicilline, David N. [D-RI-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Richard",
+          "last": "Hudson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/108/cosponsors?s=10&r=8&overview=closed#tabs",
+        "title": "H.R.108 - National Medal of Honor Monument Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Panetta, Jimmy [D-CA-20]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "August",
+          "last": "Pfluger"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/186/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.Res.186 - Calling for the immediate release of Trevor Reed, a United States citizen who was unjustly found guilty and sentenced to nine years in a Russian prison.",
+        "cosponsors": 32,
+        "dem": 7,
+        "gop": 25,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Warren",
+          "last": "Davidson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/746/cosponsors?s=10&r=2&overview=closed#tabs",
+        "title": "H.R.746 - Ensuring Survivor Benefits during COVID–19 Act of 2021",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Kahele, Kaiali'i [D-HI-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lloyd",
+          "last": "Smucker"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1713/cosponsors?s=6&r=1&overview=closed#tabs",
+        "title": "H.R.1713 - To amend the Child Abuse Prevention and Treatment and Adoption Reform Act of 1978 to require a study and report on adoption outcomes and the factors affecting those outcomes, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Underwood, Lauren [D-IL-14]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Fred",
+          "last": "Keller"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/331/cosponsors?s=8&r=3&overview=closed#tabs",
+        "title": "H.R.331 - Nurses CARE Act of 2021",
+        "cosponsors": 2,
+        "dem": 1,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Wild, Susan [D-PA-7]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Blunt Rochester, Lisa [D-DE-At Large]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "John",
+          "last": "Rutherford"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1022 - PAWS Act of 2021",
+        "cosponsors": 19,
+        "dem": 9,
+        "gop": 10,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. McBath, Lucy [D-GA-6]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Gary",
+          "last": "Palmer"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/27/cosponsors?s=2&r=3&overview=closed#tabs",
+        "title": "H.R.27 - Settlement Agreement Information Database Act of 2021",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Connolly, Gerald E. [D-VA-11]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Sam",
+          "last": "Graves"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/539/cosponsors?s=3&r=1&overview=closed#tabs",
+        "title": "H.R.539 - Preventing Disaster Revictimization Act",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Thompson, Mike [D-CA-5]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1127/cosponsors?s=3&r=3&overview=closed#tabs",
+        "title": "H.R.1127 - To amend the Federal Election Campaign Act of 1971 to prohibit the acceptance by political committees of online contributions from certain unverified sources, and for other purposes.",
+        "cosponsors": 7,
+        "dem": 2,
+        "gop": 5,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Moulton, Seth [D-MA-6]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ted",
+          "last": "Budd"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1100/cosponsors?s=2&r=4&overview=closed#tabs",
+        "title": "H.R.1100 - To amend the Americans with Disabilities Act of 1990 to include consumer facing websites and mobile applications owned or operated by a private entity, to establish web accessibility compliance standards for such websites and mobile applications, and for other purposes.",
+        "cosponsors": 2,
+        "dem": 1,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Correa, J. Luis [D-CA-46]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+        "cosponsors": 16,
+        "dem": 9,
+        "gop": 7,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/197/cosponsors?s=5&r=11&overview=closed#tabs",
+        "title": "H.R.197 - FACT Act",
+        "cosponsors": 9,
+        "dem": 5,
+        "gop": 4,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Titus, Dina [D-NV-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Scott",
+          "last": "DesJarlais"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1737/cosponsors?s=3&r=1&overview=closed#tabs",
+        "title": "H.R.1737 - To designate the Mental Health Residential Rehabilitation Treatment Facility Expansion of the Department of Veterans Affairs Alvin C. York Medical Center in Murfreesboro, Tennessee, as the \"Sergeant John Toombs Residential Rehabilitation Treatment Facility\".",
+        "cosponsors": 9,
+        "dem": 2,
+        "gop": 7,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Gary",
+          "last": "Palmer"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/27/cosponsors?s=2&r=3&overview=closed#tabs",
+        "title": "H.R.27 - Settlement Agreement Information Database Act of 2021",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Cooper, Jim [D-TN-5]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Debbie",
+          "last": "Lesko"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/143/cosponsors?s=4&r=7&overview=closed#tabs",
+        "title": "H.Res.143 - Expressing the sense of the House of Representatives regarding United States policy recognizing the Semele Massacre of 1933.",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Steve",
+          "last": "Chabot"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/241/cosponsors?s=4&r=1&overview=closed#tabs",
+        "title": "H.R.241 - Tropical Forest and Coral Reef Conservation Reauthorization Act of 2021",
+        "cosponsors": 3,
+        "dem": 3,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Sherman, Brad [D-CA-30]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Mario",
+          "last": "Diaz-Balart"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/750/cosponsors?s=9&r=2&overview=closed#tabs",
+        "title": "H.R.750 - Luke and Alex School Safety Act of 2021",
+        "cosponsors": 5,
+        "dem": 2,
+        "gop": 3,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1036/cosponsors?s=10&r=3&overview=closed#tabs",
+        "title": "H.R.1036 - Bassam Barabandi Rewards for Justice Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Deutch, Theodore E. [D-FL-22]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Mario",
+          "last": "Diaz-Balart"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/462/cosponsors?s=9&r=3&overview=closed#tabs",
+        "title": "H.R.462 - To establish new ZIP codes for certain communities, and for other purposes.",
+        "cosponsors": 4,
+        "dem": 2,
+        "gop": 2,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/342/cosponsors?s=5&r=5&overview=closed#tabs",
+        "title": "H.R.342 - PFC Garfield M. Langhorn Memorial Semipostal Stamp to Benefit our Veterans Act of 2021",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Meng, Grace [D-NY-6]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "David",
+          "last": "Schweikert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/318/cosponsors?s=9&r=2&overview=closed#tabs",
+        "title": "H.R.318 - Safe Testing at Residence Telehealth Act of 2021",
+        "cosponsors": 2,
+        "dem": 1,
+        "gop": 1,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Tim",
+          "last": "Walberg"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1781/cosponsors?s=9&r=1&overview=closed#tabs",
+        "title": "H.R.1781 - To amend the Children's Online Privacy Protection Act of 1998.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Rush, Bobby L. [D-IL-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Robert",
+          "last": "Wittman"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1668/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1668 - To extend the authority for agencies to reimburse paid leave provided by Federal contractors to certain employees or subcontractors unable to perform work due to the COVID-19 pandemic.",
+        "cosponsors": 2,
+        "dem": 1,
+        "gop": 1,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Richard",
+          "last": "Hudson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/109/cosponsors?s=10&r=7&overview=closed#tabs",
+        "title": "H.R.109 - Department of Veterans Affairs Electronic Health Record Advisory Committee Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Ruppersberger, C. A. Dutch [D-MD-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Clay",
+          "last": "Higgins"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1299/cosponsors?s=7&r=2&overview=closed#tabs",
+        "title": "H.R.1299 - To permit the Secretary of Transportation to approve Federal participation in the replacement or rehabilitation of certain bridges, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      },
+      {
+        "sponsor": {
+          "first": "Clay",
+          "last": "Higgins"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1236/cosponsors?s=7&r=3&overview=closed#tabs",
+        "title": "H.R.1236 - To amend the Federal Food, Drug, and Cosmetic Act to ensure the safety of imported seafood.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Krishnamoorthi, Raja [D-IL-8]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Larsen, Rick [D-WA-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Haaland, Debra A. [D-NM-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Brown, Anthony G. [D-MD-4]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Escobar, Veronica [D-TX-16]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Courtney, Joe [D-CT-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Omar, Ilhan [D-MN-5]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Tonko, Paul [D-NY-20]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Himes, James A. [D-CT-4]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Pallone, Frank, Jr. [D-NJ-6]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Pocan, Mark [D-WI-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Perlmutter, Ed [D-CO-7]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. DeLauro, Rosa L. [D-CT-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Trent",
+          "last": "Kelly"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1695/cosponsors?s=8&r=1&overview=closed#tabs",
+        "title": "H.R.1695 - To amend title 10, United States Code, to remove the prohibition on eligibility for TRICARE Reserve Select of members of the reserve components of the Armed Forces who are eligible to enroll in a health benefits plan under chapter 89 of title 5, United States Code.",
+        "cosponsors": 92,
+        "dem": 47,
+        "gop": 45,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Larson, John B. [D-CT-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Langevin, James R. [D-RI-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Hayes, Jahana [D-CT-5]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tracey",
+          "last": "Mann"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/150/cosponsors?s=5&r=9&overview=closed#tabs",
+        "title": "H.Res.150 - Expressing support for the designation of February 20 to February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA (FFA) Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Alumni and Supporters.",
+        "cosponsors": 79,
+        "dem": 19,
+        "gop": 60,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Bustos, Cheri [D-IL-17]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Ralph",
+          "last": "Norman"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/582/cosponsors?s=5&r=2&overview=closed#tabs",
+        "title": "H.R.582 - To authorize the use of the rotunda of the Capitol for a memorial service in honor of United States Capitol Police Officer Brian Sicknick for his courage and sacrifice at the United States Capitol on January 6, 2021, and for other purposes.",
+        "cosponsors": 48,
+        "dem": 2,
+        "gop": 46,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Jackson Lee, Sheila [D-TX-18]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "August",
+          "last": "Pfluger"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/186/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.Res.186 - Calling for the immediate release of Trevor Reed, a United States citizen who was unjustly found guilty and sentenced to nine years in a Russian prison.",
+        "cosponsors": 32,
+        "dem": 7,
+        "gop": 25,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Green, Al [D-TX-9]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "August",
+          "last": "Pfluger"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/186/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.Res.186 - Calling for the immediate release of Trevor Reed, a United States citizen who was unjustly found guilty and sentenced to nine years in a Russian prison.",
+        "cosponsors": 32,
+        "dem": 7,
+        "gop": 25,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Allred, Colin Z. [D-TX-32]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "August",
+          "last": "Pfluger"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-resolution/186/cosponsors?s=5&r=3&overview=closed#tabs",
+        "title": "H.Res.186 - Calling for the immediate release of Trevor Reed, a United States citizen who was unjustly found guilty and sentenced to nine years in a Russian prison.",
+        "cosponsors": 32,
+        "dem": 7,
+        "gop": 25,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Castro, Joaquin [D-TX-20]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Cartwright, Matt [D-PA-8]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Butterfield, G. K. [D-NC-1]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Schakowsky, Janice D. [D-IL-9]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1587/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1587 - To provide certain coverage of audiologist services under the Medicare program, and for other purposes.",
+        "cosponsors": 27,
+        "dem": 15,
+        "gop": 12,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Chu, Judy [D-CA-27]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Lamb, Conor [D-PA-17]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Paul",
+          "last": "Gosar"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/855/cosponsors?s=3&r=4&overview=closed#tabs",
+        "title": "H.R.855 - VETS Safe Travel Act",
+        "cosponsors": 26,
+        "dem": 10,
+        "gop": 16,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. San Nicolas, Michael F. Q. [D-GU-At Large]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "John",
+          "last": "Rutherford"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1022/cosponsors?s=2&r=1&overview=closed#tabs",
+        "title": "H.R.1022 - PAWS Act of 2021",
+        "cosponsors": 19,
+        "dem": 9,
+        "gop": 10,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Strickland, Marilyn [D-WA-10]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Joe",
+          "last": "Wilson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/496/cosponsors?s=10&r=6&overview=closed#tabs",
+        "title": "H.R.496 - Ukraine Religious Freedom Support Act",
+        "cosponsors": 16,
+        "dem": 9,
+        "gop": 7,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Quigley, Mike [D-IL-5]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Lee",
+          "last": "Zeldin"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/492/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.492 - Supporting Veteran Families in Need Act",
+        "cosponsors": 11,
+        "dem": 8,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Nadler, Jerrold [D-NY-10]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/197/cosponsors?s=5&r=11&overview=closed#tabs",
+        "title": "H.R.197 - FACT Act",
+        "cosponsors": 9,
+        "dem": 5,
+        "gop": 4,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Boyle, Brendan F. [D-PA-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/797/cosponsors?s=5&r=4&overview=closed#tabs",
+        "title": "H.R.797 - To designate the facility of the United States Postal Service located at 24930 Washington Avenue in Murrieta, California, as the \"Riverside County Iraq and Afghanistan Veterans Memorial Post Office\".",
+        "cosponsors": 7,
+        "dem": 5,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Lowenthal, Alan S. [D-CA-47]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Sam",
+          "last": "Graves"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/539/cosponsors?s=3&r=1&overview=closed#tabs",
+        "title": "H.R.539 - Preventing Disaster Revictimization Act",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Huffman, Jared [D-CA-2]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Warren",
+          "last": "Davidson"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/746/cosponsors?s=10&r=2&overview=closed#tabs",
+        "title": "H.R.746 - Ensuring Survivor Benefits during COVID–19 Act of 2021",
+        "cosponsors": 7,
+        "dem": 4,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Trahan, Lori [D-MA-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tom",
+          "last": "Rice"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/264/cosponsors?s=2&r=4&overview=closed#tabs",
+        "title": "H.R.264 - To designate the facility of the United States Postal Service located at 1101 Charlotte Street in Georgetown, South Carolina, as the \"Joseph Hayne Rainey Memorial Post Office Building\".",
+        "cosponsors": 6,
+        "dem": 1,
+        "gop": 5,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Clyburn, James E. [D-SC-6]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Mario",
+          "last": "Diaz-Balart"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/750/cosponsors?s=9&r=2&overview=closed#tabs",
+        "title": "H.R.750 - Luke and Alex School Safety Act of 2021",
+        "cosponsors": 5,
+        "dem": 2,
+        "gop": 3,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Murphy, Stephanie N. [D-FL-7]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Mario",
+          "last": "Diaz-Balart"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/462/cosponsors?s=9&r=3&overview=closed#tabs",
+        "title": "H.R.462 - To establish new ZIP codes for certain communities, and for other purposes.",
+        "cosponsors": 4,
+        "dem": 2,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Demings, Val Butler [D-FL-10]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Ted",
+          "last": "Budd"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/296/cosponsors?s=2&r=14&overview=closed#tabs",
+        "title": "H.R.296 - Financial Technology Protection Act",
+        "cosponsors": 4,
+        "dem": 2,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Lynch, Stephen F. [D-MA-8]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Debbie",
+          "last": "Lesko"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/765/cosponsors?s=4&r=3&overview=closed#tabs",
+        "title": "H.R.765 - VA Medical Center Facility Transparency Act",
+        "cosponsors": 3,
+        "dem": 1,
+        "gop": 2,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Lee, Susie [D-NV-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Dan",
+          "last": "Bishop"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1482/cosponsors?s=3&r=2&overview=closed#tabs",
+        "title": "H.R.1482 - 504 Credit Risk Management Improvement Act of 2021",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Davids, Sharice [D-KS-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tim",
+          "last": "Burchett"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1487/cosponsors?s=4&r=2&overview=closed#tabs",
+        "title": "H.R.1487 - Microloan Transparency and Accountability Act of 2021",
+        "cosponsors": 3,
+        "dem": 2,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Newman, Marie [D-IL-3]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Steve",
+          "last": "Chabot"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/241/cosponsors?s=4&r=1&overview=closed#tabs",
+        "title": "H.R.241 - Tropical Forest and Coral Reef Conservation Reauthorization Act of 2021",
+        "cosponsors": 3,
+        "dem": 3,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Sires, Albio [D-NJ-8]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Tim",
+          "last": "Walberg"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1032/cosponsors?s=9&r=4&overview=closed#tabs",
+        "title": "H.R.1032 - Telecommunications Skilled Workforce Act",
+        "cosponsors": 2,
+        "dem": 1,
+        "gop": 1,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Clarke, Yvette D. [D-NY-9]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Ken",
+          "last": "Calvert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/972/cosponsors?s=5&r=1&overview=closed#tabs",
+        "title": "H.R.972 - Wildlife Refuge Conservation and Recreation for the Community Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Takano, Mark [D-CA-41]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Bill",
+          "last": "Posey"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1369/cosponsors?s=10&r=1&overview=closed#tabs",
+        "title": "H.R.1369 - To amend the Internal Revenue Code of 1986 to provide bonus depreciation for certain space launch expenditures, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Crist, Charlie [D-FL-13]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Frank",
+          "last": "Lucas"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/210/cosponsors?s=2&r=2&overview=closed#tabs",
+        "title": "H.R.210 - Rural STEM Education Research Act",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Johnson, Eddie Bernice [D-TX-30]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "Scott",
+          "last": "Perry"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/1586/cosponsors?s=7&r=3&overview=closed#tabs",
+        "title": "H.R.1586 - To amend the Higher Education Act of 1965 to direct the Secretary of Education to carry out a program under which an institution of higher education may elect to cosign Federal student loans made to students attending the institution, and for other purposes.",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Del. San Nicolas, Michael F. Q. [D-GU-At Large]"
+  },
+  {
+    "laws": [
+      {
+        "sponsor": {
+          "first": "David",
+          "last": "Schweikert"
+        },
+        "billLink": "https://www.congress.gov/bill/117th-congress/house-bill/283/cosponsors?s=9&r=4&overview=closed#tabs",
+        "title": "H.R.283 - Crowd Sourcing of Environmental Data Act of 2021",
+        "cosponsors": 1,
+        "dem": 1,
+        "gop": 0,
+        "indie": 0
+      }
+    ],
+    "name": "Rep. Cardenas, Tony [D-CA-29]"
+  }
+]

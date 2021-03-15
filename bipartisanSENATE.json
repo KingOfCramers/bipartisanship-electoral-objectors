@@ -1,0 +1,230 @@
+[
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/171/cosponsors?s=3&r=4&overview=closed#tabs",
+    "title": "S.171 - Keystone XL Pipeline Construction and Jobs Preservation Act",
+    "cosponsors": [
+      "Sen. Hoeven, John [R-ND]*",
+      "Sen. Cramer, Kevin [R-ND]*",
+      "Sen. Barrasso, John [R-WY]*",
+      "Sen. Lummis, Cynthia M. [R-WY]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Crapo, Mike [R-ID]*",
+      "Sen. Moran, Jerry [R-KS]*",
+      "Sen. Marshall, Roger W. [R-KS]*",
+      "Sen. Sullivan, Dan  [R-AK]*",
+      "Sen. Cassidy, Bill [R-LA]*",
+      "Sen. Inhofe, James M. [R-OK]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Cruz, Ted [R-TX]*",
+      "Sen. Kennedy, John [R-LA]*",
+      "Sen. Boozman, John [R-AR]",
+      "Sen. Hyde-Smith, Cindy [R-MS]",
+      "Sen. Tester, Jon [D-MT]"
+    ],
+    "dem": 1,
+    "gop": 16,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "James",
+      "last": "Lankford"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/618/cosponsors?s=4&r=1&overview=closed#tabs",
+    "title": "S.618 - A bill to amend the Internal Revenue Code of 1986 to modify and extend the deduction for charitable contributions for individuals not itemizing deductions.",
+    "cosponsors": [
+      "Sen. Coons, Christopher A. [D-DE]*",
+      "Sen. Lee, Mike [R-UT]*",
+      "Sen. Shaheen, Jeanne [D-NH]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Klobuchar, Amy [D-MN]*",
+      "Sen. Collins, Susan M. [R-ME]*",
+      "Sen. Cortez Masto, Catherine  [D-NV]*"
+    ],
+    "dem": 4,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/145/cosponsors?s=3&r=6&overview=closed#tabs",
+    "title": "S.145 - USPS Fairness Act",
+    "cosponsors": [
+      "Sen. Schatz, Brian [D-HI]*",
+      "Sen. Cramer, Kevin [R-ND]",
+      "Sen. Hoeven, John [R-ND]",
+      "Sen. Cardin, Benjamin L. [D-MD]",
+      "Sen. Van Hollen, Chris [D-MD]",
+      "Sen. Feinstein, Dianne [D-CA]",
+      "Sen. Murkowski, Lisa [R-AK]"
+    ],
+    "dem": 4,
+    "gop": 3,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/73/cosponsors?s=9&r=10&overview=closed#tabs",
+    "title": "S.73 - American Security Drone Act of 2021",
+    "cosponsors": [
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Blackburn, Marsha [R-TN]*",
+      "Sen. Blumenthal, Richard [D-CT]*",
+      "Sen. Murphy, Christopher [D-CT]*",
+      "Sen. Hawley, Josh  [R-MO]*"
+    ],
+    "dem": 2,
+    "gop": 4,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "James",
+      "last": "Lankford"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/522/cosponsors?s=4&r=3&overview=closed#tabs",
+    "title": "S.522 - A bill to require each agency, in providing notice of a rule making, to include a link to a 100 word plain language summary of the proposed rule.",
+    "cosponsors": [
+      "Sen. Sinema, Kyrsten [D-AZ]*",
+      "Sen. Risch, James E. [R-ID]*",
+      "Sen. Johnson, Ron [R-WI]*",
+      "Sen. Peters, Gary C. [D-MI]"
+    ],
+    "dem": 2,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Marsha",
+      "last": "Blackburn"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/365/cosponsors?s=1&r=2&overview=closed#tabs",
+    "title": "S.365 - END Child Exploitation Act",
+    "cosponsors": [
+      "Sen. Cortez Masto, Catherine  [D-NV]*",
+      "Sen. Hassan, Margaret Wood [D-NH]*",
+      "Sen. Hawley, Josh  [R-MO]*",
+      "Sen. Tillis, Thom [R-NC]"
+    ],
+    "dem": 2,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ron",
+      "last": "Johnson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/114/cosponsors?s=2&r=3&overview=closed#tabs",
+    "title": "S.114 - SOAR Permanent Authorization Act",
+    "cosponsors": [
+      "Sen. Feinstein, Dianne [D-CA]*",
+      "Sen. Scott, Tim [R-SC]*",
+      "Sen. Braun, Mike  [R-IN]*"
+    ],
+    "dem": 1,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/688/cosponsors?s=9&r=1&overview=closed#tabs",
+    "title": "S.688 - A bill to prohibit contracting with persons that have business operations with the Maduro regime, and for other purposes.",
+    "cosponsors": [
+      "Sen. Rubio, Marco [R-FL]*",
+      "Sen. Tillis, Thom [R-NC]*",
+      "Sen. Rosen, Jacky [D-NV]*"
+    ],
+    "dem": 1,
+    "gop": 2,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Mike",
+      "last": "Braun"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/579/cosponsors?s=2&r=2&overview=closed#tabs",
+    "title": "S.579 - A bill to make a technical correction to the ALS Disability Insurance Access Act of 2019.",
+    "cosponsors": [
+      "Sen. Coons, Christopher A. [D-DE]*",
+      "Sen. Cotton, Tom [R-AR]*",
+      "Sen. Whitehouse, Sheldon [D-RI]*"
+    ],
+    "dem": 2,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Ron",
+      "last": "Johnson"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/367/cosponsors?s=2&r=2&overview=closed#tabs",
+    "title": "S.367 - A bill to authorize the President to award the Medal of Honor to James Megellas, formerly of Fond du Lac, Wisconsin, and most recently of Colleyville, Texas, before his death on April 2, 2020, for acts of valor on January 28, 1945, during the Battle of the Bulge in World War II.",
+    "cosponsors": [
+      "Sen. Cornyn, John [R-TX]*",
+      "Sen. Baldwin, Tammy [D-WI]*"
+    ],
+    "dem": 1,
+    "gop": 1,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Rick",
+      "last": "Scott"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/343/cosponsors?s=9&r=5&overview=closed#tabs",
+    "title": "S.343 - Fly Safe Canine COVID Detection Act of 2021",
+    "cosponsors": [
+      "Sen. Sinema, Kyrsten [D-AZ]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Steve",
+      "last": "Daines"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-bill/156/cosponsors?s=3&r=5&overview=closed#tabs",
+    "title": "S.156 - TRICARE Retiree Protection Act",
+    "cosponsors": [
+      "Sen. Manchin, Joe, III [D-WV]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  },
+  {
+    "sponsor": {
+      "first": "Bill",
+      "last": "Hagerty"
+    },
+    "billLink": "https://www.congress.gov/bill/117th-congress/senate-resolution/107/cosponsors?s=4&r=3&overview=closed#tabs",
+    "title": "S.Res.107 - A resolution expressing the sense of the Senate relating to the 10th anniversary of the March 11, 2011, earthquake and tsunami in Japan.",
+    "cosponsors": [
+      "Sen. Coons, Christopher A. [D-DE]*"
+    ],
+    "dem": 1,
+    "gop": 0,
+    "indie": 0
+  }
+]
